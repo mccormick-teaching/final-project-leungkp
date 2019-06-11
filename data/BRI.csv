@@ -1,0 +1,1605 @@
+id,year,investor,soe,country,region,quantity,sector,bri
+1750,2017,3SBio,0,Canada,North America,290,Health,0
+1662,2017,Aier Eye Hospital,0,Spain,Europe,160,Health,0
+1007,2013,Alibaba,0,USA,USA,110,Other,0
+1060,2014,Alibaba,0,India,West Asia,200,Technology,0
+1090,2014,Alibaba,0,Singapore,East Asia,250,Logistics,1
+1071,2014,Alibaba,0,USA,USA,220,Technology,0
+1322,2015,Alibaba,0,India,West Asia,680,Technology,0
+1296,2015,Alibaba,0,Singapore,East Asia,150,Logistics,1
+1228,2015,Alibaba,0,USA,USA,200,Entertainment,0
+1435,2016,Alibaba,0,Singapore,East Asia,1000,Other,1
+1405,2016,Alibaba,0,USA,USA,160,Entertainment,0
+1647,2017,Alibaba,0,India,West Asia,180,Other,0
+1737,2017,Alibaba,0,Indonesia,East Asia,500,Other,1
+1708,2017,Alibaba,0,Singapore,East Asia,1000,Other,1
+1630,2017,Alibaba,0,South Korea,East Asia,200,Other,1
+1768,2017,Alibaba,0,USA,USA,100,Entertainment,0
+1927,2018,Alibaba,0,Brazil,South America,100,Finance,0
+1928,2018,Alibaba,0,India,West Asia,210,Agriculture,0
+1831,2018,Alibaba,0,Pakistan,West Asia,180,Finance,1
+1920,2018,Alibaba,0,Russian Federation,West Asia,480,Technology,1
+1836,2018,Alibaba,0,Singapore,East Asia,2000,Other,1
+1843,2018,Alibaba,0,Thailand,East Asia,320,Other,1
+1154,2014,Anbang,0,Belgium,Europe,310,Finance,0
+1158,2014,Anbang,0,USA,USA,1950,Tourism,0
+1212,2015,Anbang,0,Netherlands,Europe,1670,Finance,0
+1211,2015,Anbang,0,South Korea,East Asia,1030,Finance,1
+1215,2015,Anbang,0,USA,USA,400,Real estate,0
+1439,2016,Anbang,0,Canada,North America,510,Real estate,0
+1558,2016,Anbang,0,Netherlands,Europe,560,Real estate,0
+1582,2016,Anbang,0,South Korea,East Asia,260,Finance,1
+1423,2016,Anbang,0,USA,USA,5720,Tourism,0
+1632,2017,Anbang,0,Canada,North America,510,Real estate,0
+1304,2015,Anhui Conch,0,Russian Federation,West Asia,310,Real estate,1
+1487,2016,Anhui Conch,0,Cambodia,East Asia,120,Real estate,1
+1024,2013,Anhui Foreign Economic Construction,0,Mozambique,Sub-Saharan Africa,500,Metals,1
+1055,2014,Anhui Landing,0,South Korea,East Asia,1100,Tourism,1
+1587,2016,Anhui Landing,0,South Korea,East Asia,420,Tourism,1
+1835,2018,Anhui Shanying,0,Finland,Europe,610,Other,0
+1907,2018,Anhui Shanying,0,USA,USA,170,Other,0
+1219,2015,Anhui Zhongding,0,Germany,Europe,110,Transport,0
+1586,2016,Anhui Zhongding,0,Germany,Europe,200,Transport,0
+1945,2018,Anta Sports,0,Finland,Europe,5050,Entertainment,0
+2204,2015,Antonoil,0,Iraq,Arab Middle East and North Africa,140,Energy,1
+1026,2013,AVIC,1,Germany,Europe,260,Real estate,0
+1095,2014,AVIC,1,Germany,Europe,640,Transport,0
+1354,2015,AVIC,1,Britain,Europe,260,Transport,0
+1274,2015,AVIC,1,USA,USA,800,Transport,0
+2237,2015,AVIC,1,Zambia,Sub-Saharan Africa,320,Real estate,1
+1449,2016,AVIC,1,Spain,Europe,120,Transport,0
+1667,2017,AVIC,1,Canada,North America,110,Transport,0
+2626,2017,AVIC,1,Egypt,Arab Middle East and North Africa,1240,Transport,1
+2627,2017,AVIC,1,Zambia,Sub-Saharan Africa,400,Transport,1
+1891,2018,AVIC,1,Britain,Europe,2440,Technology,0
+1905,2018,AVIC,1,Ireland,Europe,130,Finance,0
+1637,2017,AVIC and Jiangxi Water,1,Kenya,Sub-Saharan Africa,310,Real estate,1
+1188,2014,Baidu,0,USA,USA,600,Transport,0
+1052,2014,Bank of China,1,Singapore,East Asia,160,Logistics,1
+1187,2014,Bank of China,1,USA,USA,600,Real estate,0
+1550,2016,Bank of China,1,Australia,Australia,100,Finance,0
+1577,2016,Bank of China,1,Democratic Republic of the Congo,Sub-Saharan Africa,1140,Metals,0
+1464,2016,Bank of China,1,Turkey,West Asia,110,Finance,1
+1712,2017,Bank of China,1,USA,USA,230,Health,0
+1112,2014,Baosteel,1,Australia,Australia,860,Metals,0
+1944,2018,BBK Electronics,0,India,West Asia,560,Technology,0
+1175,2014,Beijing Auto,,India,West Asia,300,Transport,0
+1345,2015,Beijing Auto,,Germany,Europe,480,Transport,0
+1467,2016,Beijing Auto,,South Africa,Sub-Saharan Africa,770,Transport,1
+1887,2018,Beijing Auto,,Germany,Europe,710,Transport,0
+1067,2014,Beijing Capital,,New Zealand,East Asia,800,Utilities,1
+1054,2014,Beijing Capital,,USA,USA,100,Real estate,0
+1658,2017,Beijing Capital,,Britain,Europe,120,Real estate,0
+1953,2013,Beijing Construction Engineering,,Britain,Europe,220,Real estate,0
+2239,2015,Beijing Construction Engineering,,Britain,Europe,200,Transport,0
+2837,2018,Beijing Construction Engineering,,Britain,Europe,120,Real estate,0
+1393,2016,Beijing Enterprises,,Germany,Europe,1590,Energy,0
+2409,2016,Beijing Enterprises,,Malaysia,East Asia,160,Utilities,1
+1569,2016,Beijing Enterprises,,Russian Federation,West Asia,1080,Energy,1
+1845,2018,Beijing Enterprises,,Australia,Australia,210,Utilities,0
+1680,2017,Beijing Kunlun,,USA,USA,150,Entertainment,0
+1545,2016,Beijing Miteno,,USA,USA,430,Other,0
+2068,2014,Beijing Urban Construction,,Kyrgyzstan,West Asia,990,Transport,1
+2022,2014,Beijing Urban Construction,,Malaysia,East Asia,1300,Transport,1
+2090,2014,Beijing Urban Construction,,Maldives,West Asia,400,Transport,1
+2353,2016,Beijing Urban Construction,,Bolivia,South America,300,Transport,1
+2518,2017,Beijing Urban Construction,,Barbados,North America,200,Tourism,0
+1691,2017,Beijing Zhonghuan,,Germany,Europe,1240,Transport,0
+1316,2015,Biostime,,Australia,Australia,990,Agriculture,0
+1184,2014,BlueFocus Communications,,Canada,North America,180,Other,0
+1338,2015,Bona Film,,USA,USA,240,Entertainment,0
+1084,2014,Bright Foods,,Israel,Europe,1560,Agriculture,1
+1318,2015,Bright Foods,,New Zealand,East Asia,200,Agriculture,1
+1314,2015,Bright Foods,,Spain,Europe,120,Agriculture,0
+1814,2018,By-Health,,Australia,Australia,550,Health,0
+1248,2015,BYD,,Brazil,South America,100,Energy,0
+1677,2017,BYD,,Argentina,South America,100,Transport,0
+2775,2018,BYD,,Brazil,South America,690,Transport,0
+1901,2018,BYD,,USA,USA,100,Transport,0
+1327,2015,C Banner International,,Britain,Europe,150,Other,0
+1815,2018,Caixin,,Britain,Europe,180,Finance,0
+1753,2017,Canyon Bridge,,Britain,Europe,740,Technology,0
+1646,2017,CC Land,,Britain,Europe,1410,Real estate,0
+1879,2018,CDH,,Australia,Australia,1430,Health,0
+1265,2015,CEFC,,Czech Republic,Europe,100,Finance,1
+1542,2016,CEFC,,Chad,Sub-Saharan Africa,110,Energy,1
+1572,2016,CEFC,,Czech Republic,Europe,310,Real estate,1
+1767,2017,CEFC,,Russian Federation,West Asia,500,Energy,1
+1629,2017,CEFC/Norinco,,UAE,Arab Middle East and North Africa,890,Energy,1
+1581,2016,Changsheng China,,Australia,Australia,120,Real estate,0
+1501,2016,Chem China,,Israel,Europe,1400,Agriculture,1
+1163,2014,ChemChina,,Norway,Europe,640,Energy,0
+1275,2015,ChemChina,,Italy,Europe,7860,Transport,0
+1376,2015,ChemChina,,Switzerland,Europe,360,Energy,0
+1383,2016,ChemChina,,Germany,Europe,1000,Real estate,0
+1556,2016,Chengdu Techcent,,Germany,Europe,340,Other,0
+1394,2016,Chengdu Techcent Environment,,Germany,Europe,220,Utilities,0
+1537,2016,Chengdu Tianqi,,Australia,Australia,310,Metals,0
+1538,2016,Chengdu Tianqi,,Chile,South America,210,Metals,1
+1870,2018,Chengdu Tianqi,,Chile,South America,4070,Metals,1
+1888,2018,Chifeng Jilong,,Laos,East Asia,280,Metals,1
+1956,2013,China Aerospace Science and Technology,,Bolivia,South America,300,Technology,1
+1757,2017,China Aerospace Science and Technology,,South Korea,East Asia,180,Transport,1
+1500,2016,China Animal Husbandry,,New Zealand,East Asia,180,Agriculture,1
+1249,2015,China Communications Bank,,Brazil,South America,170,Finance,0
+1990,2013,China Communications Construction,,Equatorial Guinea,Sub-Saharan Africa,350,Transport,0
+1960,2013,China Communications Construction,,Indonesia,East Asia,900,Transport,1
+1967,2013,China Communications Construction,,Iraq,Arab Middle East and North Africa,170,Utilities,1
+1977,2013,China Communications Construction,,Namibia,Sub-Saharan Africa,300,Logistics,1
+1987,2013,China Communications Construction,,Pakistan,West Asia,100,Logistics,1
+1972,2013,China Communications Construction,,Sri Lanka,West Asia,540,Tourism,1
+1976,2013,China Communications Construction,,Yemen,Arab Middle East and North Africa,510,Transport,1
+1191,2014,China Communications Construction,,Australia,Australia,790,Transport,0
+2051,2014,China Communications Construction,,Congo,Sub-Saharan Africa,240,Transport,1
+2010,2014,China Communications Construction,,Cuba,North America,100,Transport,0
+2011,2014,China Communications Construction,,Eritrea,Sub-Saharan Africa,400,Transport,0
+2067,2014,China Communications Construction,,Ethiopia,Sub-Saharan Africa,130,Transport,1
+2017,2014,China Communications Construction,,Iran,West Asia,160,Real estate,1
+2089,2014,China Communications Construction,,Israel,Europe,950,Transport,1
+2020,2014,China Communications Construction,,Montenegro,Europe,1120,Transport,1
+2104,2014,China Communications Construction,,Namibia,Sub-Saharan Africa,360,Transport,1
+2121,2014,China Communications Construction,,Nigeria,Sub-Saharan Africa,680,Transport,1
+2014,2014,China Communications Construction,,Pakistan,West Asia,230,Transport,1
+2047,2014,China Communications Construction,,Qatar,Arab Middle East and North Africa,170,Transport,1
+2041,2014,China Communications Construction,,Saudi Arabia,Arab Middle East and North Africa,500,Utilities,1
+2027,2014,China Communications Construction,,South Sudan,Sub-Saharan Africa,100,Agriculture,1
+1994,2014,China Communications Construction,,Sudan,Arab Middle East and North Africa,680,Transport,0
+2012,2014,China Communications Construction,,Tanzania,Sub-Saharan Africa,200,Transport,1
+2187,2015,China Communications Construction,,Australia,Australia,670,Transport,0
+2298,2015,China Communications Construction,,Bangladesh,West Asia,1070,Transport,1
+2184,2015,China Communications Construction,,Britain,Europe,470,Energy,0
+2172,2015,China Communications Construction,,Brunei,East Asia,200,Transport,1
+2177,2015,China Communications Construction,,Cambodia,East Asia,130,Transport,1
+2205,2015,China Communications Construction,,Cameroon,Sub-Saharan Africa,700,Logistics,1
+2224,2015,China Communications Construction,,Colombia,South America,260,Transport,0
+2142,2015,China Communications Construction,,Ethiopia,Sub-Saharan Africa,300,Transport,1
+2159,2015,China Communications Construction,,Ghana,Sub-Saharan Africa,350,Transport,1
+2214,2015,China Communications Construction,,Indonesia,East Asia,120,Transport,1
+2225,2015,China Communications Construction,,Iran,West Asia,500,Transport,1
+2155,2015,China Communications Construction,,Kyrgyzstan,West Asia,400,Transport,1
+2263,2015,China Communications Construction,,Madagascar,Sub-Saharan Africa,1020,Transport,1
+2241,2015,China Communications Construction,,Malaysia,East Asia,550,Transport,1
+2265,2015,China Communications Construction,,Maldives,West Asia,140,Transport,1
+2201,2015,China Communications Construction,,Mozambique,Sub-Saharan Africa,190,Energy,1
+2216,2015,China Communications Construction,,Papua New Guinea,East Asia,100,Transport,1
+2249,2015,China Communications Construction,,Sao Tome,Sub-Saharan Africa,680,Logistics,0
+1372,2015,China Communications Construction,,Singapore,East Asia,100,Real estate,1
+2160,2015,China Communications Construction,,Uganda,Sub-Saharan Africa,200,Transport,1
+2333,2016,China Communications Construction,,Angola,Sub-Saharan Africa,830,Transport,1
+2326,2016,China Communications Construction,,Argentina,South America,390,Energy,0
+2475,2016,China Communications Construction,,Australia,Australia,440,Transport,0
+2499,2016,China Communications Construction,,Bangladesh,West Asia,510,Transport,1
+2488,2016,China Communications Construction,,Bolivia,South America,190,Transport,1
+2504,2016,China Communications Construction,,British Virgin Islands,North America,110,Transport,0
+2439,2016,China Communications Construction,,Cameroon,Sub-Saharan Africa,120,Real estate,1
+2331,2016,China Communications Construction,,Congo,Sub-Saharan Africa,2300,Transport,1
+2347,2016,China Communications Construction,,Ecuador,South America,520,Transport,1
+2430,2016,China Communications Construction,,Ghana,Sub-Saharan Africa,480,Logistics,1
+2442,2016,China Communications Construction,,Guinea,Sub-Saharan Africa,770,Transport,1
+2494,2016,China Communications Construction,,Jamaica,North America,350,Transport,0
+2387,2016,China Communications Construction,,Kenya,Sub-Saharan Africa,170,Transport,1
+2328,2016,China Communications Construction,,Latvia,Europe,110,Transport,1
+1607,2016,China Communications Construction,,Malaysia,East Asia,1680,Tourism,1
+2459,2016,China Communications Construction,,Myanmar,East Asia,120,Transport,1
+2429,2016,China Communications Construction,,Nigeria,Sub-Saharan Africa,540,Transport,1
+2320,2016,China Communications Construction,,Pakistan,West Asia,1320,Transport,1
+2449,2016,China Communications Construction,,Philippines,East Asia,200,Transport,1
+2319,2016,China Communications Construction,,Senegal,Sub-Saharan Africa,700,Transport,1
+2384,2016,China Communications Construction,,Serbia,Europe,230,Transport,1
+2340,2016,China Communications Construction,,Singapore,East Asia,130,Transport,1
+2315,2016,China Communications Construction,,South Sudan,Sub-Saharan Africa,800,Transport,1
+2352,2016,China Communications Construction,,Thailand,East Asia,280,Transport,1
+1609,2016,China Communications Construction,,USA,USA,290,Real estate,0
+2513,2017,China Communications Construction,,Afghanistan,West Asia,210,Transport,1
+2609,2017,China Communications Construction,,Angola,Sub-Saharan Africa,200,Energy,1
+2680,2017,China Communications Construction,,Australia,Australia,1960,Transport,0
+1714,2017,China Communications Construction,,Bangladesh,West Asia,110,Other,1
+1668,2017,China Communications Construction,,Brazil,South America,280,Transport,0
+2624,2017,China Communications Construction,,Germany,Europe,440,Logistics,0
+2542,2017,China Communications Construction,,Indonesia,East Asia,640,Transport,1
+2560,2017,China Communications Construction,,Kenya,Sub-Saharan Africa,170,Transport,1
+2585,2017,China Communications Construction,,Malaysia,East Asia,2060,Transport,1
+2551,2017,China Communications Construction,,Mozambique,Sub-Saharan Africa,130,Transport,1
+2645,2017,China Communications Construction,,Pakistan,West Asia,140,Transport,1
+2616,2017,China Communications Construction,,Panama,North America,100,Transport,1
+2695,2017,China Communications Construction,,Philippines,East Asia,1670,Energy,1
+2602,2017,China Communications Construction,,Rwanda,Sub-Saharan Africa,100,Transport,1
+2537,2017,China Communications Construction,,Senegal,Sub-Saharan Africa,1080,Transport,1
+2668,2017,China Communications Construction,,Serbia,Europe,520,Transport,1
+1740,2017,China Communications Construction,,Sri Lanka,West Asia,1430,Real estate,1
+2574,2017,China Communications Construction,,Tanzania,Sub-Saharan Africa,150,Transport,1
+2538,2017,China Communications Construction,,Uganda,Sub-Saharan Africa,850,Transport,1
+2777,2018,China Communications Construction,,Australia,Australia,410,Health,0
+2702,2018,China Communications Construction,,Cambodia,East Asia,2080,Transport,1
+2758,2018,China Communications Construction,,Croatia,Europe,340,Transport,1
+2704,2018,China Communications Construction,,Cuba,North America,200,Tourism,0
+2828,2018,China Communications Construction,,East Timor,Sub-Saharan Africa,490,Logistics,0
+2753,2018,China Communications Construction,,Egypt,Arab Middle East and North Africa,120,Logistics,1
+2822,2018,China Communications Construction,,Ghana,Sub-Saharan Africa,200,Energy,1
+2737,2018,China Communications Construction,,Guinea,Sub-Saharan Africa,150,Agriculture,1
+2821,2018,China Communications Construction,,Kenya,Sub-Saharan Africa,400,Energy,1
+2796,2018,China Communications Construction,,Panama,North America,1520,Transport,1
+2797,2018,China Communications Construction,,Philippines,East Asia,100,Transport,1
+1918,2018,China Communications Construction,,Serbia,Europe,260,Other,1
+1885,2018,China Communications Construction,,Singapore,East Asia,200,Transport,1
+2703,2018,China Communications Construction,,South Sudan,Sub-Saharan Africa,250,Transport,1
+1005,2013,China Construction Bank,,Brazil,South America,720,Finance,0
+1130,2014,China Construction Bank,,Brazil,South America,720,Finance,0
+1103,2014,China Construction Bank,,Britain,Europe,190,Real estate,0
+1270,2015,China Construction Bank,,Australia,Australia,1500,Finance,0
+1894,2018,China Development Bank,,Venezuela,South America,250,Energy,1
+1720,2017,China Eastern,,France,Europe,440,Transport,0
+2171,2015,China Electronics Corporation,,Brazil,South America,100,Real estate,0
+1548,2016,China Energy Conservation,,Spain,Europe,1570,Utilities,0
+1478,2016,China Energy Conservation,,USA,USA,150,Health,0
+2635,2017,China Energy Conservation,,Bangladesh,West Asia,120,Utilities,1
+2040,2014,China Energy Engineering,,Belarus,Europe,340,Energy,1
+2024,2014,China Energy Engineering,,Equatorial Guinea,Sub-Saharan Africa,390,Utilities,0
+2116,2014,China Energy Engineering,,Jordan,Arab Middle East and North Africa,1600,Energy,1
+1059,2014,China Energy Engineering,,Liberia,Sub-Saharan Africa,160,Energy,0
+2113,2014,China Energy Engineering,,Pakistan,West Asia,140,Transport,1
+2272,2015,China Energy Engineering,,Argentina,South America,3660,Energy,0
+2228,2015,China Energy Engineering,,Cameroon,Sub-Saharan Africa,3500,Transport,1
+2262,2015,China Energy Engineering,,Ecuador,South America,200,Real estate,1
+2174,2015,China Energy Engineering,,Egypt,Arab Middle East and North Africa,990,Utilities,1
+2182,2015,China Energy Engineering,,Indonesia,East Asia,240,Energy,1
+2136,2015,China Energy Engineering,,Venezuela,South America,1620,Energy,1
+1289,2015,China Energy Engineering,,Vietnam,East Asia,1310,Energy,1
+2341,2016,China Energy Engineering,,Bangladesh,West Asia,780,Energy,1
+2437,2016,China Energy Engineering,,Ghana,Sub-Saharan Africa,550,Energy,1
+2373,2016,China Energy Engineering,,Iran,West Asia,1960,Utilities,1
+2424,2016,China Energy Engineering,,Ivory Coast,Sub-Saharan Africa,410,Energy,1
+1531,2016,China Energy Engineering,,Kazakhstan,West Asia,180,Real estate,1
+2476,2016,China Energy Engineering,,Kenya,Sub-Saharan Africa,640,Agriculture,1
+1530,2016,China Energy Engineering,,Mongolia,East Asia,100,Energy,1
+2335,2016,China Energy Engineering,,Myanmar,East Asia,100,Energy,1
+2405,2016,China Energy Engineering,,Pakistan,West Asia,530,Energy,1
+2471,2016,China Energy Engineering,,Philippines,East Asia,280,Energy,1
+2350,2016,China Energy Engineering,,Qatar,Arab Middle East and North Africa,660,Utilities,1
+2489,2016,China Energy Engineering,,Russian Federation,West Asia,260,Energy,1
+2599,2017,China Energy Engineering,,Angola,Sub-Saharan Africa,2770,Energy,1
+2646,2017,China Energy Engineering,,Argentina,South America,190,Utilities,0
+2557,2017,China Energy Engineering,,Bangladesh,West Asia,110,Transport,1
+2613,2017,China Energy Engineering,,Britain,Europe,180,Energy,0
+2547,2017,China Energy Engineering,,Chad,Sub-Saharan Africa,310,Energy,1
+2663,2017,China Energy Engineering,,Kenya,Sub-Saharan Africa,360,Energy,1
+2550,2017,China Energy Engineering,,Kuwait,Arab Middle East and North Africa,710,Real estate,1
+2608,2017,China Energy Engineering,,Malaysia,East Asia,250,Energy,1
+2512,2017,China Energy Engineering,,Pakistan,West Asia,1720,Energy,1
+2606,2017,China Energy Engineering,,Papua New Guinea,East Asia,480,Energy,1
+2665,2017,China Energy Engineering,,Philippines,East Asia,850,Energy,1
+2620,2017,China Energy Engineering,,Russian Federation,West Asia,1470,Energy,1
+2807,2018,China Energy Engineering,,Belarus,Europe,100,Real estate,1
+1866,2018,China Energy Engineering,,Brazil,South America,190,Utilities,0
+2818,2018,China Energy Engineering,,Gabon,Sub-Saharan Africa,200,Energy,1
+2745,2018,China Energy Engineering,,Ghana,Sub-Saharan Africa,470,Energy,1
+2817,2018,China Energy Engineering,,Indonesia,East Asia,560,Energy,1
+2819,2018,China Energy Engineering,,Nepal,West Asia,2540,Energy,1
+1840,2018,China Energy Engineering,,Nigeria,Sub-Saharan Africa,5790,Energy,1
+2771,2018,China Energy Engineering,,Pakistan,West Asia,100,Energy,1
+2820,2018,China Energy Engineering,,Turkey,West Asia,300,Energy,1
+2793,2018,China Energy Engineering,,Ukraine,Europe,250,Energy,1
+2788,2018,China Energy Engineering,,Vietnam,East Asia,1400,Energy,1
+1460,2016,China Everbright and Baofeng,,Singapore,East Asia,660,Entertainment,1
+1652,2017,China Fortune,,Indonesia,East Asia,300,Real estate,1
+1697,2017,China Galaxy Securities,,Malaysia,East Asia,120,Finance,1
+2129,2014,China Gansu International Corp for Economic and Technical Cooperation,,Benin,Sub-Saharan Africa,640,Transport,0
+1914,2018,China GEM-led consortium,,Indonesia,East Asia,610,Metals,1
+1178,2014,China General Nuclear,,Britain,Europe,160,Energy,0
+1135,2014,China General Nuclear,,Namibia,Sub-Saharan Africa,1920,Metals,1
+1352,2015,China General Nuclear,,Malaysia,East Asia,5960,Energy,1
+1546,2016,China General Nuclear,,France,Europe,110,Energy,0
+1591,2016,China General Nuclear,,Ireland,Europe,430,Energy,0
+1427,2016,China General Nuclear,,Malaysia,East Asia,100,Energy,1
+1896,2018,China General Nuclear,,Sweden,Europe,710,Energy,0
+1860,2018,China Grand,,Taiwan,East Asia,240,Agriculture,0
+1849,2018,China Great Wall,,Nigeria,Sub-Saharan Africa,550,Technology,1
+2222,2015,China Henan International Cooperation,,Zambia,Sub-Saharan Africa,490,Transport,1
+2617,2017,China Henan International Corporation,,Tanzania,Sub-Saharan Africa,310,Transport,1
+1862,2018,China Huadian,,Bangladesh,West Asia,1010,Energy,1
+1448,2016,China International Marine Containers,,Singapore,East Asia,190,Logistics,1
+1759,2017,China Iron and Steel Research Institute,,Germany,Europe,130,Transport,0
+1871,2018,China JinJiang Environment,,Indonesia,East Asia,110,Energy,1
+1217,2015,China Launch and Tracking Control General,,Argentina,South America,300,Technology,0
+1102,2014,China Life,,Britain,Europe,950,Real estate,0
+1131,2014,China Life,,USA,USA,250,Finance,0
+1346,2015,China Life,,USA,USA,1010,Logistics,0
+1380,2016,China Life,,Britain,Europe,260,Real estate,0
+1560,2016,China Life,,USA,USA,810,Tourism,0
+1678,2017,China Life,,USA,USA,900,Real estate,0
+1237,2015,China Life and Ping An,,USA,USA,330,Real estate,0
+2348,2016,China Light and Jiangxi Jianglian,,Ethiopia,Sub-Saharan Africa,650,Agriculture,1
+1381,2016,China Lilongwe Grand,,Malawi,Sub-Saharan Africa,100,Real estate,0
+1355,2015,China Media Capital,,Britain,Europe,400,Entertainment,0
+1082,2014,China Merchants,,Australia,Australia,820,Transport,0
+2019,2014,China Merchants,,Sri Lanka,West Asia,990,Transport,1
+1350,2015,China Merchants,,Belarus,Europe,140,Logistics,1
+1315,2015,China Merchants,,Turkey,West Asia,920,Transport,1
+1745,2017,China Merchants,,Brazil,South America,920,Transport,0
+1793,2018,China Merchants,,Sri Lanka,West Asia,1120,Transport,1
+1148,2014,China Merchants and China Communications Construction,,Sri Lanka,West Asia,390,Logistics,1
+1540,2016,China Mingshen Investment,,Britain,Europe,110,Real estate,0
+1337,2015,China Minsheng Investment,,Luxembourg,Europe,130,Transport,0
+1271,2015,China Minsheng Investment,,Singapore,East Asia,1500,Finance,1
+1285,2015,China Minsheng Investment,,Sweden,Europe,2590,Finance,0
+2653,2017,China Minsheng Investment,,South Africa,Sub-Saharan Africa,1230,Real estate,1
+1081,2014,China Mobile,,Pakistan,West Asia,520,Technology,1
+1104,2014,China Mobile,,Thailand,East Asia,880,Technology,1
+1336,2015,China Mobile,,South Korea,East Asia,280,Technology,1
+1639,2017,China Mobile,,Pakistan,West Asia,200,Technology,1
+1437,2016,China Molybdenum,,Brazil,South America,1500,Chemicals,0
+1450,2016,China Molybdenum,,Democratic Republic of the Congo,Sub-Saharan Africa,2650,Metals,0
+1970,2013,China National Building Material,,Saudi Arabia,Arab Middle East and North Africa,190,Real estate,1
+2088,2014,China National Building Material,,Croatia,Europe,130,Logistics,1
+1266,2015,China National Building Material,,Egypt,Arab Middle East and North Africa,190,Other,1
+2162,2015,China National Building Material,,Saudi Arabia,Arab Middle East and North Africa,100,Real estate,1
+2371,2016,China National Building Material,,Algeria,Arab Middle East and North Africa,230,Real estate,1
+2486,2016,China National Building Material,,Britain,Europe,210,Energy,0
+2503,2016,China National Building Material,,Indonesia,East Asia,170,Real estate,1
+1578,2016,China National Building Material,,Ukraine,Europe,180,Energy,1
+1465,2016,China National Building Material,,USA,USA,300,Other,0
+2632,2017,China National Building Material,,Argentina,South America,280,Real estate,0
+1620,2017,China National Building Material,,India,West Asia,250,Other,0
+2528,2017,China National Building Material,,Indonesia,East Asia,230,Real estate,1
+2532,2017,China National Building Material,,Pakistan,West Asia,130,Real estate,1
+2619,2017,China National Building Material,,Uganda,Sub-Saharan Africa,500,Real estate,1
+2673,2017,China National Building Material,,Uzbekistan,West Asia,160,Real estate,1
+1906,2018,China National Building Material,,Egypt,Arab Middle East and North Africa,180,Other,1
+2846,2018,China National Building Material,,Malaysia,East Asia,140,Utilities,1
+2770,2018,China National Building Material,,Russian Federation,West Asia,190,Real estate,1
+1940,2018,China National Building Material,,Zambia,Sub-Saharan Africa,250,Real estate,1
+2128,2014,China National Chemical Engineering,,Indonesia,East Asia,440,Chemicals,1
+2076,2014,China National Chemical Engineering,,Pakistan,West Asia,240,Energy,1
+2277,2015,China National Chemical Engineering,,Kazakhstan,West Asia,1870,Chemicals,1
+2435,2016,China National Chemical Engineering,,Georgia,West Asia,160,Energy,1
+2478,2016,China National Chemical Engineering,,Indonesia,East Asia,890,Energy,1
+2383,2016,China National Chemical Engineering,,Malaysia,East Asia,240,Real estate,1
+2382,2016,China National Chemical Engineering,,Russian Federation,West Asia,440,Chemicals,1
+2545,2017,China National Chemical Engineering,,Russian Federation,West Asia,1170,Energy,1
+2830,2018,China National Chemical Engineering,,Bangladesh,West Asia,400,Chemicals,1
+2729,2018,China National Chemical Engineering,,Nigeria,Sub-Saharan Africa,520,Energy,1
+2767,2018,China National Chemical Engineering,,Russian Federation,West Asia,420,Energy,1
+1041,2014,China National Nuclear,,Namibia,Sub-Saharan Africa,190,Metals,1
+2131,2014,China National Nuclear,,Pakistan,West Asia,6500,Energy,1
+2281,2015,China National Nuclear,,Mongolia,East Asia,990,Energy,1
+2697,2017,China National Nuclear,,Argentina,South America,4700,Energy,0
+1933,2018,China National Nuclear,,Namibia,Sub-Saharan Africa,110,Metals,1
+2391,2016,China National Offshore Oil,,Qatar,Arab Middle East and North Africa,110,Energy,1
+1429,2016,China National Silicon (consortium of Shanghai state firms),,Finland,Europe,190,Technology,0
+1051,2014,China Nonferrous,,Congo,Sub-Saharan Africa,150,Metals,1
+2084,2014,China Nonferrous,,Kazakhstan,West Asia,560,Metals,1
+2412,2016,China Nonferrous,,Democratic Republic of the Congo,Sub-Saharan Africa,650,Metals,0
+1669,2017,China Nonferrous,,Democratic Republic of the Congo,Sub-Saharan Africa,420,Metals,0
+1716,2017,China Nonferrous,,Indonesia,East Asia,200,Metals,1
+2516,2017,China Nonferrous,,Zambia,Sub-Saharan Africa,250,Real estate,1
+1806,2018,China Nonferrous,,Democratic Republic of the Congo,Sub-Saharan Africa,260,Metals,0
+1524,2016,China Ocean Shipping,,Greece,Europe,780,Transport,1
+1456,2016,China Ocean Shipping,,Netherlands,Europe,140,Logistics,0
+1539,2016,China Ocean Shipping,,UAE,Arab Middle East and North Africa,670,Transport,1
+1699,2017,China Ocean Shipping,,Spain,Europe,230,Transport,0
+1441,2016,China Orient,,USA,USA,270,Real estate,0
+1519,2016,China Orient Asset Management,,USA,USA,140,Real estate,0
+1969,2013,China Poly,,Tanzania,Sub-Saharan Africa,200,Real estate,1
+2080,2014,China Poly,,Uzbekistan,West Asia,180,Agriculture,1
+1374,2015,China Poly,,Britain,Europe,210,Real estate,0
+1516,2016,China Poly,,USA,USA,150,Energy,0
+1794,2018,China Poly,,Bosnia,Europe,310,Energy,1
+1820,2018,China Poly,,Britain,Europe,100,Real estate,0
+1826,2018,China Poly,,Ethiopia,Sub-Saharan Africa,360,Energy,1
+1850,2018,China Poly,,India,West Asia,370,Energy,0
+1949,2013,China Power Investment,,Tanzania,Sub-Saharan Africa,400,Energy,1
+1073,2014,China Power Investment,,Malta,Europe,440,Energy,1
+1985,2013,China Railway Construction,,Algeria,Arab Middle East and North Africa,1180,Transport,1
+1988,2013,China Railway Construction,,Malaysia,East Asia,1190,Transport,1
+2127,2014,China Railway Construction,,Antigua and Barbuda,North America,260,Transport,1
+2079,2014,China Railway Construction,,Bolivia,South America,580,Transport,1
+2120,2014,China Railway Construction,,Nigeria,Sub-Saharan Africa,1490,Transport,1
+2110,2014,China Railway Construction,,Saudi Arabia,Arab Middle East and North Africa,1980,Real estate,1
+1995,2014,China Railway Construction,,Sudan,Arab Middle East and North Africa,1450,Transport,0
+2138,2015,China Railway Construction,,Djibouti,Sub-Saharan Africa,600,Transport,1
+2157,2015,China Railway Construction,,Egypt,Arab Middle East and North Africa,600,Transport,1
+2282,2015,China Railway Construction,,Indonesia,East Asia,1710,Energy,1
+2259,2015,China Railway Construction,,Mali,Sub-Saharan Africa,1460,Transport,0
+2158,2015,China Railway Construction,,Nigeria,Sub-Saharan Africa,3510,Transport,1
+2276,2015,China Railway Construction,,Pakistan,West Asia,1460,Transport,1
+2283,2015,China Railway Construction,,Senegal,Sub-Saharan Africa,1260,Transport,1
+2153,2015,China Railway Construction,,Zimbabwe,Sub-Saharan Africa,1930,Real estate,1
+2390,2016,China Railway Construction,,Angola,Sub-Saharan Africa,120,Utilities,1
+2404,2016,China Railway Construction,,Ethiopia,Sub-Saharan Africa,250,Other,1
+2433,2016,China Railway Construction,,Nigeria,Sub-Saharan Africa,6810,Transport,1
+2463,2016,China Railway Construction,,Qatar,Arab Middle East and North Africa,340,Entertainment,1
+2492,2016,China Railway Construction,,Thailand,East Asia,540,Agriculture,1
+2473,2016,China Railway Construction,,Zambia,Sub-Saharan Africa,2260,Transport,1
+2683,2017,China Railway Construction,,Bangladesh,West Asia,1550,Transport,1
+2657,2017,China Railway Construction,,Ethiopia,Sub-Saharan Africa,160,Other,1
+2655,2017,China Railway Construction,,Malaysia,East Asia,250,Transport,1
+2570,2017,China Railway Construction,,Mali,Sub-Saharan Africa,160,Transport,0
+2543,2017,China Railway Construction,,Nigeria,Sub-Saharan Africa,1470,Transport,1
+2526,2017,China Railway Construction,,Russian Federation,West Asia,390,Transport,1
+2564,2017,China Railway Construction,,Rwanda,Sub-Saharan Africa,150,Real estate,1
+2698,2017,China Railway Construction,,Thailand,East Asia,2690,Transport,1
+2844,2018,China Railway Construction,,Argentina,South America,1090,Transport,0
+1898,2018,China Railway Construction,,Ecuador,South America,920,Metals,1
+2705,2018,China Railway Construction,,Iran,West Asia,540,Transport,1
+2848,2018,China Railway Construction,,Kazakhstan,West Asia,140,Transport,1
+2816,2018,China Railway Construction,,Kenya,Sub-Saharan Africa,300,Transport,1
+2842,2018,China Railway Construction,,Peru,South America,370,Transport,0
+2707,2018,China Railway Construction,,Tanzania,Sub-Saharan Africa,230,Utilities,1
+2706,2018,China Railway Construction,,Zambia,Sub-Saharan Africa,250,Transport,1
+1107,2014,China Railway Construction and China Nonferrous,,Ecuador,South America,2040,Metals,1
+1986,2013,China Railway Construction and China Railway Engineering,,Ethiopia,Sub-Saharan Africa,2790,Transport,1
+2466,2016,China Railway Contruction,,Malaysia,East Asia,2120,Transport,1
+1664,2017,China Railway Corp,,Laos,East Asia,2560,Transport,1
+2189,2015,China Railway Corp and Norinco,,Pakistan,West Asia,1620,Transport,1
+1954,2013,China Railway Engineering,,Tanzania,Sub-Saharan Africa,500,Real estate,1
+2036,2014,China Railway Engineering,,Ethiopia,Sub-Saharan Africa,480,Transport,1
+2054,2014,China Railway Engineering,,Fiji,East Asia,120,Transport,1
+2102,2014,China Railway Engineering,,Tanzania,Sub-Saharan Africa,990,Real estate,1
+2146,2015,China Railway Engineering,,East Timor,East Asia,290,Transport,1
+2261,2015,China Railway Engineering,,Ethiopia,Sub-Saharan Africa,180,Transport,1
+2173,2015,China Railway Engineering,,Israel,Europe,400,Transport,1
+2147,2015,China Railway Engineering,,Kazakhstan,West Asia,150,Metals,1
+2134,2015,China Railway Engineering,,Nepal,West Asia,110,Agriculture,1
+2185,2015,China Railway Engineering,,Russian Federation,West Asia,380,Transport,1
+2186,2015,China Railway Engineering,,Tanzania,Sub-Saharan Africa,1400,Transport,1
+2260,2015,China Railway Engineering,,Vietnam,East Asia,260,Transport,1
+2432,2016,China Railway Engineering,,Angola,Sub-Saharan Africa,130,Real estate,1
+2470,2016,China Railway Engineering,,Ecuador,South America,100,Health,1
+2419,2016,China Railway Engineering,,Kuwait,Arab Middle East and North Africa,200,Transport,1
+2438,2016,China Railway Engineering,,Laos,East Asia,1580,Transport,1
+1409,2016,China Railway Engineering,,Malaysia,East Asia,1970,Transport,1
+2502,2016,China Railway Engineering,,Maldives,West Asia,150,Transport,1
+2423,2016,China Railway Engineering,,Mongolia,East Asia,110,Other,1
+2422,2016,China Railway Engineering,,Papua New Guinea,East Asia,130,Real estate,1
+2421,2016,China Railway Engineering,,Sierra Leone,Sub-Saharan Africa,160,Transport,1
+2420,2016,China Railway Engineering,,Singapore,East Asia,180,Transport,1
+2362,2016,China Railway Engineering,,Zambia,Sub-Saharan Africa,220,Energy,1
+2515,2017,China Railway Engineering,,Angola,Sub-Saharan Africa,160,Transport,1
+2641,2017,China Railway Engineering,,Bangladesh,West Asia,110,Transport,1
+2604,2017,China Railway Engineering,,Botswana,Sub-Saharan Africa,100,Transport,0
+2527,2017,China Railway Engineering,,Ethiopia,Sub-Saharan Africa,240,Other,1
+2562,2017,China Railway Engineering,,Indonesia,East Asia,3190,Transport,1
+2589,2017,China Railway Engineering,,Kazakhstan,West Asia,1890,Transport,1
+2638,2017,China Railway Engineering,,Morocco,Arab Middle East and North Africa,230,Energy,1
+2640,2017,China Railway Engineering,,Pakistan,West Asia,100,Transport,1
+2531,2017,China Railway Engineering,,Philippines,East Asia,110,Real estate,1
+2678,2017,China Railway Engineering,,Serbia,Europe,350,Transport,1
+2649,2017,China Railway Engineering,,Singapore,East Asia,230,Transport,1
+2676,2017,China Railway Engineering,,Zambia,Sub-Saharan Africa,390,Agriculture,1
+2799,2018,China Railway Engineering,,Bangladesh,West Asia,2670,Transport,1
+2724,2018,China Railway Engineering,,Israel,Europe,710,Transport,1
+2839,2018,China Railway Engineering,,Philippines,East Asia,270,Transport,1
+2798,2018,China Railway Engineering,,Serbia,Europe,1090,Transport,1
+2811,2018,China Railway Engineering,,Uganda,Sub-Saharan Africa,110,Real estate,1
+1347,2015,China Railway Rolling Stock,,USA,USA,100,Transport,0
+1653,2017,China Railway Rolling Stock,,USA,USA,100,Transport,0
+1705,2017,China Reform Holdings,,Switzerland,Europe,43060,Agriculture,0
+1916,2018,China Reinsurance,,Britain,Europe,950,Finance,0
+1498,2016,China Resources,,Australia,Australia,320,Health,0
+1782,2017,China Resources,,Britain,Europe,740,Energy,0
+1902,2018,China Resources,,Netherlands,Europe,540,Agriculture,0
+2493,2016,China Singyes,,Uzbekistan,West Asia,150,Energy,1
+1254,2015,China Small and Medium Enterprise Investment,,India,West Asia,790,Other,0
+1031,2013,China South Industries,,Britain,Europe,100,Transport,0
+1807,2018,China Tianying,,Vietnam,East Asia,160,Energy,1
+2235,2015,China Unicom,,Cameroon,Sub-Saharan Africa,490,Technology,1
+1238,2015,China Vanke,,USA,USA,130,Real estate,0
+1563,2016,China Vanke,,Australia,Australia,100,Agriculture,0
+2197,2015,China Western Power Industrial,,Thailand,East Asia,180,Energy,1
+1089,2014,Chinalco,,Guinea,Sub-Saharan Africa,1350,Metals,1
+2029,2014,Chinalco,,Venezuela,South America,500,Metals,1
+1800,2018,Chinalco,,Guinea,Sub-Saharan Africa,160,Metals,1
+1881,2018,Chinalco,,Peru,South America,1300,Metals,0
+1625,2017,ChinaNetCentre,,South Korea,East Asia,190,Technology,1
+1932,2018,Chinese Academy of Sciences,,Chile,South America,830,Agriculture,1
+2233,2015,Chint,,Zimbabwe,Sub-Saharan Africa,100,Energy,1
+2511,2016,Chongqing Foreign Trade and Economy Corporation,,Bangladesh,West Asia,140,Utilities,1
+1709,2017,Chongqing Sokon,,USA,USA,110,Transport,0
+1543,2016,Chongqing USUM,,Germany,Europe,260,Other,0
+1018,2013,CIC,,Australia,Australia,280,Real estate,0
+1036,2013,CIC,,Britain,Europe,1280,Real estate,0
+1111,2014,CIC,,Indonesia,East Asia,1360,Energy,1
+1199,2014,CIC,,USA,USA,190,Energy,0
+1284,2015,CIC,,Australia,Australia,1790,Real estate,0
+1282,2015,CIC,,Belgium,Europe,290,Real estate,0
+1281,2015,CIC,,France,Europe,1150,Real estate,0
+1311,2015,CIC,,Germany,Europe,570,Transport,0
+1214,2015,CIC,,Japan,East Asia,1190,Real estate,0
+1259,2015,CIC,,Netherlands,Europe,1800,Technology,0
+1536,2016,CIC,,Australia,Australia,1460,Transport,0
+1547,2016,CIC,,Brazil,South America,1090,Energy,0
+1597,2016,CIC,,Britain,Europe,1780,Energy,0
+1562,2016,CIC,,Germany,Europe,930,Real estate,0
+1602,2016,CIC,,USA,USA,1030,Real estate,0
+1717,2017,CIC,,Britain,Europe,13790,Logistics,0
+1780,2017,CIC,,Russian Federation,West Asia,100,Energy,1
+1760,2017,CIC,,Singapore,East Asia,370,Energy,1
+1721,2017,CIC,,USA,USA,190,Real estate,0
+1333,2015,CIC and Didi Kuaidi,,Singapore,East Asia,100,Transport,1
+1482,2016,CIC and Wise Road Capital,,Netherlands,Europe,2750,Technology,0
+1068,2014,Cinda,,USA,USA,210,Real estate,0
+1227,2015,Cinda,,USA,USA,140,Real estate,0
+1406,2016,Cinda,,USA,USA,570,Tourism,0
+1579,2016,Cinda and Union Life,,USA,USA,700,Real estate,0
+1749,2017,Cindat,,Britain,Europe,350,Tourism,0
+1984,2013,CITIC,,Myanmar,East Asia,200,Real estate,1
+1171,2014,CITIC,,Angola,Sub-Saharan Africa,120,Agriculture,1
+2122,2014,CITIC,,Kazakhstan,West Asia,550,Chemicals,1
+1150,2014,CITIC,,USA,USA,140,Transport,0
+2132,2014,CITIC,,Venezuela,South America,760,Real estate,1
+2294,2015,CITIC,,Angola,Sub-Saharan Africa,610,Utilities,1
+2150,2015,CITIC,,Belarus,Europe,300,Transport,1
+1328,2015,CITIC,,Britain,Europe,670,Real estate,0
+2275,2015,CITIC,,Cambodia,East Asia,260,Real estate,1
+1256,2015,CITIC,,Kenya,Sub-Saharan Africa,120,Real estate,1
+1255,2015,CITIC,,Rwanda,Sub-Saharan Africa,120,Real estate,1
+1226,2015,CITIC,,Singapore,East Asia,730,Utilities,1
+2481,2016,CITIC,,Belarus,Europe,850,Agriculture,1
+2393,2016,CITIC,,Philippines,East Asia,150,Real estate,1
+2413,2016,CITIC,,Venezuela,South America,130,Utilities,1
+2561,2017,CITIC,,Britain,Europe,1620,Tourism,0
+2586,2017,CITIC,,Kazakhstan,West Asia,940,Transport,1
+1789,2017,CITIC,,New Zealand,East Asia,170,Other,1
+1841,2018,CITIC,,Australia,Australia,470,Health,0
+1878,2018,CITIC,,Canada,North America,560,Metals,0
+1865,2018,CITIC,,Czech Republic,Europe,350,Finance,1
+1804,2018,CITIC,,France,Europe,490,Other,0
+1936,2018,CITIC,,Japan,East Asia,100,Energy,0
+1853,2018,CITIC,,UAE,Arab Middle East and North Africa,120,Energy,1
+1819,2018,CITIC,,USA,USA,300,Other,0
+1718,2017,CITIC-led fund,,Brazil,South America,1100,Agriculture,0
+1001,2013,CNOOC,,Argentina,South America,120,Energy,0
+2105,2014,CNOOC,,Myanmar,East Asia,370,Energy,1
+2062,2014,CNOOC,,Russian Federation,West Asia,1640,Energy,1
+1601,2016,CNOOC,,Mexico,North America,1110,Energy,0
+2554,2017,CNOOC,,Nigeria,Sub-Saharan Africa,170,Energy,1
+2779,2018,CNOOC,,Iraq,Arab Middle East and North Africa,220,Energy,1
+1003,2013,CNOOC and CNPC,,Brazil,South America,1400,Energy,0
+1014,2013,CNPC,,Iraq,Arab Middle East and North Africa,1250,Energy,1
+1015,2013,CNPC,,Peru,South America,2890,Energy,0
+1002,2013,CNPC,,Russian Federation,West Asia,620,Energy,1
+1127,2014,CNPC,,Canada,North America,1090,Energy,0
+2044,2014,CNPC,,Iraq,Arab Middle East and North Africa,790,Energy,1
+2003,2014,CNPC,,Kyrgyzstan,West Asia,1400,Energy,1
+1141,2014,CNPC,,Russian Federation,West Asia,990,Energy,1
+1096,2014,CNPC,,Turkmenistan,West Asia,600,Energy,1
+2264,2015,CNPC,,Malaysia,East Asia,180,Chemicals,1
+2166,2015,CNPC,,UAE,Arab Middle East and North Africa,330,Energy,1
+2462,2016,CNPC,,Algeria,Arab Middle East and North Africa,410,Energy,1
+2325,2016,CNPC,,Argentina,South America,110,Energy,0
+2447,2016,CNPC,,Bangladesh,West Asia,690,Energy,1
+1568,2016,CNPC,,Iran,West Asia,600,Energy,1
+2472,2016,CNPC,,Iraq,Arab Middle East and North Africa,280,Energy,1
+2480,2016,CNPC,,Malaysia,East Asia,110,Chemicals,1
+2401,2016,CNPC,,Saudi Arabia,Arab Middle East and North Africa,330,Energy,1
+1576,2016,CNPC,,Venezuela,South America,1460,Energy,1
+1766,2017,CNPC,,Brazil,South America,120,Energy,0
+1723,2017,CNPC,,Iran,West Asia,730,Energy,1
+2575,2017,CNPC,,Malaysia,East Asia,100,Chemicals,1
+2583,2017,CNPC,,Nigeria,Sub-Saharan Africa,840,Energy,1
+2563,2017,CNPC,,Russian Federation,West Asia,2520,Energy,1
+2647,2017,CNPC,,Saudi Arabia,Arab Middle East and North Africa,190,Energy,1
+1628,2017,CNPC,,UAE,Arab Middle East and North Africa,1770,Energy,1
+1781,2017,CNPC,,Uzbekistan,West Asia,190,Energy,1
+1924,2018,CNPC,,Canada,North America,2830,Energy,0
+2838,2018,CNPC,,Iraq,Arab Middle East and North Africa,160,Energy,1
+2813,2018,CNPC,,Nigeria,Sub-Saharan Africa,290,Energy,1
+2812,2018,CNPC,,Oman,Arab Middle East and North Africa,320,Energy,1
+2802,2018,CNPC,,Saudi Arabia,Arab Middle East and North Africa,560,Energy,1
+2801,2018,CNPC,,UAE,Arab Middle East and North Africa,1600,Energy,1
+1046,2014,COFCO,,Netherlands,Europe,2040,Agriculture,0
+1526,2016,COFCO,,Netherlands,Europe,1440,Agriculture,0
+1083,2014,COFCO and Hopu Investment,,Brazil,South America,750,Agriculture,0
+1947,2018,Contemporary Amperex Tech,,Germany,Europe,280,Transport,0
+1856,2018,Country Garden,,Britain,Europe,110,Real estate,0
+1117,2014,Country Garden Holdings,,Australia,Australia,470,Real estate,0
+1727,2017,Country Garden Holdings,,Australia,Australia,300,Real estate,0
+1707,2017,Country Garden Holdings,,Malaysia,East Asia,280,Real estate,1
+1479,2016,Creat,,Britain,Europe,1190,Health,0
+1802,2018,Creat,,Germany,Europe,1150,Health,0
+1019,2013,CSR,,Germany,Europe,400,Transport,0
+1245,2015,CSR,,Britain,Europe,190,Transport,0
+1196,2014,Ctrip,,Britain,Europe,160,Tourism,0
+1573,2016,Ctrip,,Britain,Europe,1740,Tourism,0
+1378,2016,Ctrip,,India,West Asia,180,Tourism,0
+1571,2016,Cultural Investment,,Britain,Europe,140,Entertainment,0
+1242,2015,Cybernaut,,Russian Federation,West Asia,200,Technology,1
+1593,2016,Dahua Group,,Australia,Australia,140,Real estate,0
+1183,2014,Dalian Wanda,,Australia,Australia,740,Entertainment,0
+1101,2014,Dalian Wanda,,Spain,Europe,360,Real estate,0
+1186,2014,Dalian Wanda,,USA,USA,900,Real estate,0
+1202,2015,Dalian Wanda,,Australia,Australia,790,Real estate,0
+1364,2015,Dalian Wanda,,Britain,Europe,120,Real estate,0
+1213,2015,Dalian Wanda,,Switzerland,Europe,1190,Entertainment,0
+1300,2015,Dalian Wanda,,USA,USA,900,Entertainment,0
+1496,2016,Dalian Wanda,,Britain,Europe,1210,Entertainment,0
+1397,2016,Dalian Wanda,,France,Europe,1730,Tourism,0
+1382,2016,Dalian Wanda,,USA,USA,3500,Entertainment,0
+1784,2017,Dalian Wanda,,Britain,Europe,210,Real estate,0
+1613,2017,Dalian Wanda,,Sweden,Europe,960,Entertainment,0
+1695,2017,Dalian Wanda,,USA,USA,260,Entertainment,0
+1552,2016,Dare Group,,Germany,Europe,210,Transport,0
+1605,2016,Didi Chuxing,,Brazil,South America,100,Transport,0
+1514,2016,Didi Chuxing,,USA,USA,1000,Transport,0
+1724,2017,Didi Chuxing,,Singapore,East Asia,500,Transport,1
+1803,2018,Didi Chuxing,,Brazil,South America,600,Transport,0
+1319,2015,Didi Kuadi,,USA,USA,100,Transport,0
+2075,2014,Dongfang Electric,,Venezuela,South America,1080,Energy,1
+2245,2015,Dongfang Electric,,Bosnia,Europe,460,Energy,1
+2305,2016,Dongfang Electric,,Turkey,West Asia,660,Energy,1
+2578,2017,Dongfang Electric,,Ethiopia,Sub-Saharan Africa,260,Energy,1
+2671,2017,Dongfang Electric,,Georgia,West Asia,250,Energy,1
+2823,2018,Dongfang Electric,,Egypt,Arab Middle East and North Africa,4400,Energy,1
+2750,2018,Dongfang Electric,,Nepal,West Asia,150,Energy,1
+1057,2014,Dongfeng,,France,Europe,1100,Transport,0
+1177,2014,Dreal,,Guinea,Sub-Saharan Africa,2000,Real estate,1
+1419,2016,ENN Energy,,Australia,Australia,750,Energy,0
+1937,2018,ENN Energy,,USA,USA,880,Energy,0
+1561,2016,Envision Energy,,Argentina,South America,290,Energy,0
+1910,2018,Envision Energy,,Japan,East Asia,1070,Transport,0
+1473,2016,Envivsion Energy,,Mexico,North America,100,Energy,0
+1488,2016,Everbright,,Poland,Europe,140,Utilities,1
+1877,2018,Evergrande,,USA,USA,860,Transport,0
+1020,2013,Evergreen,,Congo,Sub-Saharan Africa,1150,Chemicals,1
+1621,2017,Ex-Im Bank,,Hungary,Europe,210,Technology,1
+1140,2014,Exim Bank,,Poland,Europe,200,Energy,1
+1598,2016,Feihe International,,Canada,North America,170,Agriculture,0
+1410,2016,Film Carnival,,USA,USA,500,Entertainment,0
+1635,2017,Forise,,Australia,Australia,910,Real estate,0
+1696,2017,Fortune Fountain Capital,,France,Europe,180,Other,0
+1008,2013,Fosun,,Britain,Europe,100,Real estate,0
+1009,2013,Fosun,,USA,USA,730,Real estate,0
+1129,2014,Fosun,,Australia,Australia,440,Energy,0
+1064,2014,Fosun,,Germany,Europe,140,Finance,0
+1040,2014,Fosun,,Portugal,Europe,2030,Finance,1
+1133,2014,Fosun,,USA,USA,460,Finance,0
+1239,2015,Fosun,,Australia,Australia,380,Real estate,0
+1229,2015,Fosun,,Britain,Europe,140,Tourism,0
+1236,2015,Fosun,,Canada,North America,300,Entertainment,0
+1210,2015,Fosun,,France,Europe,1130,Tourism,0
+1280,2015,Fosun,,Germany,Europe,230,Finance,0
+1287,2015,Fosun,,Italy,Europe,380,Real estate,0
+1250,2015,Fosun,,USA,USA,1840,Finance,0
+1412,2016,Fosun,,Britain,Europe,430,Real estate,0
+1606,2016,Fosun,,Greece,Europe,200,Transport,1
+1574,2016,Fosun,,Portugal,Europe,180,Finance,1
+1762,2017,Fosun,,India,West Asia,1080,Health,0
+1626,2017,Fosun,,Portugal,Europe,310,Finance,1
+1791,2017,Fosun,,USA,USA,290,Health,0
+1818,2018,Fosun,,France,Europe,120,Other,0
+1886,2018,Fosun,,Germany,Europe,650,Other,0
+1919,2018,Fosun,,Netherlands,Europe,110,Other,0
+2397,2016,Fujian Construction Engineering,,Kenya,Sub-Saharan Africa,160,Transport,1
+2814,2018,Fujian Construction Engineering,,Malaysia,East Asia,180,Real estate,1
+2714,2018,Fujian Construction Engineering,,Uganda,Sub-Saharan Africa,140,Transport,1
+1323,2015,Fujian Thai Hot,,USA,USA,100,Health,0
+1044,2014,Fuyao Glass,,USA,USA,200,Transport,0
+1411,2016,Fuyao Glass,,USA,USA,250,Transport,0
+1595,2016,Gansu Gangtai,,Italy,Europe,240,Other,0
+1207,2015,Gansu Tianqing,,Canada,North America,120,Real estate,0
+1072,2014,Geely Auto,,Britain,Europe,200,Transport,0
+1230,2015,Geely Auto,,Britain,Europe,370,Transport,0
+1262,2015,Geely Auto,,USA,USA,500,Transport,0
+1676,2017,Geely Auto,,Denmark,Europe,390,Finance,0
+1701,2017,Geely Auto,,Malaysia,East Asia,110,Transport,1
+1787,2017,Geely Auto,,Sweden,Europe,3270,Transport,0
+1758,2017,Geely Auto,,USA,USA,600,Transport,0
+1822,2018,Geely Auto,,Germany,Europe,9030,Transport,0
+2001,2014,Genertec,,Philippines,East Asia,210,Energy,1
+2119,2014,Genertec,,Sri Lanka,West Asia,600,Transport,1
+2190,2015,Genertec,,Sri Lanka,West Asia,100,Utilities,1
+1421,2016,Genertec,,Bangladesh,West Asia,780,Energy,1
+2332,2016,Genertec and Beijing SU Power,,Iran,West Asia,1540,Transport,1
+1325,2015,Genimous Investment,,USA,USA,250,Technology,0
+1489,2016,Genzon,,USA,USA,250,Real estate,0
+1062,2014,Geo-Jade Petroleum,,Kazakhstan,West Asia,530,Energy,1
+1224,2015,Geo-Jade Petroleum,,Kazakhstan,West Asia,350,Energy,1
+1413,2016,Geo-Jade Petroleum,,Canada,North America,440,Energy,0
+1049,2014,Goldleaf Jewelry,,USA,USA,670,Energy,0
+1045,2014,Goodbaby,,Germany,Europe,100,Other,0
+1105,2014,Goodbaby,,USA,USA,140,Other,0
+1353,2015,GR Investment,,Canada,North America,750,Tourism,0
+2440,2016,Great Wall Industry,,Thailand,East Asia,210,Technology,1
+1094,2014,Great Wall Motor,,Russian Federation,West Asia,340,Transport,1
+1515,2016,Greenland-led consortium,,USA,USA,170,Technology,0
+1934,2018,Group of Shanghai state investors,,Germany,Europe,270,Other,0
+1832,2018,GSR,,Sweden,Europe,500,Transport,0
+1446,2016,Guangdong Heng Fu,,Cambodia,East Asia,360,Agriculture,1
+1308,2015,Guangdong Midea,,Germany,Europe,170,Technology,0
+1521,2016,Guangdong Midea,,Germany,Europe,4680,Technology,0
+1407,2016,Guangdong Midea,,Japan,East Asia,470,Other,0
+1711,2017,Guangdong Midea,,India,West Asia,120,Other,0
+1624,2017,Guangdong Midea,,Israel,Europe,170,Other,1
+2618,2017,Guangdong New South,,Kenya,Sub-Saharan Africa,1940,Other,1
+1466,2016,Guangdong Province and Huaneng,,Jordan,Arab Middle East and North Africa,950,Energy,1
+1251,2015,Guangdong Rising Asset Management,,Australia,Australia,810,Metals,0
+1469,2016,Guangxi Investment,,Malaysia,East Asia,140,Metals,1
+1706,2017,Guangzhou R&F and CC Land,,Britain,Europe,600,Real estate,0
+1028,2013,Guangzhou R&F Properties,,Malaysia,East Asia,1370,Real estate,1
+1193,2014,Guanzhou Dongsong,,Uganda,Sub-Saharan Africa,620,Chemicals,1
+2692,2017,Guizhou Transportation Planning,,Kenya,Sub-Saharan Africa,710,Transport,1
+2722,2018,Guizhou Transportation Planning,,Mauritius,Sub-Saharan Africa,320,Real estate,0
+1778,2017,Guizhou Tyre,,Vietnam,East Asia,250,Transport,1
+1195,2014,Guodian,,Canada,North America,150,Energy,0
+1233,2015,Guodian,,South Africa,Sub-Saharan Africa,380,Energy,1
+1385,2016,Haier,,USA,USA,5400,Other,0
+1929,2018,Haier,,Italy,Europe,550,Other,0
+1508,2016,Hailiang,,Australia,Australia,140,Real estate,0
+1181,2014,Haitong Securities,,Portugal,Europe,470,Finance,1
+1884,2018,Hangzhou Great Star,,Switzerland,Europe,190,Other,0
+1686,2017,Hangzhou Great Star Industrial,,USA,USA,130,Other,0
+1544,2016,Hangzhou Lianluo Interactive,,USA,USA,260,Other,0
+1823,2018,Hanrui Cobalt and Qingyuan Keweike Mineral,,Congo,Sub-Saharan Africa,220,Metals,1
+1964,2013,Harbin Electric,,Vietnam,East Asia,870,Energy,1
+1172,2014,Harbin Electric,,Russian Federation,West Asia,450,Energy,1
+2230,2015,Harbin Electric,,Pakistan,West Asia,1100,Energy,1
+2496,2016,Harbin Electric,,Indonesia,East Asia,1470,Energy,1
+2388,2016,Harbin Electric,,UAE,Arab Middle East and North Africa,2150,Energy,1
+2769,2018,Harbin Electric,,Pakistan,West Asia,280,Energy,1
+1640,2017,Hebei Construction,,Laos,East Asia,140,Energy,1
+2535,2017,Hebei Construction and Investment Group,,Laos,East Asia,140,Energy,1
+1614,2017,Hebei Iron,,Serbia,Europe,120,Metals,1
+1143,2014,Hebei Iron and Steel,,Switzerland,Europe,400,Metals,0
+1592,2016,Hebei Steel,,Serbia,Europe,120,Metals,1
+1167,2014,Hebei Zhongbo Platinum,,South Africa,Sub-Saharan Africa,230,Metals,1
+2825,2018,Heilongjiang Construction,,India,West Asia,390,Transport,0
+1106,2014,Heilongjiang Grand Farm,,Australia,Australia,190,Agriculture,0
+1032,2013,Henan Civil Aviation,,Luxembourg,Europe,220,Transport,0
+2548,2017,Henan International Cooperation,,Kenya,Sub-Saharan Africa,170,Transport,1
+1011,2013,Henan Meijing,,USA,USA,100,Transport,0
+2765,2018,Henan Senyuan,,Mongolia,East Asia,180,Energy,1
+1730,2017,Hengkang Medical,,Australia,Australia,240,Health,0
+2685,2017,Hengtong Group,,Cambodia,East Asia,200,Energy,1
+1365,2015,Highland Fund,,Russian Federation,West Asia,100,Metals,1
+1863,2018,Highsun,,Netherlands,Europe,230,Chemicals,0
+1867,2018,Hillhouse-led consortium,,USA,USA,180,Health,0
+1772,2017,Hisense Group,,Japan,East Asia,110,Entertainment,0
+1858,2018,Hisense Group,,Slovenia,Europe,340,Other,1
+1013,2013,HNA,,Netherlands,Europe,470,Logistics,0
+1093,2014,HNA,,Spain,Europe,180,Tourism,0
+1351,2015,HNA,,Brazil,South America,460,Transport,0
+1312,2015,HNA,,Britain,Europe,330,Real estate,0
+1313,2015,HNA,,Ireland,Europe,5170,Transport,0
+1286,2015,HNA,,Switzerland,Europe,2810,Logistics,0
+1462,2016,HNA,,Australia,Australia,110,Transport,0
+1434,2016,HNA,,Britain,Europe,190,Real estate,0
+1386,2016,HNA,,Ireland,Europe,1200,Transport,0
+1436,2016,HNA,,Switzerland,Europe,1440,Tourism,0
+1559,2016,HNA,,USA,USA,6500,Tourism,0
+1671,2017,HNA,,Austria,Europe,230,Finance,1
+1725,2017,HNA,,Brazil,South America,320,Transport,0
+1672,2017,HNA,,Germany,Europe,1360,Finance,0
+1744,2017,HNA,,Singapore,East Asia,1030,Logistics,1
+1754,2017,HNA,,Sweden,Europe,140,Tourism,0
+1665,2017,HNA,,Switzerland,Europe,1360,Tourism,0
+1666,2017,HNA,,USA,USA,10380,Transport,0
+1741,2017,Hongbo Group,,Poland,Europe,100,Other,1
+1852,2018,Hongduo Group,,Cambodia,East Asia,300,Transport,1
+1087,2014,Hongqiao,,Guinea,Sub-Saharan Africa,110,Metals,1
+1134,2014,Hongqiao,,Indonesia,East Asia,840,Metals,1
+1291,2015,Hongshi,,Nepal,West Asia,250,Real estate,1
+1728,2017,Hongshi,,Laos,East Asia,210,Real estate,1
+1764,2017,Hosen Capital,,Australia,Australia,270,Agriculture,0
+1241,2015,Hua Capital and CITIC,,USA,USA,1900,Technology,0
+1232,2015,Huadian,,Indonesia,East Asia,870,Energy,1
+2625,2017,Huadian,,Vietnam,East Asia,810,Energy,1
+2785,2018,Huadian,,Bangladesh,West Asia,440,Energy,1
+1908,2018,Huadong,,Britain,Europe,220,Health,0
+1037,2013,Huaneng,,Cambodia,East Asia,410,Energy,1
+2143,2015,Huaneng and Shandong RuYi,,Pakistan,West Asia,1810,Energy,1
+1108,2014,Huapont,,USA,USA,220,Agriculture,0
+1442,2016,Huatai Securities,,USA,USA,780,Finance,0
+1010,2013,Huawei,,Britain,Europe,200,Technology,0
+1957,2013,Huawei,,Denmark,Europe,700,Technology,0
+1157,2014,Huawei,,Canada,North America,180,Technology,0
+2198,2015,Huawei,,Guinea,Sub-Saharan Africa,240,Technology,1
+2220,2015,Huawei,,India,West Asia,190,Technology,0
+1610,2016,Huawei,,Israel,Europe,150,Technology,1
+2441,2016,Huawei,,Serbia,Europe,170,Technology,1
+2615,2017,Huawei,,Cameroon,Sub-Saharan Africa,120,Energy,1
+1656,2017,Huawei,,New Zealand,East Asia,280,Technology,1
+2794,2018,Huawei,,Australia,Australia,100,Technology,0
+2808,2018,Huawei,,Papua New Guinea,East Asia,200,Technology,1
+1808,2018,Huaxin Cement,,Nepal,West Asia,140,Real estate,1
+2852,2018,Huaxin Cement,,Philippines,East Asia,250,Real estate,1
+1056,2014,Huaxin Post and Telecom,,France,Europe,310,Technology,0
+1144,2014,Huayi Brothers,,USA,USA,130,Entertainment,0
+1864,2018,Huazhu Hotels,,France,Europe,560,Tourism,0
+1080,2014,Hubei Fuxing Science,,Australia,Australia,510,Real estate,0
+1710,2017,Humanwell,,USA,USA,180,Health,0
+1424,2016,Humanwell Healthcare,,USA,USA,280,Health,0
+1679,2017,Humanwell Healthcare,,Australia,Australia,600,Health,0
+2636,2017,Hunan Construction Engineering,,Kenya,Sub-Saharan Africa,200,Utilities,1
+2804,2018,Hunan Construction Engineering,,Bangladesh,West Asia,330,Utilities,1
+1231,2015,Hunan TV,,USA,USA,380,Entertainment,0
+1050,2014,ICBC,,Britain,Europe,690,Finance,0
+1076,2014,ICBC,,Turkey,West Asia,320,Finance,1
+1332,2015,ICBC,,Brazil,South America,2000,Energy,0
+1506,2016,IDG,,Germany,Europe,440,Other,0
+1529,2016,IDG Capital,,France,Europe,110,Entertainment,0
+1379,2016,Inspur Group,,India,West Asia,100,Entertainment,0
+1589,2016,JA Solar,,Vietnam,East Asia,320,Energy,1
+1631,2017,JAC Motors,,Mexico,North America,110,Transport,0
+1307,2015,Jangho,,Australia,Australia,150,Health,0
+1415,2016,Jangho,,Australia,Australia,130,Health,0
+1700,2017,JD.com,,Britain,Europe,400,Other,0
+1734,2017,JD.com,,Indonesia,East Asia,100,Transport,1
+1751,2017,JD.com,,Thailand,East Asia,230,Other,1
+1208,2015,Jiangsu Changjiang,,Singapore,East Asia,1660,Technology,1
+1930,2018,Jiangsu Hagong,,Germany,Europe,100,Technology,0
+1939,2018,Jiangsu Hengyuan,,Uzbekistan,West Asia,200,Real estate,1
+2410,2016,Jiangsu International,,Papua New Guinea,East Asia,120,Logistics,1
+2766,2018,Jiangsu International,,Zimbabwe,Sub-Saharan Africa,150,Transport,1
+1528,2016,Jiangsu Longze,,India,West Asia,130,Energy,0
+1726,2017,Jiangsu Nantong,,India,West Asia,190,Real estate,0
+1729,2017,Jiangsu Overseas Cooperation and Investment-led consortium,,UAE,Arab Middle East and North Africa,300,Other,1
+1594,2016,Jiangsu Shagang led consortium,,Britain,Europe,2960,Technology,0
+1431,2016,Jiangsu Sunshine,,Ethiopia,Sub-Saharan Africa,350,Other,1
+2338,2016,Jiangsu Yonding,,Laos,East Asia,120,Energy,1
+2451,2016,Jiangsu Yongding,,Bangladesh,West Asia,1140,Energy,1
+1912,2018,Jiangxi Holitech,,India,West Asia,200,Technology,0
+2454,2016,Jiangxi International Economic and Technical Cooperation,,Kenya,Sub-Saharan Africa,130,Energy,1
+2600,2017,Jiangxi International Economic and Technical Cooperation,,Ghana,Sub-Saharan Africa,390,Transport,1
+2643,2017,Jiangxi International Economic and Technical Cooperation,,Zambia,Sub-Saharan Africa,1200,Transport,1
+1935,2018,Jiangxi investors,,Zambia,Sub-Saharan Africa,300,Other,1
+1565,2016,Jiangxi Zhongmei,,Kenya,Sub-Saharan Africa,140,Energy,1
+1169,2014,Jin Jiang Hotels,,France,Europe,1490,Tourism,0
+1273,2015,Jin Jiang Hotels,,France,Europe,430,Tourism,0
+1398,2016,Jin Jiang Hotels,,France,Europe,450,Tourism,0
+1566,2016,Jin Jiang Hotels,,USA,USA,130,Other,0
+1118,2014,Jinhua Huajian,,Ethiopia,Sub-Saharan Africa,300,Real estate,1
+1223,2015,Jinko Solar,,Malaysia,East Asia,100,Energy,1
+1502,2016,Jiquan Iron and Steel,,Jamaica,North America,300,Metals,0
+1264,2015,Jumei,,South Korea,East Asia,130,Other,1
+1025,2013,Keer Group,,USA,USA,220,Other,0
+1904,2018,Kunming Iron,,Bangladesh,West Asia,2130,Metals,1
+1837,2018,Kunming Iron,,Cambodia,East Asia,500,Transport,1
+1738,2017,Lander Sports,,Britain,Europe,270,Entertainment,0
+1359,2015,Landsea,,USA,USA,180,Real estate,0
+1099,2014,LeEco,,USA,USA,200,Entertainment,0
+1426,2016,LeEco,,USA,USA,160,Transport,0
+1109,2014,Legend,,Britain,Europe,1540,Agriculture,0
+1570,2016,Legend,,Australia,Australia,120,Energy,0
+1463,2016,Legend,,Britain,Europe,160,Finance,0
+1675,2017,Legend,,Australia,Australia,140,Energy,0
+1732,2017,Legend,,Luxembourg,Europe,1760,Finance,0
+1042,2014,Lenovo,,USA,USA,2910,Technology,0
+1507,2016,Lenovo,,Japan,East Asia,200,Technology,0
+1769,2017,Lenovo,,Japan,East Asia,220,Technology,0
+1160,2014,Lifan,,Russian Federation,West Asia,290,Transport,1
+1367,2015,Liuhe,,USA,USA,130,Agriculture,0
+1682,2017,Logan Property and Nanshan Group,,Singapore,East Asia,750,Real estate,1
+1816,2018,LONGi Green Energy,,India,West Asia,310,Energy,0
+1739,2017,Luxshare,,Germany,Europe,770,Transport,0
+1694,2017,Luye,,Australia,Australia,120,Health,0
+1362,2015,Luye Group,,Australia,Australia,690,Health,0
+1499,2016,Luye Group,,Switzerland,Europe,270,Health,0
+1857,2018,Luye Pharma,,Britain,Europe,540,Health,0
+1989,2013,MCC,,Indonesia,East Asia,180,Metals,1
+2108,2014,MCC,,India,West Asia,240,Metals,0
+1088,2014,MCC,,Iran,West Asia,350,Metals,1
+1139,2014,MCC,,Singapore,East Asia,380,Real estate,1
+2266,2015,MCC,,Indonesia,East Asia,260,Transport,1
+2252,2015,MCC,,Russian Federation,West Asia,400,Agriculture,1
+1267,2015,MCC,,Singapore,East Asia,230,Real estate,1
+2274,2015,MCC,,Zimbabwe,Sub-Saharan Africa,180,Energy,1
+1039,2013,Meidu Holding,,USA,USA,290,Energy,0
+1454,2016,Mengniu,,Australia,Australia,220,Agriculture,0
+1765,2017,MIE,,Canada,North America,360,Energy,0
+1965,2013,Ming Yan,,Romania,Europe,540,Energy,1
+1622,2017,Ming Yuan Silu,,Uzbekistan,West Asia,110,Real estate,1
+1077,2014,Minmetals,,Peru,South America,6990,Metals,0
+2482,2016,Minmetals,,Algeria,Arab Middle East and North Africa,460,Real estate,1
+2327,2016,Minmetals,,Jordan,Arab Middle East and North Africa,350,Chemicals,1
+2490,2016,Minmetals,,Kuwait,Arab Middle East and North Africa,530,Health,1
+2508,2016,Minmetals,,Malaysia,East Asia,1360,Metals,1
+2406,2016,Minmetals,,Philippines,East Asia,800,Tourism,1
+2334,2016,Minmetals,,Saudi Arabia,Arab Middle East and North Africa,230,Real estate,1
+2355,2016,Minmetals,,Singapore,East Asia,140,Transport,1
+2361,2016,Minmetals,,USA,USA,100,Tourism,0
+2630,2017,Minmetals,,Bolivia,South America,200,Transport,1
+2520,2017,Minmetals,,Indonesia,East Asia,600,Real estate,1
+2667,2017,Minmetals,,Kuwait,Arab Middle East and North Africa,500,Transport,1
+2658,2017,Minmetals,,Malaysia,East Asia,340,Tourism,1
+2522,2017,Minmetals,,Maldives,West Asia,280,Real estate,1
+2631,2017,Minmetals,,Pakistan,West Asia,200,Energy,1
+2571,2017,Minmetals,,Papua New Guinea,East Asia,350,Real estate,1
+2666,2017,Minmetals,,Philippines,East Asia,170,Entertainment,1
+2597,2017,Minmetals,,Russian Federation,West Asia,590,Real estate,1
+2521,2017,Minmetals,,USA,USA,350,Tourism,0
+2523,2017,Minmetals,,Vietnam,East Asia,230,Real estate,1
+2716,2018,Minmetals,,Indonesia,East Asia,320,Metals,1
+2720,2018,Minmetals,,Malaysia,East Asia,170,Real estate,1
+2719,2018,Minmetals,,Serbia,Europe,110,Metals,1
+2836,2018,Minmetals,,Singapore,East Asia,250,Real estate,1
+2773,2018,Minmetals,,Sri Lanka,West Asia,1040,Transport,1
+2717,2018,Minmetals,,Vietnam,East Asia,100,Metals,1
+1687,2017,Minsheng,,USA,USA,110,Real estate,0
+1330,2015,Moon Lake Investments,,Australia,Australia,200,Agriculture,0
+1481,2016,Nanshan Group,,Australia,Australia,200,Transport,0
+2623,2017,Nantong,,Morocco,Arab Middle East and North Africa,390,Real estate,1
+1339,2015,Nantong Fujitsu,,Malaysia,East Asia,370,Technology,1
+1288,2015,NetDragon,,Britain,Europe,130,Entertainment,0
+1842,2018,NetDragon,,USA,USA,140,Other,0
+1880,2018,NetEase,,USA,USA,100,Entertainment,0
+1797,2018,New China Capital,,Netherlands,Europe,460,Metals,0
+1861,2018,Nine Dragons,,USA,USA,180,Other,0
+1874,2018,Ningbo Jifeng,,Germany,Europe,450,Transport,0
+1206,2015,Ningbo Joyson,,Germany,Europe,110,Transport,0
+1392,2016,Ningbo Joyson,,Germany,Europe,200,Transport,0
+1391,2016,Ningbo Joyson,,USA,USA,920,Transport,0
+1771,2017,Ningbo Joyson,,Japan,East Asia,1590,Transport,0
+1468,2016,Ningxia investors (Oman Wangfang),,Oman,Arab Middle East and North Africa,240,Other,1
+1034,2013,Norinco,,Laos,East Asia,180,Energy,1
+2038,2014,Norinco,,Guinea-Bissau,Sub-Saharan Africa,200,Energy,0
+2215,2015,Norinco,,Ethiopia,Sub-Saharan Africa,230,Energy,1
+2302,2016,Norinco,,Iran,West Asia,330,Transport,1
+2304,2016,Norinco,,Kenya,Sub-Saharan Africa,120,Energy,1
+2303,2016,Norinco,,Laos,East Asia,340,Energy,1
+2670,2017,Norinco,,Iran,West Asia,1530,Chemicals,1
+2595,2017,Norinco,,Iraq,Arab Middle East and North Africa,450,Real estate,1
+2596,2017,Norinco,,Kazakhstan,West Asia,710,Metals,1
+1824,2018,Norinco,,Croatia,Europe,220,Energy,1
+2782,2018,Norinco,,Iraq,Arab Middle East and North Africa,1350,Energy,1
+1948,2018,Oceanwide,,USA,USA,2650,Finance,0
+1027,2013,Oceanwide Holdings,,USA,USA,180,Real estate,0
+1298,2015,Oceanwide Holdings,,USA,USA,390,Real estate,0
+1518,2016,Oceanwide Holdings,,USA,USA,280,Tourism,0
+1617,2017,Oceanwide Holdings and IDG Capital,,USA,USA,540,Technology,0
+1811,2018,Orient Securities,,Spain,Europe,1260,Entertainment,0
+1688,2017,Pagoda Investments,,Australia,Australia,100,Health,0
+1396,2016,Perfect World Pictures,,USA,USA,250,Entertainment,0
+1299,2015,Phicomm,,India,West Asia,100,Technology,0
+1201,2015,Ping An,,Britain,Europe,480,Real estate,0
+1483,2016,Ping An,,USA,USA,210,Other,0
+1783,2017,Ping An,,Britain,Europe,9660,Finance,0
+1746,2017,Ping An,,Japan,East Asia,240,Health,0
+1931,2018,Ping An,,Britain,Europe,2300,Finance,0
+1963,2013,Power Construction Corp,,Algeria,Arab Middle East and North Africa,510,Energy,1
+1973,2013,Power Construction Corp,,Macedonia,Europe,400,Transport,1
+1991,2013,Power Construction Corp,,Nigeria,Sub-Saharan Africa,1290,Energy,1
+1975,2013,Power Construction Corp,,Singapore,East Asia,150,Transport,1
+1950,2013,Power Construction Corp,,Tanzania,Sub-Saharan Africa,140,Energy,1
+2055,2014,Power Construction Corp,,Bolivia,South America,240,Energy,1
+2004,2014,Power Construction Corp,,Ecuador,South America,240,Energy,1
+2000,2014,Power Construction Corp,,Eritrea,Sub-Saharan Africa,100,Energy,0
+2083,2014,Power Construction Corp,,Ethiopia,Sub-Saharan Africa,440,Energy,1
+2093,2014,Power Construction Corp,,Laos,East Asia,120,Energy,1
+2081,2014,Power Construction Corp,,Pakistan,West Asia,1300,Energy,1
+2042,2014,Power Construction Corp,,Philippines,East Asia,1000,Energy,1
+2094,2014,Power Construction Corp,,Qatar,Arab Middle East and North Africa,220,Utilities,1
+1165,2014,Power Construction Corp,,Russian Federation,West Asia,1460,Energy,1
+2099,2014,Power Construction Corp,,Saudi Arabia,Arab Middle East and North Africa,1290,Energy,1
+2070,2014,Power Construction Corp,,Singapore,East Asia,200,Transport,1
+2125,2014,Power Construction Corp,,Trinidad-Tobago,North America,100,Utilities,1
+2008,2014,Power Construction Corp,,Venezuela,South America,480,Transport,1
+2082,2014,Power Construction Corp,,Zimbabwe,Sub-Saharan Africa,530,Energy,1
+2148,2015,Power Construction Corp,,Argentina,South America,300,Energy,0
+2199,2015,Power Construction Corp,,Bangladesh,West Asia,1360,Energy,1
+2287,2015,Power Construction Corp,,Benin,Sub-Saharan Africa,160,Energy,0
+2140,2015,Power Construction Corp,,Cameroon,Sub-Saharan Africa,650,Energy,1
+1294,2015,Power Construction Corp,,Democratic Republic of the Congo,Sub-Saharan Africa,220,Metals,0
+2253,2015,Power Construction Corp,,Georgia,West Asia,100,Transport,1
+2250,2015,Power Construction Corp,,Ghana,Sub-Saharan Africa,550,Energy,1
+2145,2015,Power Construction Corp,,Haiti,North America,240,Energy,0
+2254,2015,Power Construction Corp,,India,West Asia,150,Transport,0
+2180,2015,Power Construction Corp,,Indonesia,East Asia,780,Energy,1
+2178,2015,Power Construction Corp,,Kenya,Sub-Saharan Africa,130,Energy,1
+2232,2015,Power Construction Corp,,Kuwait,Arab Middle East and North Africa,210,Energy,1
+2288,2015,Power Construction Corp,,Laos,East Asia,1190,Energy,1
+2135,2015,Power Construction Corp,,Mexico,North America,390,Energy,0
+1326,2015,Power Construction Corp,,Mongolia,East Asia,510,Energy,1
+2251,2015,Power Construction Corp,,Nigeria,Sub-Saharan Africa,580,Energy,1
+1234,2015,Power Construction Corp,,Pakistan,West Asia,1070,Energy,1
+2257,2015,Power Construction Corp,,Qatar,Arab Middle East and North Africa,1400,Utilities,1
+2244,2015,Power Construction Corp,,Saudi Arabia,Arab Middle East and North Africa,700,Energy,1
+2231,2015,Power Construction Corp,,Thailand,East Asia,170,Energy,1
+2163,2015,Power Construction Corp,,Venezuela,South America,1500,Energy,1
+2293,2015,Power Construction Corp,,Zambia,Sub-Saharan Africa,170,Energy,1
+2395,2016,Power Construction Corp,,Angola,Sub-Saharan Africa,680,Utilities,1
+2456,2016,Power Construction Corp,,Argentina,South America,340,Energy,0
+2507,2016,Power Construction Corp,,Bangladesh,West Asia,280,Energy,1
+2323,2016,Power Construction Corp,,Bolivia,South America,430,Transport,1
+2307,2016,Power Construction Corp,,Cameroon,Sub-Saharan Africa,300,Energy,1
+2378,2016,Power Construction Corp,,Democratic Republic of the Congo,Sub-Saharan Africa,660,Energy,0
+2336,2016,Power Construction Corp,,Ecuador,South America,100,Health,1
+1564,2016,Power Construction Corp,,Indonesia,East Asia,250,Energy,1
+2428,2016,Power Construction Corp,,Iran,West Asia,360,Energy,1
+2359,2016,Power Construction Corp,,Israel,Europe,260,Energy,1
+2316,2016,Power Construction Corp,,Kazakhstan,West Asia,340,Energy,1
+2495,2016,Power Construction Corp,,Kenya,Sub-Saharan Africa,200,Transport,1
+1447,2016,Power Construction Corp,,Laos,East Asia,2030,Energy,1
+2314,2016,Power Construction Corp,,Madagascar,Sub-Saharan Africa,270,Energy,1
+2443,2016,Power Construction Corp,,Malaysia,East Asia,1910,Transport,1
+2377,2016,Power Construction Corp,,Myanmar,East Asia,130,Energy,1
+2375,2016,Power Construction Corp,,Oman,Arab Middle East and North Africa,2300,Energy,1
+2363,2016,Power Construction Corp,,Pakistan,West Asia,910,Energy,1
+2313,2016,Power Construction Corp,,Saudi Arabia,Arab Middle East and North Africa,390,Real estate,1
+2479,2016,Power Construction Corp,,Serbia,Europe,220,Transport,1
+2415,2016,Power Construction Corp,,Sri Lanka,West Asia,120,Energy,1
+2411,2016,Power Construction Corp,,Thailand,East Asia,110,Energy,1
+1600,2016,Power Construction Corp,,USA,USA,100,Real estate,0
+2402,2016,Power Construction Corp,,Zimbabwe,Sub-Saharan Africa,600,Energy,1
+2591,2017,Power Construction Corp,,Bangladesh,West Asia,470,Transport,1
+2584,2017,Power Construction Corp,,Bolivia,South America,280,Transport,1
+2652,2017,Power Construction Corp,,Egypt,Arab Middle East and North Africa,1990,Energy,1
+2675,2017,Power Construction Corp,,Ivory Coast,Sub-Saharan Africa,350,Energy,1
+2540,2017,Power Construction Corp,,Jamaica,North America,760,Energy,0
+2590,2017,Power Construction Corp,,Jordan,Arab Middle East and North Africa,380,Energy,1
+2572,2017,Power Construction Corp,,Kazakhstan,West Asia,160,Energy,1
+2587,2017,Power Construction Corp,,Nepal,West Asia,350,Transport,1
+2539,2017,Power Construction Corp,,Pakistan,West Asia,130,Energy,1
+2559,2017,Power Construction Corp,,Poland,Europe,150,Energy,1
+2576,2017,Power Construction Corp,,Saudi Arabia,Arab Middle East and North Africa,1370,Energy,1
+2686,2017,Power Construction Corp,,Serbia,Europe,230,Energy,1
+2679,2017,Power Construction Corp,,Turkey,West Asia,1090,Energy,1
+1854,2018,Power Construction Corp,,Bangladesh,West Asia,360,Energy,1
+2790,2018,Power Construction Corp,,Bolivia,South America,110,Utilities,1
+2751,2018,Power Construction Corp,,Cameroon,Sub-Saharan Africa,890,Energy,1
+2783,2018,Power Construction Corp,,Indonesia,East Asia,100,Energy,1
+2723,2018,Power Construction Corp,,Kenya,Sub-Saharan Africa,100,Energy,1
+2710,2018,Power Construction Corp,,Laos,East Asia,110,Energy,1
+2708,2018,Power Construction Corp,,Myanmar,East Asia,180,Energy,1
+2835,2018,Power Construction Corp,,Nepal,West Asia,170,Energy,1
+2787,2018,Power Construction Corp,,Nigeria,Sub-Saharan Africa,120,Agriculture,1
+2786,2018,Power Construction Corp,,Panama,North America,130,Utilities,1
+2805,2018,Power Construction Corp,,Rwanda,Sub-Saharan Africa,130,Transport,1
+2847,2018,Power Construction Corp,,Saudi Arabia,Arab Middle East and North Africa,3020,Transport,1
+2806,2018,Power Construction Corp,,Sierra Leone,Sub-Saharan Africa,300,Metals,1
+2747,2018,Power Construction Corp,,Thailand,East Asia,470,Chemicals,1
+2824,2018,Power Construction Corp,,Ukraine,Europe,340,Energy,1
+2791,2018,Power Construction Corp,,Vietnam,East Asia,390,Energy,1
+2789,2018,Power Construction Corp,,Zimbabwe,Sub-Saharan Africa,1490,Energy,1
+2815,2018,Power Construction Engineering,,Bangladesh,West Asia,280,Utilities,1
+1777,2017,Primavera Capital,,USA,USA,120,Other,0
+1457,2016,Qianhai Zone Authority,,Indonesia,East Asia,200,Transport,1
+1897,2018,Qifeng New Material,,Kazakhstan,West Asia,160,Other,1
+1495,2016,Qihoo and Beijing Kunlun,,Norway,Europe,610,Technology,0
+1834,2018,Qingdao Doublestar,,South Korea,East Asia,600,Transport,1
+1361,2015,Qingdao Hengshun,,South Africa,Sub-Saharan Africa,110,Energy,1
+2477,2016,Qingdao Hengshun Zhongsheng,,Philippines,East Asia,440,Energy,1
+1650,2017,Qingdao Lu Haifeng,,Malaysia,East Asia,280,Agriculture,1
+1475,2016,Qingjian,,Singapore,East Asia,460,Real estate,1
+2694,2017,Qingjian,,Singapore,East Asia,100,Real estate,1
+2776,2018,Qingjian,,Singapore,East Asia,130,Real estate,1
+1859,2018,Qumei Home Furnishing,,Norway,Europe,630,Other,0
+1458,2016,Recon Group,,Britain,Europe,100,Entertainment,0
+1149,2014,Reignwood,,Britain,Europe,220,Entertainment,0
+1384,2016,Reignwood,,Norway,Europe,110,Other,0
+1343,2015,Renren,,USA,USA,150,Finance,0
+1152,2014,Risen Energy,,Mexico,North America,600,Energy,0
+1809,2018,Risen Energy,,Australia,Australia,100,Energy,0
+1128,2014,Rongsheng Heavy Industries,,Kyrgyzstan,West Asia,280,Energy,1
+1161,2014,SAFE,,Belgium,Europe,170,Real estate,0
+1136,2014,SAFE,,Britain,Europe,290,Real estate,0
+1155,2014,SAFE,,Germany,Europe,630,Real estate,0
+1063,2014,SAFE,,Italy,Europe,2760,Energy,0
+1278,2015,SAFE,,Italy,Europe,1220,Finance,0
+1375,2015,SAFE,,Portugal,Europe,590,Energy,1
+1317,2015,SAFE,,Russian Federation,West Asia,1210,Energy,1
+1243,2015,SAFE,,Spain,Europe,730,Energy,0
+1596,2016,SAFE,,Russian Federation,West Asia,1150,Energy,1
+1895,2018,SAFE,,UAE,Arab Middle East and North Africa,930,Energy,1
+1369,2015,Sailun,,Vietnam,East Asia,190,Transport,1
+2743,2018,Sanghai Safbon,,Kazakhstan,West Asia,100,Utilities,1
+1078,2014,Sanpower,,Britain,Europe,760,Other,0
+1612,2017,Sanpower,,Canada,North America,820,Health,0
+1115,2014,Sany Heavy,,Brazil,South America,300,Real estate,0
+1401,2016,Sany Heavy,,India,West Asia,100,Real estate,0
+1719,2017,Sanyuan Foods,,France,Europe,730,Agriculture,0
+1551,2016,Sequoia Resources,,Canada,North America,100,Energy,0
+1048,2014,Shaanxi Coal and Chemical,,Kyrgyzstan,West Asia,430,Energy,1
+1584,2016,Shaanxi Ligeance,,Britain,Europe,400,Transport,0
+1440,2016,Shanda Group,,USA,USA,350,Finance,0
+1517,2016,Shanda Investment,,USA,USA,120,Health,0
+1258,2015,Shandong Bright Ruby,,Australia,Australia,340,Tourism,0
+1114,2014,Shandong Daiyin,,Malaysia,East Asia,200,Other,1
+1190,2014,Shandong Gaosu,,France,Europe,190,Transport,0
+2133,2014,Shandong Gaosu,,South Sudan,Sub-Saharan Africa,2100,Transport,1
+2292,2015,Shandong Gaosu,,East Timor,East Asia,270,Utilities,1
+2661,2017,Shandong Gaosu,,Bosnia,Europe,640,Transport,1
+1661,2017,Shandong Gold,,Argentina,South America,960,Metals,0
+1486,2016,Shandong Heavy,,Luxembourg,Europe,2100,Transport,0
+1693,2017,Shandong Heavy,,Germany,Europe,1420,Real estate,0
+1909,2018,Shandong Heavy Unit,,Canada,North America,160,Transport,0
+1735,2017,Shandong Hengyuan,,Malaysia,East Asia,140,Energy,1
+1235,2015,Shandong Iron,,Sierra Leone,Sub-Saharan Africa,770,Metals,1
+2746,2018,Shandong Kerui,,Brazil,South America,530,Energy,0
+1174,2014,Shandong Landbridge,,Australia,Australia,170,Energy,0
+1331,2015,Shandong Landbridge,,Australia,Australia,370,Transport,0
+1474,2016,Shandong Landbridge,,Panama,North America,900,Transport,1
+1911,2018,Shandong Linglong,,Serbia,Europe,990,Transport,1
+1839,2018,Shandong Linglong Tire,,Thailand,East Asia,230,Transport,1
+1872,2018,Shandong Nanshan Aluminum,,Indonesia,East Asia,390,Metals,1
+1066,2014,Shandong Ruyi,,Pakistan,West Asia,120,Other,1
+1611,2016,Shandong Ruyi,,Britain,Europe,120,Other,0
+1414,2016,Shandong Ruyi,,France,Europe,1480,Other,0
+1788,2017,Shandong Ruyi,,USA,USA,2040,Other,0
+1917,2018,Shandong Ruyi,,Nigeria,Sub-Saharan Africa,200,Other,1
+1817,2018,Shandong Ruyi,,Switzerland,Europe,690,Other,0
+1623,2017,Shandong Sun Paper,,Laos,East Asia,290,Other,1
+1899,2018,Shandong Sun Paper,,Laos,East Asia,640,Other,1
+1799,2018,Shandong Sun Paper,,USA,USA,1760,Other,0
+1747,2017,Shandong Weigao,,USA,USA,850,Health,0
+1583,2016,Shandong Yuhuang Chemical,,USA,USA,1850,Chemicals,0
+1260,2015,Shanghai Auto,,Malaysia,East Asia,280,Transport,1
+1222,2015,Shanghai Auto and Wuling,,Indonesia,East Asia,390,Transport,1
+1549,2016,Shanghai Capital,,USA,USA,510,Technology,0
+2107,2014,Shanghai Construction,,Tanzania,Sub-Saharan Africa,550,Real estate,1
+1292,2015,Shanghai Construction,,USA,USA,130,Real estate,0
+2841,2018,Shanghai Construction,,Zimbabwe,Sub-Saharan Africa,110,Real estate,1
+2800,2018,Shanghai Construction Group,,Cambodia,East Asia,260,Transport,1
+1086,2014,Shanghai Electric,,Italy,Europe,560,Energy,0
+2106,2014,Shanghai Electric,,Malaysia,East Asia,240,Energy,1
+1525,2016,Shanghai Electric,,Germany,Europe,220,Transport,0
+2556,2017,Shanghai Electric,,Ethiopia,Sub-Saharan Africa,100,Energy,1
+2656,2017,Shanghai Electric,,Serbia,Europe,210,Energy,1
+2762,2018,Shanghai Electric,,UAE,Arab Middle East and North Africa,1930,Energy,1
+1946,2018,Shanghai Giant,,Germany,Europe,110,Entertainment,0
+1522,2016,Shanghai Giant-led consortium,,Israel,Europe,4400,Entertainment,1
+1689,2017,Shanghai Gongbao,,Greece,Europe,560,Technology,1
+1035,2013,Shanghai Greenland,,Britain,Europe,980,Real estate,0
+1016,2013,Shanghai Greenland,,South Korea,East Asia,980,Tourism,1
+1053,2014,Shanghai Greenland,,Australia,Australia,540,Real estate,0
+1070,2014,Shanghai Greenland,,Britain,Europe,1060,Real estate,0
+1069,2014,Shanghai Greenland,,Canada,North America,320,Tourism,0
+1079,2014,Shanghai Greenland,,Malaysia,East Asia,740,Real estate,1
+1185,2014,Shanghai Greenland,,USA,USA,3220,Real estate,0
+1276,2015,Shanghai Greenland,,Australia,Australia,130,Real estate,0
+1204,2015,Shanghai Greenland,,Malaysia,East Asia,530,Real estate,1
+1200,2015,Shanghai Greenland,,South Korea,East Asia,3220,Real estate,1
+1580,2016,Shanghai Greenland,,Canada,North America,120,Real estate,0
+1659,2017,Shanghai Greenland,,Australia,Australia,230,Real estate,0
+1805,2018,Shanghai Greenland,,USA,USA,1150,Real estate,0
+1512,2016,Shanghai Industrial and Primavera Capital,,Australia,Australia,230,Agriculture,0
+1373,2015,Shanghai Inesa,,Britain,Europe,160,Other,0
+1417,2016,Shanghai Inesa,,Australia,Australia,120,Technology,0
+1649,2017,Shanghai Inesa,,Poland,Europe,110,Other,1
+1098,2014,Shanghai International Group and Sanpower,,USA,USA,170,Other,0
+1873,2018,Shanghai Lingang,,Belgium,Europe,100,Logistics,0
+1848,2018,Shanghai MicroPort Scientific,,France,Europe,190,Health,0
+1309,2015,Shanghai Municipal,,USA,USA,160,Real estate,0
+1532,2016,Shanghai Municipal Investment,,USA,USA,300,Real estate,0
+1452,2016,Shanghai Pengxin,,Brazil,South America,290,Agriculture,0
+1713,2017,Shanghai Pengxin,,Brazil,South America,250,Agriculture,0
+1147,2014,Shanghai Shenglong,,Australia,Australia,150,Real estate,0
+1257,2015,Shanghai Shenglong,,Australia,Australia,140,Real estate,0
+1510,2016,Shanghai Shenglong,,Australia,Australia,110,Real estate,0
+2048,2014,Shanghai Shentong,,Singapore,East Asia,290,Transport,1
+1821,2018,Shanghai Stock Exchange,,Bangladesh,West Asia,160,Finance,1
+1731,2017,Shanghai Taison,,Sweden,Europe,290,Other,0
+2096,2014,Shanghai Tunnel Engineering,,Singapore,East Asia,270,Transport,1
+2509,2016,Shanghai Tunnel Engineering,,Singapore,East Asia,220,Transport,1
+2669,2017,Shanghai Tunnel Engineering,,Singapore,East Asia,350,Utilities,1
+1681,2017,Shanghai United Real Estate,,Australia,Australia,100,Tourism,0
+1349,2015,Shanghai Yuyuan Tourist Mart,,Japan,East Asia,150,Tourism,0
+1017,2013,Shanghai Zendai,,South Africa,Sub-Saharan Africa,110,Real estate,1
+1453,2016,Shanghai Zhongji,,Britain,Europe,300,Entertainment,0
+1785,2017,Shanghai-based consortium,,Italy,Europe,360,Health,0
+1344,2015,Shanxi Building Material,,Namibia,Sub-Saharan Africa,270,Real estate,1
+1021,2013,Shenhua,,Russian Federation,West Asia,460,Energy,1
+1033,2013,Shenhua,,USA,USA,120,Energy,0
+1368,2015,Shenhua,,Indonesia,East Asia,1320,Energy,1
+1534,2016,Shenyang Blue Silver,,Germany,Europe,110,Other,0
+1634,2017,Shenyang Lan Sa,,Guinea-Bissau,Sub-Saharan Africa,170,Energy,0
+2525,2017,Shenzhen Energy,,Papua New Guinea,East Asia,880,Energy,1
+1268,2015,Shenzhen Energy and China Development Bank,,Ghana,Sub-Saharan Africa,450,Energy,1
+1091,2014,Shenzhen Genzon,,USA,USA,350,Real estate,0
+1320,2015,Shenzhen Government,,Jordan,Arab Middle East and North Africa,350,Other,1
+1553,2016,Shenzhen Government,,Singapore,East Asia,990,Finance,1
+1030,2013,Shenzhen Hazens,,USA,USA,100,Tourism,0
+1029,2013,Shenzhen Hepalink,,USA,USA,340,Health,0
+1306,2015,Shenzhen Hepalink,,USA,USA,210,Health,0
+1868,2018,Shenzhen Invengo,,Netherlands,Europe,200,Technology,0
+2662,2017,Shenzhen Metro,,Israel,Europe,170,Transport,1
+1567,2016,Shenzhen Yuhu,,Australia,Australia,190,Real estate,0
+1660,2017,Shougang,,Peru,South America,500,Metals,0
+1126,2014,Sichuan Department of Agriculture,,Uganda,Sub-Saharan Africa,300,Agriculture,1
+1261,2015,Sichuan Hanlong,,Tanzania,Sub-Saharan Africa,2700,Metals,1
+1959,2013,Sichuan Railway Industry,,Norway,Europe,130,Transport,0
+2855,2018,Sichuan Road and Bridge,,Bangladesh,West Asia,180,Transport,1
+1189,2014,Sichuan Xinglida,,USA,USA,160,Tourism,0
+2071,2014,Sino Great Wall,,Kuwait,Arab Middle East and North Africa,140,Real estate,1
+2295,2015,Sino Great Wall,,Sri Lanka,West Asia,250,Real estate,1
+2396,2016,Sino Great Wall,,Cambodia,East Asia,290,Real estate,1
+2408,2016,Sino Great Wall,,Congo,Sub-Saharan Africa,300,Real estate,1
+2427,2016,Sino Great Wall,,Indonesia,East Asia,230,Metals,1
+2321,2016,Sino Great Wall,,Myanmar,East Asia,200,Real estate,1
+2567,2017,Sino Great Wall,,Cambodia,East Asia,620,Energy,1
+2614,2017,Sino Great Wall,,Malaysia,East Asia,130,Real estate,1
+2544,2017,Sino Great Wall,,Sri Lanka,West Asia,100,Real estate,1
+2754,2018,Sino Great Wall,,Cambodia,East Asia,300,Transport,1
+2755,2018,Sino Great Wall,,Kuwait,Arab Middle East and North Africa,220,Real estate,1
+2728,2018,Sino Great Wall,,Laos,East Asia,1380,Real estate,1
+2756,2018,Sino Great Wall,,Qatar,Arab Middle East and North Africa,230,Real estate,1
+1645,2017,Sino-Europe Sports,,Italy,Europe,530,Entertainment,0
+1335,2015,Sinocare,,USA,USA,270,Health,0
+2346,2016,Sinochem,,Ethiopia,Sub-Saharan Africa,250,Chemicals,1
+1425,2016,Sinochem,,Singapore,East Asia,180,Agriculture,1
+1472,2016,Sinochem,,USA,USA,110,Chemicals,0
+1290,2015,Sinoenergy,,Canada,North America,170,Energy,0
+1402,2016,Sinoenergy,,Canada,North America,560,Energy,0
+1692,2017,Sinoenergy,,Canada,North America,190,Energy,0
+2183,2015,Sinolight,,Oman,Arab Middle East and North Africa,300,Agriculture,1
+1983,2013,Sinoma,,Nigeria,Sub-Saharan Africa,540,Real estate,1
+2031,2014,Sinoma,,Algeria,Arab Middle East and North Africa,260,Real estate,1
+2030,2014,Sinoma,,Congo,Sub-Saharan Africa,180,Real estate,1
+2052,2014,Sinoma,,Democratic Republic of the Congo,Sub-Saharan Africa,300,Real estate,0
+2066,2014,Sinoma,,Egypt,Arab Middle East and North Africa,370,Real estate,1
+2118,2014,Sinoma,,Indonesia,East Asia,350,Real estate,1
+1997,2014,Sinoma,,Iraq,Arab Middle East and North Africa,190,Real estate,1
+2046,2014,Sinoma,,Russian Federation,West Asia,150,Real estate,1
+2188,2015,Sinoma,,Algeria,Arab Middle East and North Africa,270,Real estate,1
+2212,2015,Sinoma,,Cameroon,Sub-Saharan Africa,120,Real estate,1
+2209,2015,Sinoma,,Ethiopia,Sub-Saharan Africa,240,Real estate,1
+2207,2015,Sinoma,,Kenya,Sub-Saharan Africa,290,Real estate,1
+2213,2015,Sinoma,,Mali,Sub-Saharan Africa,120,Real estate,0
+2208,2015,Sinoma,,Nepal,West Asia,290,Real estate,1
+2210,2015,Sinoma,,Niger,Sub-Saharan Africa,140,Real estate,0
+2221,2015,Sinoma,,Nigeria,Sub-Saharan Africa,600,Real estate,1
+2170,2015,Sinoma,,Turkey,West Asia,160,Real estate,1
+1329,2015,Sinoma,,Zambia,Sub-Saharan Africa,500,Real estate,1
+2379,2016,Sinoma,,Egypt,Arab Middle East and North Africa,1190,Real estate,1
+1978,2013,Sinomach,,Bangladesh,West Asia,180,Technology,1
+1961,2013,Sinomach,,Bolivia,South America,100,Transport,1
+1966,2013,Sinomach,,Equatorial Guinea,Sub-Saharan Africa,130,Utilities,0
+1968,2013,Sinomach,,Jordan,Arab Middle East and North Africa,270,Other,1
+1971,2013,Sinomach,,Kenya,Sub-Saharan Africa,290,Health,1
+1958,2013,Sinomach,,Papua New Guinea,East Asia,170,Transport,1
+1981,2013,Sinomach,,Poland,Europe,190,Energy,1
+1979,2013,Sinomach,,Sri Lanka,West Asia,430,Transport,1
+2074,2014,Sinomach,,Angola,Sub-Saharan Africa,990,Energy,1
+1996,2014,Sinomach,,Chad,Sub-Saharan Africa,130,Energy,1
+2015,2014,Sinomach,,Congo,Sub-Saharan Africa,250,Utilities,1
+2043,2014,Sinomach,,Democratic Republic of the Congo,Sub-Saharan Africa,300,Energy,0
+1993,2014,Sinomach,,Ghana,Sub-Saharan Africa,300,Utilities,1
+2028,2014,Sinomach,,Indonesia,East Asia,670,Energy,1
+2115,2014,Sinomach,,Iran,West Asia,320,Transport,1
+1999,2014,Sinomach,,Kuwait,Arab Middle East and North Africa,100,Energy,1
+2069,2014,Sinomach,,Kyrgyzstan,West Asia,300,Transport,1
+2124,2014,Sinomach,,Mozambique,Sub-Saharan Africa,610,Energy,1
+2103,2014,Sinomach,,Nepal,West Asia,220,Transport,1
+2091,2014,Sinomach,,Pakistan,West Asia,1130,Energy,1
+2095,2014,Sinomach,,Romania,Europe,270,Energy,1
+2045,2014,Sinomach,,Russian Federation,West Asia,180,Real estate,1
+1142,2014,Sinomach,,Serbia,Europe,1200,Energy,1
+2109,2014,Sinomach,,Sri Lanka,West Asia,690,Agriculture,1
+2126,2014,Sinomach,,Thailand,East Asia,120,Technology,1
+2072,2014,Sinomach,,Uzbekistan,West Asia,440,Chemicals,1
+2098,2014,Sinomach,,Zambia,Sub-Saharan Africa,110,Agriculture,1
+2234,2015,Sinomach,,Australia,Australia,140,Metals,0
+2203,2015,Sinomach,,Bolivia,South America,180,Chemicals,1
+2227,2015,Sinomach,,Ecuador,South America,220,Real estate,1
+2280,2015,Sinomach,,Indonesia,East Asia,1160,Energy,1
+2278,2015,Sinomach,,Ivory Coast,Sub-Saharan Africa,820,Energy,1
+2176,2015,Sinomach,,Laos,East Asia,480,Energy,1
+2255,2015,Sinomach,,Maldives,West Asia,190,Real estate,1
+2144,2015,Sinomach,,Mali,Sub-Saharan Africa,110,Energy,0
+1340,2015,Sinomach,,Pakistan,West Asia,150,Energy,1
+2246,2015,Sinomach,,Russian Federation,West Asia,1780,Other,1
+1220,2015,Sinomach,,Turkey,West Asia,380,Energy,1
+2380,2016,Sinomach,,Angola,Sub-Saharan Africa,400,Energy,1
+2366,2016,Sinomach,,Bangladesh,West Asia,100,Energy,1
+2500,2016,Sinomach,,Brazil,South America,150,Energy,0
+2446,2016,Sinomach,,Cambodia,East Asia,120,Energy,1
+2465,2016,Sinomach,,Ghana,Sub-Saharan Africa,230,Energy,1
+2445,2016,Sinomach,,Iraq,Arab Middle East and North Africa,1010,Energy,1
+2330,2016,Sinomach,,Kenya,Sub-Saharan Africa,220,Energy,1
+2343,2016,Sinomach,,Laos,East Asia,2100,Energy,1
+2458,2016,Sinomach,,Nigeria,Sub-Saharan Africa,410,Energy,1
+2339,2016,Sinomach,,Saudi Arabia,Arab Middle East and North Africa,180,Transport,1
+2385,2016,Sinomach,,Serbia,Europe,230,Energy,1
+2452,2016,Sinomach,,Sri Lanka,West Asia,480,Agriculture,1
+2399,2016,Sinomach,,Zambia,Sub-Saharan Africa,450,Utilities,1
+2579,2017,Sinomach,,Argentina,South America,1600,Transport,0
+2681,2017,Sinomach,,Cameroon,Sub-Saharan Africa,400,Energy,1
+2605,2017,Sinomach,,Democratic Republic of the Congo,Sub-Saharan Africa,130,Energy,0
+2588,2017,Sinomach,,Egypt,Arab Middle East and North Africa,400,Agriculture,1
+2566,2017,Sinomach,,Finland,Europe,850,Energy,0
+2687,2017,Sinomach,,Guinea,Sub-Saharan Africa,140,Utilities,1
+2530,2017,Sinomach,,Iran,West Asia,220,Metals,1
+2612,2017,Sinomach,,Kenya,Sub-Saharan Africa,130,Energy,1
+2637,2017,Sinomach,,Mongolia,East Asia,100,Energy,1
+2580,2017,Sinomach,,Morocco,Arab Middle East and North Africa,250,Transport,1
+2593,2017,Sinomach,,Mozambique,Sub-Saharan Africa,1190,Transport,1
+2644,2017,Sinomach,,Pakistan,West Asia,520,Energy,1
+2529,2017,Sinomach,,Serbia,Europe,720,Energy,1
+2682,2017,Sinomach,,Zimbabwe,Sub-Saharan Africa,150,Energy,1
+2854,2018,Sinomach,,Azerbaijan,West Asia,1170,Metals,1
+2832,2018,Sinomach,,Bolivia,South America,100,Chemicals,1
+2856,2018,Sinomach,,Ethiopia,Sub-Saharan Africa,100,Agriculture,1
+2735,2018,Sinomach,,Finland,Europe,980,Other,0
+2734,2018,Sinomach,,Iran,West Asia,840,Transport,1
+2760,2018,Sinomach,,Laos,East Asia,110,Health,1
+2730,2018,Sinomach,,Moldova,Europe,350,Energy,1
+2711,2018,Sinomach,,Myanmar,East Asia,380,Technology,1
+2780,2018,Sinomach,,Pakistan,West Asia,260,Energy,1
+2831,2018,Sinomach,,South Korea,East Asia,500,Real estate,1
+2725,2018,Sinomach,,UAE,Arab Middle East and North Africa,1140,Real estate,1
+2759,2018,Sinomach,,Ukraine,Europe,210,Energy,1
+1004,2013,Sinopec,,Sao Tome,Sub-Saharan Africa,150,Energy,0
+1075,2014,Sinopec,,Kazakhstan,West Asia,1090,Energy,1
+2077,2014,Sinopec,,Malaysia,East Asia,1330,Energy,1
+2039,2014,Sinopec,,Saudi Arabia,Arab Middle East and North Africa,190,Energy,1
+2248,2015,Sinopec,,Kuwait,Arab Middle East and North Africa,1700,Energy,1
+1360,2015,Sinopec,,Russian Federation,West Asia,1340,Energy,1
+2269,2015,Sinopec,,Rwanda,Sub-Saharan Africa,340,Energy,1
+2161,2015,Sinopec,,Saudi Arabia,Arab Middle East and North Africa,450,Chemicals,1
+2175,2015,Sinopec,,Thailand,East Asia,220,Chemicals,1
+2426,2016,Sinopec,,Ethiopia,Sub-Saharan Africa,220,Real estate,1
+2448,2016,Sinopec,,Malaysia,East Asia,190,Chemicals,1
+2594,2017,Sinopec,,Ethiopia,Sub-Saharan Africa,130,Real estate,1
+2688,2017,Sinopec,,Iran,West Asia,1050,Energy,1
+2533,2017,Sinopec,,Saudi Arabia,Arab Middle East and North Africa,250,Energy,1
+2634,2017,Sinopec,,Thailand,East Asia,190,Energy,1
+1829,2018,Sinopec,,Botswana,Sub-Saharan Africa,100,Energy,0
+2712,2018,Sinopec,,Ecuador,South America,150,Energy,1
+2803,2018,Sinopec,,Kuwait,Arab Middle East and North Africa,1060,Energy,1
+2853,2018,Sinopec,,Saudi Arabia,Arab Middle East and North Africa,290,Energy,1
+1828,2018,Sinopec,,South Africa,Sub-Saharan Africa,1330,Energy,1
+1085,2014,Sinopec and Huadian,,Canada,North America,1240,Energy,0
+2117,2014,Sinosteel,,Canada,North America,120,Energy,0
+2123,2014,Sinosteel,,Iran,West Asia,180,Energy,1
+2273,2015,Sinosteel,,Algeria,Arab Middle East and North Africa,140,Metals,1
+2270,2015,Sinosteel,,Indonesia,East Asia,180,Energy,1
+2165,2015,Sinosteel,,Malawi,Sub-Saharan Africa,210,Energy,0
+2167,2015,Sinosteel,,Russian Federation,West Asia,740,Metals,1
+2242,2015,Sinosteel,,South Sudan,Sub-Saharan Africa,380,Energy,1
+2394,2016,Sinosteel,,Algeria,Arab Middle East and North Africa,260,Metals,1
+2485,2016,Sinosteel,,Australia,Australia,110,Metals,0
+2386,2016,Sinosteel,,Indonesia,East Asia,140,Energy,1
+2301,2016,Sinosteel,,Iran,West Asia,470,Metals,1
+2483,2016,Sinosteel,,Russian Federation,West Asia,180,Metals,1
+2749,2018,Sinosteel,,Bolivia,South America,420,Metals,1
+1875,2018,Sinosteel,,Zimbabwe,Sub-Saharan Africa,980,Energy,1
+1125,2014,Solargiga,,Ghana,Sub-Saharan Africa,110,Energy,1
+1838,2018,Songcheng Performance,,Australia,Australia,300,Entertainment,0
+1295,2015,Southern Power,,Vietnam,East Asia,1760,Energy,1
+1795,2018,Southern Power,,Chile,South America,1300,Energy,1
+1962,2013,Southern Power Grid,,Laos,East Asia,300,Energy,1
+1892,2018,Southern Power Grid,,Luxembourg,Europe,470,Utilities,0
+1484,2016,Spearhead,,USA,USA,150,Technology,0
+1925,2018,StarTimes,,Zambia,Sub-Saharan Africa,270,Entertainment,1
+1012,2013,State Construction Engineering,,Britain,Europe,270,Real estate,0
+2058,2014,State Construction Engineering,,Algeria,Arab Middle East and North Africa,890,Transport,1
+2061,2014,State Construction Engineering,,Argentina,South America,350,Agriculture,0
+1159,2014,State Construction Engineering,,Britain,Europe,230,Real estate,0
+2025,2014,State Construction Engineering,,Congo,Sub-Saharan Africa,680,Transport,1
+2111,2014,State Construction Engineering,,Equatorial Guinea,Sub-Saharan Africa,210,Tourism,0
+2064,2014,State Construction Engineering,,Indonesia,East Asia,990,Metals,1
+2056,2014,State Construction Engineering,,Papua New Guinea,East Asia,250,Real estate,1
+2018,2014,State Construction Engineering,,Russian Federation,West Asia,710,Real estate,1
+2065,2014,State Construction Engineering,,Singapore,East Asia,190,Real estate,1
+2112,2014,State Construction Engineering,,Sri Lanka,West Asia,420,Transport,1
+2078,2014,State Construction Engineering,,UAE,Arab Middle East and North Africa,330,Tourism,1
+2021,2014,State Construction Engineering,,USA,USA,210,Transport,0
+1305,2015,State Construction Engineering,,Bahamas,North America,250,Tourism,0
+2164,2015,State Construction Engineering,,Britain,Europe,750,Real estate,0
+2223,2015,State Construction Engineering,,Brunei,East Asia,330,Transport,1
+2200,2015,State Construction Engineering,,Cambodia,East Asia,240,Real estate,1
+2236,2015,State Construction Engineering,,Congo,Sub-Saharan Africa,1000,Energy,1
+2193,2015,State Construction Engineering,,Djibouti,Sub-Saharan Africa,420,Transport,1
+2151,2015,State Construction Engineering,,Ethiopia,Sub-Saharan Africa,270,Real estate,1
+2202,2015,State Construction Engineering,,Gabon,Sub-Saharan Africa,100,Entertainment,1
+2154,2015,State Construction Engineering,,Kuwait,Arab Middle East and North Africa,460,Other,1
+2137,2015,State Construction Engineering,,Malaysia,East Asia,430,Real estate,1
+2156,2015,State Construction Engineering,,Mozambique,Sub-Saharan Africa,410,Transport,1
+2285,2015,State Construction Engineering,,Pakistan,West Asia,2890,Transport,1
+2206,2015,State Construction Engineering,,Panama,North America,140,Real estate,1
+2279,2015,State Construction Engineering,,Singapore,East Asia,110,Real estate,1
+2152,2015,State Construction Engineering,,Sri Lanka,West Asia,160,Real estate,1
+2141,2015,State Construction Engineering,,UAE,Arab Middle East and North Africa,170,Tourism,1
+2139,2015,State Construction Engineering,,USA,USA,170,Transport,0
+2192,2015,State Construction Engineering,,Zimbabwe,Sub-Saharan Africa,1100,Energy,1
+2310,2016,State Construction Engineering,,Algeria,Arab Middle East and North Africa,1720,Transport,1
+2324,2016,State Construction Engineering,,Ethiopia,Sub-Saharan Africa,120,Entertainment,1
+2345,2016,State Construction Engineering,,Indonesia,East Asia,300,Real estate,1
+2369,2016,State Construction Engineering,,Kuwait,Arab Middle East and North Africa,580,Other,1
+2460,2016,State Construction Engineering,,Malaysia,East Asia,230,Real estate,1
+2317,2016,State Construction Engineering,,New Zealand,East Asia,150,Real estate,1
+2312,2016,State Construction Engineering,,Panama,North America,190,Real estate,1
+2398,2016,State Construction Engineering,,Papua New Guinea,East Asia,180,Utilities,1
+2356,2016,State Construction Engineering,,Singapore,East Asia,490,Real estate,1
+2354,2016,State Construction Engineering,,South Korea,East Asia,610,Real estate,1
+2491,2016,State Construction Engineering,,UAE,Arab Middle East and North Africa,200,Energy,1
+1422,2016,State Construction Engineering,,USA,USA,690,Real estate,0
+2311,2016,State Construction Engineering,,Zambia,Sub-Saharan Africa,200,Transport,1
+2565,2017,State Construction Engineering,,Cambodia,East Asia,160,Entertainment,1
+2621,2017,State Construction Engineering,,Equatorial Guinea,Sub-Saharan Africa,720,Real estate,0
+2569,2017,State Construction Engineering,,Kuwait,Arab Middle East and North Africa,120,Other,1
+2664,2017,State Construction Engineering,,Maldives,West Asia,430,Real estate,1
+2607,2017,State Construction Engineering,,Pakistan,West Asia,380,Transport,1
+1636,2017,State Construction Engineering,,Singapore,East Asia,290,Real estate,1
+2699,2017,State Construction Engineering,,Slovenia,Europe,790,Transport,1
+2629,2017,State Construction Engineering,,Thailand,East Asia,170,Transport,1
+2648,2017,State Construction Engineering,,UAE,Arab Middle East and North Africa,2170,Real estate,1
+1690,2017,State Construction Engineering,,USA,USA,140,Real estate,0
+2622,2017,State Construction Engineering,,Vietnam,East Asia,110,Real estate,1
+2809,2018,State Construction Engineering,,Argentina,South America,2130,Transport,0
+2827,2018,State Construction Engineering,,Bolivia,South America,120,Transport,1
+2733,2018,State Construction Engineering,,Egypt,Arab Middle East and North Africa,2990,Real estate,1
+2784,2018,State Construction Engineering,,Ivory Coast,Sub-Saharan Africa,190,Transport,1
+2843,2018,State Construction Engineering,,Nepal,West Asia,150,Transport,1
+2810,2018,State Construction Engineering,,UAE,Arab Middle East and North Africa,350,Real estate,1
+2713,2018,State Construction Engineering,,USA,USA,500,Transport,0
+2726,2018,State Construction Engineering,,Vietnam,East Asia,230,Energy,1
+1893,2018,State Development and Investment,,Jordan,Arab Middle East and North Africa,500,Chemicals,1
+2284,2015,State Development and Investment Corp,,Barbados,North America,170,Tourism,0
+2455,2016,State Development and Investment Corp,,Cape Verde,Sub-Saharan Africa,130,Tourism,1
+2498,2016,State Development and Investment Corp,,Ethiopia,Sub-Saharan Africa,450,Chemicals,1
+2555,2017,State Development and Investment Corp,,Barbados,North America,120,Transport,0
+2546,2017,State Development and Investment Corp,,Laos,East Asia,310,Energy,1
+1116,2014,State Development and Investment Corp and Anhui Conch,,Indonesia,East Asia,320,Real estate,1
+1404,2016,State Development and Investment Corp.,,Britain,Europe,260,Energy,0
+1774,2017,State Energy Investment,,Greece,Europe,1640,Energy,1
+2005,2014,State Grid,,Brazil,South America,970,Energy,0
+1166,2014,State Grid,,Italy,Europe,2760,Energy,0
+2194,2015,State Grid,,Brazil,South America,2200,Energy,0
+2289,2015,State Grid,,Laos,East Asia,240,Utilities,1
+1599,2016,State Grid,,Brazil,South America,4910,Energy,0
+2344,2016,State Grid,,Egypt,Arab Middle East and North Africa,780,Energy,1
+2417,2016,State Grid,,Ethiopia,Sub-Saharan Africa,540,Energy,1
+1557,2016,State Grid,,Greece,Europe,350,Energy,1
+2416,2016,State Grid,,Kenya,Sub-Saharan Africa,720,Energy,1
+2497,2016,State Grid,,Pakistan,West Asia,1760,Energy,1
+1683,2017,State Grid,,Australia,Australia,290,Energy,0
+1776,2017,State Grid,,Brazil,South America,3440,Energy,0
+1363,2015,State Power Investment,,Australia,Australia,2200,Energy,0
+1418,2016,State Power Investment,,Australia,Australia,230,Energy,0
+1588,2016,State Power Investment,,Chile,South America,140,Energy,1
+1755,2017,State Power Investment,,Brazil,South America,2260,Energy,0
+1651,2017,State Power Investment,,Pakistan,West Asia,1480,Energy,1
+1480,2016,Suning,,Italy,Europe,310,Entertainment,0
+1756,2017,Sunlon,,Britain,Europe,180,Agriculture,0
+1170,2014,Sunshine Insurance,,Australia,Australia,400,Tourism,0
+1218,2015,Sunshine Insurance,,USA,USA,230,Tourism,0
+1194,2014,Taikang Life,,Britain,Europe,300,Real estate,0
+1575,2016,Taikang Life,,USA,USA,860,Real estate,0
+1283,2015,Taiping Life,,USA,USA,230,Real estate,0
+1915,2018,Tebian Electric,,Gabon,Sub-Saharan Africa,100,Energy,1
+1941,2018,Tebian Electric,,Guinea,Sub-Saharan Africa,830,Metals,1
+1951,2013,Tebian Electric Apparatus,,Tanzania,Sub-Saharan Africa,690,Energy,1
+2002,2014,Tebian Electric Apparatus,,Angola,Sub-Saharan Africa,780,Energy,1
+1097,2014,Tebian Electric Apparatus,,India,West Asia,100,Energy,0
+2053,2014,Tebian Electric Apparatus,,Kyrgyzstan,West Asia,390,Energy,1
+2060,2014,Tebian Electric Apparatus,,Pakistan,West Asia,190,Energy,1
+2444,2016,Tebian Electric Apparatus,,Bangladesh,West Asia,1660,Energy,1
+2552,2017,Tebian Electric Apparatus,,Ethiopia,Sub-Saharan Africa,100,Energy,1
+2553,2017,Tebian Electric Apparatus,,Mongolia,East Asia,120,Energy,1
+2761,2018,Tebian Electric Apparatus,,Egypt,Arab Middle East and North Africa,150,Energy,1
+2781,2018,Tebian Electric Apparatus,,Kenya,Sub-Saharan Africa,130,Energy,1
+1790,2017,Tempus,,Maldives,West Asia,110,Transport,1
+1065,2014,Tencent,,South Korea,East Asia,500,Entertainment,1
+1240,2015,Tencent,,USA,USA,130,Technology,0
+1490,2016,Tencent,,Finland,Europe,8600,Entertainment,0
+1663,2017,Tencent,,India,West Asia,700,Other,0
+1722,2017,Tencent,,Indonesia,East Asia,150,Transport,1
+1786,2017,Tencent,,Sweden,Europe,800,Entertainment,0
+1773,2017,Tencent,,USA,USA,2240,Entertainment,0
+1833,2018,Tencent,,France,Europe,460,Entertainment,0
+1801,2018,Tencent,,USA,USA,150,Entertainment,0
+1535,2016,Tencent and Legend,,USA,USA,100,Entertainment,0
+1205,2015,Tencent and Renren,,Israel,Europe,100,Technology,1
+1926,2018,Tenecent,,Brazil,South America,180,Finance,0
+1173,2014,Texhong Textile,,Vietnam,East Asia,210,Other,1
+1023,2013,Three Gorges,,Brazil,South America,250,Energy,0
+1952,2013,Three Gorges,,Ghana,Sub-Saharan Africa,240,Utilities,1
+1047,2014,Three Gorges,,Brazil,South America,390,Energy,0
+2100,2014,Three Gorges,,Ghana,Sub-Saharan Africa,310,Energy,1
+1998,2014,Three Gorges,,Nepal,West Asia,100,Energy,1
+2016,2014,Three Gorges,,Pakistan,West Asia,900,Energy,1
+1302,2015,Three Gorges,,Brazil,South America,490,Energy,0
+2226,2015,Three Gorges,,Guinea,Sub-Saharan Africa,1380,Energy,1
+1371,2015,Three Gorges,,Italy,Europe,100,Energy,0
+1370,2015,Three Gorges,,Poland,Europe,340,Energy,1
+2434,2016,Three Gorges,,Bolivia,South America,990,Energy,1
+1388,2016,Three Gorges,,Brazil,South America,3660,Energy,0
+1485,2016,Three Gorges,,Germany,Europe,1540,Energy,0
+2367,2016,Three Gorges,,Kenya,Sub-Saharan Africa,390,Energy,1
+2306,2016,Three Gorges,,Pakistan,West Asia,2400,Energy,1
+2700,2017,Three Gorges,,Ecuador,South America,110,Energy,1
+1733,2017,Three Gorges,,Peru,South America,1390,Energy,0
+1633,2017,Three Gorges,,Portugal,Europe,260,Energy,1
+1851,2018,Three Gorges,,Brazil,South America,190,Energy,0
+1876,2018,Three Gorges,,Chile,South America,240,Energy,1
+1554,2016,Three Gorges and China Development Bank,,Brazil,South America,1200,Energy,0
+1921,2018,Tianshui Huatian,,Malaysia,East Asia,440,Technology,1
+1827,2018,Tibet Summit and NextView Capital,,Canada,North America,210,Metals,0
+2026,2014,Tidfore Heavy,,Sierra Leone,Sub-Saharan Africa,710,Transport,1
+2701,2017,Tidfore Heavy,,Nigeria,Sub-Saharan Africa,200,Agriculture,1
+1511,2016,Tidfore Heavy Equipment,,India,West Asia,150,Metals,0
+1715,2017,Tidfore Heavy Equipment,,Liberia,Sub-Saharan Africa,250,Metals,0
+1798,2018,Triangle Tyre,,USA,USA,580,Transport,0
+1348,2015,Trina Solar,,India,West Asia,230,Energy,0
+1247,2015,Trina Solar,,Thailand,East Asia,160,Energy,1
+1603,2016,Trina Solar,,Vietnam,East Asia,100,Energy,1
+1685,2017,Truking Group,,Greece,Europe,110,Health,1
+1775,2017,Tsinghua Unigroup,,Britain,Europe,140,Technology,0
+1890,2018,Tsinghua Unigroup,,France,Europe,2570,Technology,0
+1455,2016,Tsinghua University,,USA,USA,120,Technology,0
+1889,2018,Tsinghua University,,Britain,Europe,110,Transport,0
+1297,2015,Tsingshan Steel,,Indonesia,East Asia,510,Metals,1
+1702,2017,Tsingshan Steel,,Indonesia,East Asia,150,Metals,1
+1825,2018,Tsingshan Steel,,India,West Asia,1160,Metals,0
+1923,2018,United Energy,,Kuwait,Arab Middle East and North Africa,650,Energy,1
+1272,2015,Uphill Investment,,USA,USA,730,Technology,0
+1541,2016,Vanke,,Britain,Europe,150,Real estate,0
+1770,2017,Vanke,,Singapore,East Asia,9060,Logistics,1
+1900,2018,Vanke,,USA,USA,170,Real estate,0
+1922,2018,Venus Medtech,,Israel,Europe,100,Health,1
+1168,2014,Vision Investment,,Australia,Australia,130,Real estate,0
+1403,2016,Visual China,,USA,USA,100,Entertainment,0
+1038,2013,Wanfeng Auto,,Canada,North America,170,Transport,0
+1444,2016,Wanfeng Auto,,USA,USA,300,Transport,0
+1638,2017,Wangsu S&T,,Japan,East Asia,190,Technology,0
+1058,2014,Wanxiang,,USA,USA,150,Transport,0
+1277,2015,Wanxiang,,USA,USA,100,Energy,0
+2217,2015,Western Power,,Senegal,Sub-Saharan Africa,570,Energy,1
+2650,2017,Western Power,,Britain,Europe,460,Energy,0
+1608,2016,WH Group,,Spain,Europe,350,Agriculture,0
+1943,2018,Wingtech,,Netherlands,Europe,880,Technology,0
+2372,2016,Wison Energy,,Saudi Arabia,Arab Middle East and North Africa,120,Chemicals,1
+2834,2018,Wison Energy,,Saudi Arabia,Arab Middle East and North Africa,150,Real estate,1
+2742,2018,Wison Energy,,USA,USA,360,Chemicals,0
+1883,2018,Wolong Electric,,USA,USA,160,Transport,0
+1796,2018,Wuxi No.1 Cotton Mill,,Ethiopia,Sub-Saharan Africa,220,Other,1
+1847,2018,WuXi Pharma,,Ireland,Europe,390,Health,0
+1321,2015,Xian Longi,,India,West Asia,250,Energy,0
+1494,2016,Xian Longi,,Malaysia,East Asia,240,Energy,1
+2763,2018,Xinjiang Beiken Energy Engineering,,Ukraine,Europe,120,Energy,1
+2654,2017,Xinjiang Communications Construction,,Ukraine,Europe,100,Transport,1
+2740,2018,Xinjiang Communications Construction,,Australia,Australia,820,Energy,0
+1742,2017,Xinjiang Goldwind,,Samoa,East Asia,110,Utilities,1
+1855,2018,Xinjiang Goldwind and Power Construction Corp,,Australia,Australia,100,Energy,0
+1477,2016,Xinjiang Goldwing and China Energy Conservation,,Australia,Australia,310,Energy,0
+1176,2014,Xinyi Glass,,Malaysia,East Asia,200,Real estate,1
+1491,2016,Xiwang Group,,Canada,North America,580,Agriculture,0
+1504,2016,Xuzhou Construction Machinery,,Brazil,South America,100,Real estate,0
+1493,2016,Xuzhou Construction Machinery,,India,West Asia,250,Real estate,0
+1164,2014,Yankuang,,Australia,Australia,2960,Energy,0
+1703,2017,Yankuang,,Australia,Australia,1480,Energy,0
+1736,2017,Yanlord-led consortium,,Singapore,East Asia,220,Real estate,1
+1334,2015,Yantai Xinchao,,USA,USA,1080,Energy,0
+1100,2014,Yida,,Antigua and Barbuda,North America,740,Tourism,1
+1162,2014,Yili Industrial,,New Zealand,East Asia,310,Agriculture,1
+1615,2017,Yonghui Superstores Co.,,USA,USA,160,Other,0
+1846,2018,Yu Kuo,,France,Europe,320,Agriculture,0
+1980,2013,Yuanda,,Singapore,East Asia,120,Real estate,1
+1882,2018,YuanMing Capital led consortium,,USA,USA,150,Health,0
+2744,2018,Yunda,,USA,USA,100,Entertainment,0
+1366,2015,Yunnan Construction Engineering,,Laos,East Asia,100,Real estate,1
+2768,2018,Yunnan Construction Engineering,,Laos,East Asia,1230,Transport,1
+1197,2014,Yunnan Dongyan,,Laos,East Asia,130,Energy,1
+1657,2017,Yunnan Energy Investment,,Laos,East Asia,160,Energy,1
+2291,2015,Yunnan Provincial Energy,,Laos,East Asia,120,Real estate,1
+1520,2016,Yunyi Guokai Shanghai,,Britain,Europe,190,Entertainment,0
+1198,2014,Zhejiang Hengyi,,Brunei,East Asia,3440,Energy,1
+1942,2018,Zhejiang Huayou,,Democratic Republic of the Congo,Sub-Saharan Africa,150,Metals,0
+1618,2017,Zhejiang Jinke,,Slovenia,Europe,1050,Entertainment,1
+1074,2014,Zhejiang Rongsheng,,Canada,North America,440,Energy,0
+1869,2018,Zhejiang Semir,,France,Europe,130,Other,0
+1061,2014,Zhenfa New Energy Science,,Zimbabwe,Sub-Saharan Africa,250,Energy,1
+1674,2017,Zhengzhou Coal,,Germany,Europe,600,Transport,0
+1509,2016,Zhonghong,,USA,USA,410,Tourism,0
+1641,2017,Zhonghong Zhuoye,,USA,USA,430,Entertainment,0
+2179,2015,Zhongman Petroleum,,Iraq,Arab Middle East and North Africa,530,Energy,1
+2845,2018,Zhongman Petroleum,,Iraq,Arab Middle East and North Africa,100,Energy,1
+1938,2018,Zhongrong Xinda,,Peru,South America,2360,Metals,0
+1263,2015,Zhongrun Resources,,Mongolia,East Asia,1940,Metals,1
+1752,2017,Zhongwang,,Germany,Europe,230,Metals,0
+1358,2015,Zhuhai Port Holdings,,Pakistan,West Asia,1620,Transport,1
+1443,2016,Zhuhai Seine Technology and Legend,,USA,USA,3400,Technology,0
+1428,2016,Zhuhai Zhenrong,,Myanmar,East Asia,2100,Energy,1
+1389,2016,Zhuzhou Kibing,,Malaysia,East Asia,210,Real estate,1
+1252,2015,Zijin Mining,,Congo,Sub-Saharan Africa,410,Metals,1
+1209,2015,Zijin Mining,,Kyrgyzstan,West Asia,150,Metals,1
+1253,2015,Zijin Mining,,Papua New Guinea,East Asia,300,Metals,1
+1913,2018,Zijin Mining,,Canada,North America,1410,Metals,0
+1903,2018,Zijin Mining,,Serbia,Europe,1260,Metals,1
+1269,2015,ZOJE Resources,,Russian Federation,West Asia,440,Agriculture,1
+1006,2013,Zongshen Industrial,,Myanmar,East Asia,100,Metals,1
+1119,2014,ZTE,,Brazil,South America,100,Technology,0
+1310,2015,ZTE,,Pakistan,West Asia,1440,Energy,1
+2256,2015,ZTE,,Zimbabwe,Sub-Saharan Africa,200,Energy,1
+2506,2016,ZTE,,Italy,Europe,1010,Technology,0
+1590,2016,ZTE,,Turkey,West Asia,100,Technology,1

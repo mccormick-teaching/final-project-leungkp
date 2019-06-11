@@ -1,0 +1,138 @@
+---
+title: "BRI_network"
+author: "Kai Ping (Brian) Leung"
+date: "6/5/2019"
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Prerequisite
+```{r}
+rm(list=ls())
+library(tidyverse)
+library(readxl)
+library(statnet)
+library(xergm)
+library(tidygraph)
+library(ggraph)
+library(stargazer)
+```
+
+# Load data
+```{r}
+# Investment data
+invest <- read_xlsx("data/investment.xlsx", skip = 4, col_names = T)
+colnames(invest) <- tolower(colnames(invest))
+
+invest <- invest %>% 
+  filter(is.na(bri) == FALSE) %>% 
+  mutate(type = "invest")
+
+# Construction data
+constr <- read_xlsx("data/construction.xlsx", skip = 4, col_names = T) 
+colnames(constr) <- tolower(colnames(constr))
+
+constr <- constr %>% 
+  filter(is.na(bri) == FALSE) %>% 
+  mutate(type = "constr") %>% 
+  rename(investor = contractor)
+
+# Combine both
+BRI <- bind_rows(invest, constr) 
+
+BRI <- BRI %>%
+  mutate(id = 1000 + row_number(),
+         investor = word(investor, 1, sep = ",")) %>%
+  rename(quantity = `quantity in millions`,
+         party = `transaction party`) %>%
+  select(id, year, investor, party, country, region, quantity, sector, bri, type) %>%
+  #filter(is.na(party) == FALSE) %>%
+  #mutate(party = if_else(is.na(party) == TRUE, as.character(id), party)) %>%
+  group_by(investor, country) %>%
+  arrange(desc(quantity)) %>%
+  slice(1) %>%
+  ungroup()
+
+BRI %>%
+  summarize_at(vars(investor, country), list(~ n_distinct(.)))
+```
+
+# ERGM
+```{r}
+investors <- unique(BRI$investor)
+countries <- unique(BRI$country)
+
+#countries <- unique(BRI$country)
+BRI_matrix <- matrix(0, nrow = length(investors), ncol = length(countries))
+rownames(BRI_matrix) <- investors
+colnames(BRI_matrix) <- countries
+
+for(i in 1:nrow(BRI)){
+  investor <- BRI[i, ]$investor
+  country <- BRI[i, ]$country
+  BRI_matrix[investor, country] <- 1
+}
+
+BRI_net <- 
+  BRI_matrix %>%
+  as.network(directed=F, bipartite=T, matrix.type = "bipartite")
+
+region <- BRI %>% distinct(country, region)
+region <- c(rep(NA, length(investors)), region$region)
+set.vertex.attribute(BRI_net, "region", region)
+
+bri <- BRI %>% distinct(country, bri) 
+bri <- c(rep(NA, length(investors)), bri$bri)
+set.vertex.attribute(BRI_net, "bri", bri)
+
+# ERGM
+model1 <- ergm(BRI_net ~ 
+                 edges + gwb1degree (1, fixed = TRUE)
+               )
+
+model2 <- ergm(BRI_net ~ 
+                 edges + gwb1degree (1, fixed = TRUE) + 
+                 b2factor("bri")
+               )
+
+model3 <- ergm(BRI_net ~ 
+                 edges + gwb1degree (1, fixed = TRUE) + 
+                 b2factor("bri") + b2factor("region", base = 3)
+               )
+
+stargazer(model1, model2, model3)
+
+mcmc.diagnostics(model2)
+```
+
+# Visualization using Gephi
+```{r}
+# BRI_graph <- 
+#   BRI %>%
+#   select(investor, country:type) %>%
+#   rename(from = investor, to = country) %>%
+#   as_tbl_graph() %>%
+#   mutate(type = if_else(name %in% unique(BRI$investor), TRUE, FALSE)) %>%
+#   filter(group_components() == 1)
+
+# BRI_graph %>%
+#   as_tibble() %>%
+#   mutate(id = row_number()) %>%
+#   rename(Id = id, Label = name, Type = type) %>%
+#   select(Id, Label, Type) %>%
+#   mutate(Mode = if_else(Type == TRUE, 1, 2)) %>%
+#   write_csv("output/nodes.csv")
+# 
+# BRI_graph %>%
+#   activate(edges) %>%
+#   as_tibble() %>%
+#   rename(Source = from, Target = to) %>%
+#   write_csv("output/edges.csv")
+```

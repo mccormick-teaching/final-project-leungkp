@@ -1,0 +1,1245 @@
+Source,Target,region,quantity,sector,bri,type
+1,511,North America,290,Health,0,invest
+2,512,Europe,160,Health,0,invest
+3,513,South America,100,Finance,0,invest
+3,514,West Asia,680,Technology,0,invest
+3,515,East Asia,500,Other,1,invest
+3,516,West Asia,180,Finance,1,invest
+3,517,West Asia,480,Technology,1,invest
+3,518,East Asia,2000,Other,1,invest
+3,519,East Asia,200,Other,1,invest
+3,520,East Asia,320,Other,1,invest
+3,521,USA,220,Technology,0,invest
+4,522,Europe,310,Finance,0,invest
+4,511,North America,510,Real estate,0,invest
+4,523,Europe,1670,Finance,0,invest
+4,519,East Asia,1030,Finance,1,invest
+4,521,USA,5720,Tourism,0,invest
+5,524,East Asia,120,Real estate,1,invest
+5,517,West Asia,310,Real estate,1,invest
+6,525,Sub-Saharan Africa,500,Metals,1,invest
+7,519,East Asia,1100,Tourism,1,invest
+8,526,Europe,610,Other,0,invest
+8,521,USA,170,Other,0,invest
+9,527,Europe,200,Transport,0,invest
+10,526,Europe,5050,Entertainment,0,invest
+11,528,Arab Middle East and North Africa,140,Energy,1,constr
+12,529,Europe,2440,Technology,0,invest
+12,511,North America,110,Transport,0,invest
+12,530,Arab Middle East and North Africa,1240,Transport,1,constr
+12,527,Europe,640,Transport,0,invest
+12,531,Europe,130,Finance,0,invest
+12,512,Europe,120,Transport,0,invest
+12,521,USA,800,Transport,0,invest
+12,532,Sub-Saharan Africa,400,Transport,1,constr
+13,533,Sub-Saharan Africa,310,Real estate,1,invest
+14,521,USA,600,Transport,0,invest
+15,534,Australia,100,Finance,0,invest
+15,535,Sub-Saharan Africa,1140,Metals,0,invest
+15,518,East Asia,160,Logistics,1,invest
+15,536,West Asia,110,Finance,1,invest
+15,521,USA,600,Real estate,0,invest
+16,534,Australia,860,Metals,0,invest
+17,514,West Asia,560,Technology,0,invest
+18,527,Europe,710,Transport,0,invest
+18,514,West Asia,300,Transport,0,invest
+18,537,Sub-Saharan Africa,770,Transport,1,invest
+19,529,Europe,120,Real estate,0,invest
+19,538,East Asia,800,Utilities,1,invest
+19,521,USA,100,Real estate,0,invest
+20,529,Europe,220,Real estate,0,constr
+21,534,Australia,210,Utilities,0,invest
+21,527,Europe,1590,Energy,0,invest
+21,539,East Asia,160,Utilities,1,constr
+21,517,West Asia,1080,Energy,1,invest
+22,521,USA,150,Entertainment,0,invest
+23,521,USA,430,Other,0,invest
+24,540,North America,200,Tourism,0,constr
+24,541,South America,300,Transport,1,constr
+24,542,West Asia,990,Transport,1,constr
+24,539,East Asia,1300,Transport,1,constr
+24,543,West Asia,400,Transport,1,constr
+25,527,Europe,1240,Transport,0,invest
+26,534,Australia,990,Agriculture,0,invest
+27,511,North America,180,Other,0,invest
+28,521,USA,240,Entertainment,0,invest
+29,544,Europe,1560,Agriculture,1,invest
+29,538,East Asia,200,Agriculture,1,invest
+29,512,Europe,120,Agriculture,0,invest
+30,534,Australia,550,Health,0,invest
+31,545,South America,100,Transport,0,invest
+31,513,South America,690,Transport,0,constr
+31,521,USA,100,Transport,0,invest
+32,529,Europe,150,Other,0,invest
+33,529,Europe,180,Finance,0,invest
+34,529,Europe,740,Technology,0,invest
+35,529,Europe,1410,Real estate,0,invest
+36,534,Australia,1430,Health,0,invest
+37,546,Sub-Saharan Africa,110,Energy,1,invest
+37,547,Europe,310,Real estate,1,invest
+37,517,West Asia,500,Energy,1,invest
+38,548,Arab Middle East and North Africa,890,Energy,1,invest
+39,534,Australia,120,Real estate,0,invest
+40,544,Europe,1400,Agriculture,1,invest
+41,527,Europe,1000,Real estate,0,invest
+41,549,Europe,7860,Transport,0,invest
+41,550,Europe,640,Energy,0,invest
+41,551,Europe,360,Energy,0,invest
+42,527,Europe,340,Other,0,invest
+43,527,Europe,220,Utilities,0,invest
+44,534,Australia,310,Metals,0,invest
+44,552,South America,4070,Metals,1,invest
+45,553,East Asia,280,Metals,1,invest
+46,541,South America,300,Technology,1,constr
+46,519,East Asia,180,Transport,1,invest
+47,538,East Asia,180,Agriculture,1,invest
+48,513,South America,170,Finance,0,invest
+49,554,West Asia,210,Transport,1,constr
+49,555,Sub-Saharan Africa,830,Transport,1,constr
+49,545,South America,390,Energy,0,constr
+49,534,Australia,1960,Transport,0,constr
+49,556,West Asia,1070,Transport,1,constr
+49,541,South America,190,Transport,1,constr
+49,513,South America,280,Transport,0,invest
+49,529,Europe,470,Energy,0,constr
+49,557,North America,110,Transport,0,constr
+49,558,East Asia,200,Transport,1,constr
+49,524,East Asia,2080,Transport,1,constr
+49,559,Sub-Saharan Africa,700,Logistics,1,constr
+49,560,South America,260,Transport,0,constr
+49,561,Sub-Saharan Africa,2300,Transport,1,constr
+49,562,Europe,340,Transport,1,constr
+49,563,North America,200,Tourism,0,constr
+49,564,Sub-Saharan Africa,490,Logistics,0,constr
+49,565,South America,520,Transport,1,constr
+49,530,Arab Middle East and North Africa,120,Logistics,1,constr
+49,566,Sub-Saharan Africa,350,Transport,0,constr
+49,567,Sub-Saharan Africa,400,Transport,0,constr
+49,568,Sub-Saharan Africa,300,Transport,1,constr
+49,527,Europe,440,Logistics,0,constr
+49,569,Sub-Saharan Africa,480,Logistics,1,constr
+49,570,Sub-Saharan Africa,770,Transport,1,constr
+49,515,East Asia,900,Transport,1,constr
+49,571,West Asia,500,Transport,1,constr
+49,528,Arab Middle East and North Africa,170,Utilities,1,constr
+49,544,Europe,950,Transport,1,constr
+49,572,North America,350,Transport,0,constr
+49,533,Sub-Saharan Africa,400,Energy,1,constr
+49,542,West Asia,400,Transport,1,constr
+49,573,Europe,110,Transport,1,constr
+49,574,Sub-Saharan Africa,1020,Transport,1,constr
+49,539,East Asia,2060,Transport,1,constr
+49,543,West Asia,140,Transport,1,constr
+49,575,Europe,1120,Transport,1,constr
+49,525,Sub-Saharan Africa,190,Energy,1,constr
+49,576,East Asia,120,Transport,1,constr
+49,577,Sub-Saharan Africa,360,Transport,1,constr
+49,578,Sub-Saharan Africa,680,Transport,1,constr
+49,516,West Asia,1320,Transport,1,constr
+49,579,North America,1520,Transport,1,constr
+49,580,East Asia,100,Transport,1,constr
+49,581,East Asia,1670,Energy,1,constr
+49,582,Arab Middle East and North Africa,170,Transport,1,constr
+49,583,Sub-Saharan Africa,100,Transport,1,constr
+49,584,Sub-Saharan Africa,680,Logistics,0,constr
+49,585,Arab Middle East and North Africa,500,Utilities,1,constr
+49,586,Sub-Saharan Africa,1080,Transport,1,constr
+49,587,Europe,520,Transport,1,constr
+49,518,East Asia,200,Transport,1,invest
+49,588,Sub-Saharan Africa,800,Transport,1,constr
+49,589,West Asia,1430,Real estate,1,invest
+49,590,Arab Middle East and North Africa,680,Transport,0,constr
+49,591,Sub-Saharan Africa,200,Transport,1,constr
+49,520,East Asia,280,Transport,1,constr
+49,592,Sub-Saharan Africa,850,Transport,1,constr
+49,521,USA,290,Real estate,0,invest
+49,593,Arab Middle East and North Africa,510,Transport,1,constr
+50,534,Australia,1500,Finance,0,invest
+50,513,South America,720,Finance,0,invest
+50,529,Europe,190,Real estate,0,invest
+51,594,South America,250,Energy,1,invest
+52,595,Europe,440,Transport,0,invest
+53,513,South America,100,Real estate,0,constr
+54,556,West Asia,120,Utilities,1,constr
+54,512,Europe,1570,Utilities,0,invest
+54,521,USA,150,Health,0,invest
+55,555,Sub-Saharan Africa,2770,Energy,1,constr
+55,545,South America,3660,Energy,0,constr
+55,556,West Asia,780,Energy,1,constr
+55,596,Europe,340,Energy,1,constr
+55,513,South America,190,Utilities,0,invest
+55,529,Europe,180,Energy,0,constr
+55,559,Sub-Saharan Africa,3500,Transport,1,constr
+55,546,Sub-Saharan Africa,310,Energy,1,constr
+55,565,South America,200,Real estate,1,constr
+55,530,Arab Middle East and North Africa,990,Utilities,1,constr
+55,566,Sub-Saharan Africa,390,Utilities,0,constr
+55,597,Sub-Saharan Africa,200,Energy,1,constr
+55,569,Sub-Saharan Africa,550,Energy,1,constr
+55,515,East Asia,560,Energy,1,constr
+55,571,West Asia,1960,Utilities,1,constr
+55,598,Sub-Saharan Africa,410,Energy,1,constr
+55,599,Arab Middle East and North Africa,1600,Energy,1,constr
+55,600,West Asia,180,Real estate,1,invest
+55,533,Sub-Saharan Africa,640,Agriculture,1,constr
+55,601,Arab Middle East and North Africa,710,Real estate,1,constr
+55,602,Sub-Saharan Africa,160,Energy,0,invest
+55,539,East Asia,250,Energy,1,constr
+55,603,East Asia,100,Energy,1,invest
+55,576,East Asia,100,Energy,1,constr
+55,604,West Asia,2540,Energy,1,constr
+55,578,Sub-Saharan Africa,5790,Energy,1,invest
+55,516,West Asia,1720,Energy,1,constr
+55,580,East Asia,480,Energy,1,constr
+55,581,East Asia,850,Energy,1,constr
+55,582,Arab Middle East and North Africa,660,Utilities,1,constr
+55,517,West Asia,1470,Energy,1,constr
+55,536,West Asia,300,Energy,1,constr
+55,605,Europe,250,Energy,1,constr
+55,594,South America,1620,Energy,1,constr
+55,606,East Asia,1400,Energy,1,constr
+56,518,East Asia,660,Entertainment,1,invest
+57,515,East Asia,300,Real estate,1,invest
+58,539,East Asia,120,Finance,1,invest
+59,607,Sub-Saharan Africa,640,Transport,0,constr
+60,515,East Asia,610,Metals,1,invest
+61,529,Europe,160,Energy,0,invest
+61,595,Europe,110,Energy,0,invest
+61,531,Europe,430,Energy,0,invest
+61,539,East Asia,5960,Energy,1,invest
+61,577,Sub-Saharan Africa,1920,Metals,1,invest
+61,608,Europe,710,Energy,0,invest
+62,578,Sub-Saharan Africa,550,Technology,1,invest
+63,532,Sub-Saharan Africa,490,Transport,1,constr
+64,591,Sub-Saharan Africa,310,Transport,1,constr
+65,556,West Asia,1010,Energy,1,invest
+66,518,East Asia,190,Logistics,1,invest
+67,527,Europe,130,Transport,0,invest
+68,515,East Asia,110,Energy,1,invest
+69,545,South America,300,Technology,0,invest
+70,529,Europe,950,Real estate,0,invest
+70,521,USA,1010,Logistics,0,invest
+71,521,USA,330,Real estate,0,invest
+72,568,Sub-Saharan Africa,650,Agriculture,1,constr
+73,609,Sub-Saharan Africa,100,Real estate,0,invest
+74,529,Europe,400,Entertainment,0,invest
+75,534,Australia,820,Transport,0,invest
+75,596,Europe,140,Logistics,1,invest
+75,513,South America,920,Transport,0,invest
+75,589,West Asia,1120,Transport,1,invest
+75,536,West Asia,920,Transport,1,invest
+76,589,West Asia,390,Logistics,1,invest
+77,529,Europe,110,Real estate,0,invest
+78,610,Europe,130,Transport,0,invest
+78,518,East Asia,1500,Finance,1,invest
+78,537,Sub-Saharan Africa,1230,Real estate,1,constr
+78,608,Europe,2590,Finance,0,invest
+79,516,West Asia,520,Technology,1,invest
+79,519,East Asia,280,Technology,1,invest
+79,520,East Asia,880,Technology,1,invest
+80,513,South America,1500,Chemicals,0,invest
+80,535,Sub-Saharan Africa,2650,Metals,0,invest
+81,611,Arab Middle East and North Africa,230,Real estate,1,constr
+81,545,South America,280,Real estate,0,constr
+81,529,Europe,210,Energy,0,constr
+81,562,Europe,130,Logistics,1,constr
+81,530,Arab Middle East and North Africa,190,Other,1,invest
+81,514,West Asia,250,Other,0,invest
+81,515,East Asia,230,Real estate,1,constr
+81,539,East Asia,140,Utilities,1,constr
+81,516,West Asia,130,Real estate,1,constr
+81,517,West Asia,190,Real estate,1,constr
+81,585,Arab Middle East and North Africa,190,Real estate,1,constr
+81,592,Sub-Saharan Africa,500,Real estate,1,constr
+81,605,Europe,180,Energy,1,invest
+81,521,USA,300,Other,0,invest
+81,612,West Asia,160,Real estate,1,constr
+81,532,Sub-Saharan Africa,250,Real estate,1,invest
+82,556,West Asia,400,Chemicals,1,constr
+82,613,West Asia,160,Energy,1,constr
+82,515,East Asia,890,Energy,1,constr
+82,600,West Asia,1870,Chemicals,1,constr
+82,539,East Asia,240,Real estate,1,constr
+82,578,Sub-Saharan Africa,520,Energy,1,constr
+82,516,West Asia,240,Energy,1,constr
+82,517,West Asia,1170,Energy,1,constr
+83,545,South America,4700,Energy,0,constr
+83,603,East Asia,990,Energy,1,constr
+83,577,Sub-Saharan Africa,190,Metals,1,invest
+83,516,West Asia,6500,Energy,1,constr
+84,582,Arab Middle East and North Africa,110,Energy,1,constr
+85,526,Europe,190,Technology,0,invest
+86,561,Sub-Saharan Africa,150,Metals,1,invest
+86,535,Sub-Saharan Africa,650,Metals,0,constr
+86,515,East Asia,200,Metals,1,invest
+86,600,West Asia,560,Metals,1,constr
+86,532,Sub-Saharan Africa,250,Real estate,1,constr
+87,614,Europe,780,Transport,1,invest
+87,523,Europe,140,Logistics,0,invest
+87,512,Europe,230,Transport,0,invest
+87,548,Arab Middle East and North Africa,670,Transport,1,invest
+88,521,USA,270,Real estate,0,invest
+89,521,USA,140,Real estate,0,invest
+90,615,Europe,310,Energy,1,invest
+90,529,Europe,210,Real estate,0,invest
+90,568,Sub-Saharan Africa,360,Energy,1,invest
+90,514,West Asia,370,Energy,0,invest
+90,591,Sub-Saharan Africa,200,Real estate,1,constr
+90,521,USA,150,Energy,0,invest
+90,612,West Asia,180,Agriculture,1,constr
+91,616,Europe,440,Energy,1,invest
+91,591,Sub-Saharan Africa,400,Energy,1,constr
+92,611,Arab Middle East and North Africa,1180,Transport,1,constr
+92,555,Sub-Saharan Africa,120,Utilities,1,constr
+92,617,North America,260,Transport,1,constr
+92,545,South America,1090,Transport,0,constr
+92,556,West Asia,1550,Transport,1,constr
+92,541,South America,580,Transport,1,constr
+92,618,Sub-Saharan Africa,600,Transport,1,constr
+92,565,South America,920,Metals,1,invest
+92,530,Arab Middle East and North Africa,600,Transport,1,constr
+92,568,Sub-Saharan Africa,250,Other,1,constr
+92,515,East Asia,1710,Energy,1,constr
+92,571,West Asia,540,Transport,1,constr
+92,600,West Asia,140,Transport,1,constr
+92,533,Sub-Saharan Africa,300,Transport,1,constr
+92,539,East Asia,1190,Transport,1,constr
+92,619,Sub-Saharan Africa,1460,Transport,0,constr
+92,578,Sub-Saharan Africa,6810,Transport,1,constr
+92,516,West Asia,1460,Transport,1,constr
+92,620,South America,370,Transport,0,constr
+92,582,Arab Middle East and North Africa,340,Entertainment,1,constr
+92,517,West Asia,390,Transport,1,constr
+92,583,Sub-Saharan Africa,150,Real estate,1,constr
+92,585,Arab Middle East and North Africa,1980,Real estate,1,constr
+92,586,Sub-Saharan Africa,1260,Transport,1,constr
+92,590,Arab Middle East and North Africa,1450,Transport,0,constr
+92,591,Sub-Saharan Africa,230,Utilities,1,constr
+92,520,East Asia,2690,Transport,1,constr
+92,532,Sub-Saharan Africa,2260,Transport,1,constr
+92,621,Sub-Saharan Africa,1930,Real estate,1,constr
+93,565,South America,2040,Metals,1,invest
+94,568,Sub-Saharan Africa,2790,Transport,1,constr
+95,539,East Asia,2120,Transport,1,constr
+96,553,East Asia,2560,Transport,1,invest
+97,516,West Asia,1620,Transport,1,constr
+98,555,Sub-Saharan Africa,160,Transport,1,constr
+98,556,West Asia,2670,Transport,1,constr
+98,622,Sub-Saharan Africa,100,Transport,0,constr
+98,564,East Asia,290,Transport,1,constr
+98,565,South America,100,Health,1,constr
+98,568,Sub-Saharan Africa,480,Transport,1,constr
+98,623,East Asia,120,Transport,1,constr
+98,515,East Asia,3190,Transport,1,constr
+98,544,Europe,710,Transport,1,constr
+98,600,West Asia,1890,Transport,1,constr
+98,601,Arab Middle East and North Africa,200,Transport,1,constr
+98,553,East Asia,1580,Transport,1,constr
+98,539,East Asia,1970,Transport,1,invest
+98,543,West Asia,150,Transport,1,constr
+98,603,East Asia,110,Other,1,constr
+98,624,Arab Middle East and North Africa,230,Energy,1,constr
+98,604,West Asia,110,Agriculture,1,constr
+98,516,West Asia,100,Transport,1,constr
+98,580,East Asia,130,Real estate,1,constr
+98,581,East Asia,270,Transport,1,constr
+98,517,West Asia,380,Transport,1,constr
+98,587,Europe,1090,Transport,1,constr
+98,625,Sub-Saharan Africa,160,Transport,1,constr
+98,518,East Asia,230,Transport,1,constr
+98,591,Sub-Saharan Africa,1400,Transport,1,constr
+98,592,Sub-Saharan Africa,110,Real estate,1,constr
+98,606,East Asia,260,Transport,1,constr
+98,532,Sub-Saharan Africa,390,Agriculture,1,constr
+99,521,USA,100,Transport,0,invest
+100,551,Europe,43060,Agriculture,0,invest
+101,529,Europe,950,Finance,0,invest
+102,534,Australia,320,Health,0,invest
+102,529,Europe,740,Energy,0,invest
+102,523,Europe,540,Agriculture,0,invest
+103,612,West Asia,150,Energy,1,constr
+104,514,West Asia,790,Other,0,invest
+105,529,Europe,100,Transport,0,invest
+106,606,East Asia,160,Energy,1,invest
+107,559,Sub-Saharan Africa,490,Technology,1,constr
+108,534,Australia,100,Agriculture,0,invest
+108,521,USA,130,Real estate,0,invest
+109,520,East Asia,180,Energy,1,constr
+110,570,Sub-Saharan Africa,1350,Metals,1,invest
+110,620,South America,1300,Metals,0,invest
+110,594,South America,500,Metals,1,constr
+111,519,East Asia,190,Technology,1,invest
+112,552,South America,830,Agriculture,1,invest
+113,621,Sub-Saharan Africa,100,Energy,1,constr
+114,556,West Asia,140,Utilities,1,constr
+115,521,USA,110,Transport,0,invest
+116,527,Europe,260,Other,0,invest
+117,534,Australia,1790,Real estate,0,invest
+117,522,Europe,290,Real estate,0,invest
+117,513,South America,1090,Energy,0,invest
+117,529,Europe,13790,Logistics,0,invest
+117,595,Europe,1150,Real estate,0,invest
+117,527,Europe,930,Real estate,0,invest
+117,515,East Asia,1360,Energy,1,invest
+117,626,East Asia,1190,Real estate,0,invest
+117,523,Europe,1800,Technology,0,invest
+117,517,West Asia,100,Energy,1,invest
+117,518,East Asia,370,Energy,1,invest
+117,521,USA,1030,Real estate,0,invest
+118,518,East Asia,100,Transport,1,invest
+119,523,Europe,2750,Technology,0,invest
+120,521,USA,570,Tourism,0,invest
+121,521,USA,700,Real estate,0,invest
+122,529,Europe,350,Tourism,0,invest
+123,555,Sub-Saharan Africa,610,Utilities,1,constr
+123,534,Australia,470,Health,0,invest
+123,596,Europe,850,Agriculture,1,constr
+123,529,Europe,1620,Tourism,0,constr
+123,524,East Asia,260,Real estate,1,constr
+123,511,North America,560,Metals,0,invest
+123,547,Europe,350,Finance,1,invest
+123,595,Europe,490,Other,0,invest
+123,626,East Asia,100,Energy,0,invest
+123,600,West Asia,940,Transport,1,constr
+123,533,Sub-Saharan Africa,120,Real estate,1,invest
+123,576,East Asia,200,Real estate,1,constr
+123,538,East Asia,170,Other,1,invest
+123,581,East Asia,150,Real estate,1,constr
+123,583,Sub-Saharan Africa,120,Real estate,1,invest
+123,518,East Asia,730,Utilities,1,invest
+123,548,Arab Middle East and North Africa,120,Energy,1,invest
+123,521,USA,300,Other,0,invest
+123,594,South America,760,Real estate,1,constr
+124,513,South America,1100,Agriculture,0,invest
+125,545,South America,120,Energy,0,invest
+125,528,Arab Middle East and North Africa,220,Energy,1,constr
+125,627,North America,1110,Energy,0,invest
+125,576,East Asia,370,Energy,1,constr
+125,578,Sub-Saharan Africa,170,Energy,1,constr
+125,517,West Asia,1640,Energy,1,constr
+126,513,South America,1400,Energy,0,invest
+127,611,Arab Middle East and North Africa,410,Energy,1,constr
+127,545,South America,110,Energy,0,constr
+127,556,West Asia,690,Energy,1,constr
+127,513,South America,120,Energy,0,invest
+127,511,North America,2830,Energy,0,invest
+127,571,West Asia,730,Energy,1,invest
+127,528,Arab Middle East and North Africa,1250,Energy,1,invest
+127,542,West Asia,1400,Energy,1,constr
+127,539,East Asia,180,Chemicals,1,constr
+127,578,Sub-Saharan Africa,840,Energy,1,constr
+127,628,Arab Middle East and North Africa,320,Energy,1,constr
+127,620,South America,2890,Energy,0,invest
+127,517,West Asia,2520,Energy,1,constr
+127,585,Arab Middle East and North Africa,560,Energy,1,constr
+127,629,West Asia,600,Energy,1,invest
+127,548,Arab Middle East and North Africa,1770,Energy,1,invest
+127,612,West Asia,190,Energy,1,invest
+127,594,South America,1460,Energy,1,invest
+128,523,Europe,2040,Agriculture,0,invest
+129,513,South America,750,Agriculture,0,invest
+130,527,Europe,280,Transport,0,invest
+131,529,Europe,110,Real estate,0,invest
+132,534,Australia,470,Real estate,0,invest
+132,539,East Asia,280,Real estate,1,invest
+133,529,Europe,1190,Health,0,invest
+133,527,Europe,1150,Health,0,invest
+134,529,Europe,190,Transport,0,invest
+134,527,Europe,400,Transport,0,invest
+135,529,Europe,1740,Tourism,0,invest
+135,514,West Asia,180,Tourism,0,invest
+136,529,Europe,140,Entertainment,0,invest
+137,517,West Asia,200,Technology,1,invest
+138,534,Australia,140,Real estate,0,invest
+139,534,Australia,790,Real estate,0,invest
+139,529,Europe,1210,Entertainment,0,invest
+139,595,Europe,1730,Tourism,0,invest
+139,512,Europe,360,Real estate,0,invest
+139,608,Europe,960,Entertainment,0,invest
+139,551,Europe,1190,Entertainment,0,invest
+139,521,USA,3500,Entertainment,0,invest
+140,527,Europe,210,Transport,0,invest
+141,513,South America,600,Transport,0,invest
+141,518,East Asia,500,Transport,1,invest
+141,521,USA,1000,Transport,0,invest
+142,521,USA,100,Transport,0,invest
+143,615,Europe,460,Energy,1,constr
+143,530,Arab Middle East and North Africa,4400,Energy,1,constr
+143,568,Sub-Saharan Africa,260,Energy,1,constr
+143,613,West Asia,250,Energy,1,constr
+143,604,West Asia,150,Energy,1,constr
+143,536,West Asia,660,Energy,1,constr
+143,594,South America,1080,Energy,1,constr
+144,595,Europe,1100,Transport,0,invest
+145,570,Sub-Saharan Africa,2000,Real estate,1,invest
+146,534,Australia,750,Energy,0,invest
+146,521,USA,880,Energy,0,invest
+147,545,South America,290,Energy,0,invest
+147,626,East Asia,1070,Transport,0,invest
+148,627,North America,100,Energy,0,invest
+149,630,Europe,140,Utilities,1,invest
+150,521,USA,860,Transport,0,invest
+151,561,Sub-Saharan Africa,1150,Chemicals,1,invest
+152,630,Europe,200,Energy,1,invest
+153,511,North America,170,Agriculture,0,invest
+154,521,USA,500,Entertainment,0,invest
+155,534,Australia,910,Real estate,0,invest
+156,595,Europe,180,Other,0,invest
+157,534,Australia,440,Energy,0,invest
+157,529,Europe,430,Real estate,0,invest
+157,511,North America,300,Entertainment,0,invest
+157,595,Europe,1130,Tourism,0,invest
+157,527,Europe,650,Other,0,invest
+157,614,Europe,200,Transport,1,invest
+157,514,West Asia,1080,Health,0,invest
+157,549,Europe,380,Real estate,0,invest
+157,523,Europe,110,Other,0,invest
+157,631,Europe,2030,Finance,1,invest
+157,521,USA,1840,Finance,0,invest
+158,533,Sub-Saharan Africa,160,Transport,1,constr
+158,539,East Asia,180,Real estate,1,constr
+158,592,Sub-Saharan Africa,140,Transport,1,constr
+159,521,USA,100,Health,0,invest
+160,521,USA,250,Transport,0,invest
+161,549,Europe,240,Other,0,invest
+162,511,North America,120,Real estate,0,invest
+163,529,Europe,370,Transport,0,invest
+163,632,Europe,390,Finance,0,invest
+163,527,Europe,9030,Transport,0,invest
+163,539,East Asia,110,Transport,1,invest
+163,608,Europe,3270,Transport,0,invest
+163,521,USA,600,Transport,0,invest
+164,556,West Asia,780,Energy,1,invest
+164,581,East Asia,210,Energy,1,constr
+164,589,West Asia,600,Transport,1,constr
+165,571,West Asia,1540,Transport,1,constr
+166,521,USA,250,Technology,0,invest
+167,521,USA,250,Real estate,0,invest
+168,511,North America,440,Energy,0,invest
+168,600,West Asia,530,Energy,1,invest
+169,521,USA,670,Energy,0,invest
+170,527,Europe,100,Other,0,invest
+170,521,USA,140,Other,0,invest
+171,511,North America,750,Tourism,0,invest
+172,520,East Asia,210,Technology,1,constr
+173,517,West Asia,340,Transport,1,invest
+174,521,USA,170,Technology,0,invest
+175,527,Europe,270,Other,0,invest
+176,608,Europe,500,Transport,0,invest
+177,524,East Asia,360,Agriculture,1,invest
+178,527,Europe,4680,Technology,0,invest
+178,514,West Asia,120,Other,0,invest
+178,544,Europe,170,Other,1,invest
+178,626,East Asia,470,Other,0,invest
+179,533,Sub-Saharan Africa,1940,Other,1,constr
+180,599,Arab Middle East and North Africa,950,Energy,1,invest
+181,534,Australia,810,Metals,0,invest
+182,539,East Asia,140,Metals,1,invest
+183,529,Europe,600,Real estate,0,invest
+184,539,East Asia,1370,Real estate,1,invest
+185,592,Sub-Saharan Africa,620,Chemicals,1,invest
+186,533,Sub-Saharan Africa,710,Transport,1,constr
+186,633,Sub-Saharan Africa,320,Real estate,0,constr
+187,606,East Asia,250,Transport,1,invest
+188,511,North America,150,Energy,0,invest
+188,537,Sub-Saharan Africa,380,Energy,1,invest
+189,549,Europe,550,Other,0,invest
+189,521,USA,5400,Other,0,invest
+190,534,Australia,140,Real estate,0,invest
+191,631,Europe,470,Finance,1,invest
+192,551,Europe,190,Other,0,invest
+193,521,USA,130,Other,0,invest
+194,521,USA,260,Other,0,invest
+195,561,Sub-Saharan Africa,220,Metals,1,invest
+196,515,East Asia,1470,Energy,1,constr
+196,516,West Asia,1100,Energy,1,constr
+196,517,West Asia,450,Energy,1,invest
+196,548,Arab Middle East and North Africa,2150,Energy,1,constr
+196,606,East Asia,870,Energy,1,constr
+197,553,East Asia,140,Energy,1,invest
+198,553,East Asia,140,Energy,1,constr
+199,587,Europe,120,Metals,1,invest
+200,551,Europe,400,Metals,0,invest
+201,587,Europe,120,Metals,1,invest
+202,537,Sub-Saharan Africa,230,Metals,1,invest
+203,514,West Asia,390,Transport,0,constr
+204,534,Australia,190,Agriculture,0,invest
+205,610,Europe,220,Transport,0,invest
+206,533,Sub-Saharan Africa,170,Transport,1,constr
+207,521,USA,100,Transport,0,invest
+208,603,East Asia,180,Energy,1,constr
+209,534,Australia,240,Health,0,invest
+210,524,East Asia,200,Energy,1,constr
+211,517,West Asia,100,Metals,1,invest
+212,523,Europe,230,Chemicals,0,invest
+213,521,USA,180,Health,0,invest
+214,626,East Asia,110,Entertainment,0,invest
+214,634,Europe,340,Other,1,invest
+215,534,Australia,110,Transport,0,invest
+215,635,Europe,230,Finance,1,invest
+215,513,South America,460,Transport,0,invest
+215,529,Europe,330,Real estate,0,invest
+215,527,Europe,1360,Finance,0,invest
+215,531,Europe,5170,Transport,0,invest
+215,523,Europe,470,Logistics,0,invest
+215,518,East Asia,1030,Logistics,1,invest
+215,512,Europe,180,Tourism,0,invest
+215,608,Europe,140,Tourism,0,invest
+215,551,Europe,2810,Logistics,0,invest
+215,521,USA,10380,Transport,0,invest
+216,630,Europe,100,Other,1,invest
+217,524,East Asia,300,Transport,1,invest
+218,570,Sub-Saharan Africa,110,Metals,1,invest
+218,515,East Asia,840,Metals,1,invest
+219,553,East Asia,210,Real estate,1,invest
+219,604,West Asia,250,Real estate,1,invest
+220,534,Australia,270,Agriculture,0,invest
+221,521,USA,1900,Technology,0,invest
+222,556,West Asia,440,Energy,1,constr
+222,515,East Asia,870,Energy,1,invest
+222,606,East Asia,810,Energy,1,constr
+223,529,Europe,220,Health,0,invest
+224,524,East Asia,410,Energy,1,invest
+225,516,West Asia,1810,Energy,1,constr
+226,521,USA,220,Agriculture,0,invest
+227,521,USA,780,Finance,0,invest
+228,534,Australia,100,Technology,0,constr
+228,529,Europe,200,Technology,0,invest
+228,559,Sub-Saharan Africa,120,Energy,1,constr
+228,511,North America,180,Technology,0,invest
+228,632,Europe,700,Technology,0,constr
+228,570,Sub-Saharan Africa,240,Technology,1,constr
+228,514,West Asia,190,Technology,0,constr
+228,544,Europe,150,Technology,1,invest
+228,538,East Asia,280,Technology,1,invest
+228,580,East Asia,200,Technology,1,constr
+228,587,Europe,170,Technology,1,constr
+229,604,West Asia,140,Real estate,1,invest
+229,581,East Asia,250,Real estate,1,constr
+230,595,Europe,310,Technology,0,invest
+231,521,USA,130,Entertainment,0,invest
+232,595,Europe,560,Tourism,0,invest
+233,534,Australia,510,Real estate,0,invest
+234,521,USA,180,Health,0,invest
+235,534,Australia,600,Health,0,invest
+235,521,USA,280,Health,0,invest
+236,556,West Asia,330,Utilities,1,constr
+236,533,Sub-Saharan Africa,200,Utilities,1,constr
+237,521,USA,380,Entertainment,0,invest
+238,513,South America,2000,Energy,0,invest
+238,529,Europe,690,Finance,0,invest
+238,536,West Asia,320,Finance,1,invest
+239,527,Europe,440,Other,0,invest
+240,595,Europe,110,Entertainment,0,invest
+241,514,West Asia,100,Entertainment,0,invest
+242,606,East Asia,320,Energy,1,invest
+243,627,North America,110,Transport,0,invest
+244,534,Australia,150,Health,0,invest
+245,529,Europe,400,Other,0,invest
+245,515,East Asia,100,Transport,1,invest
+245,520,East Asia,230,Other,1,invest
+246,518,East Asia,1660,Technology,1,invest
+247,527,Europe,100,Technology,0,invest
+248,612,West Asia,200,Real estate,1,invest
+249,580,East Asia,120,Logistics,1,constr
+249,621,Sub-Saharan Africa,150,Transport,1,constr
+250,514,West Asia,130,Energy,0,invest
+251,514,West Asia,190,Real estate,0,invest
+252,548,Arab Middle East and North Africa,300,Other,1,invest
+253,529,Europe,2960,Technology,0,invest
+254,568,Sub-Saharan Africa,350,Other,1,invest
+255,553,East Asia,120,Energy,1,constr
+256,556,West Asia,1140,Energy,1,constr
+257,514,West Asia,200,Technology,0,invest
+258,569,Sub-Saharan Africa,390,Transport,1,constr
+258,533,Sub-Saharan Africa,130,Energy,1,constr
+258,532,Sub-Saharan Africa,1200,Transport,1,constr
+259,532,Sub-Saharan Africa,300,Other,1,invest
+260,533,Sub-Saharan Africa,140,Energy,1,invest
+261,595,Europe,1490,Tourism,0,invest
+261,521,USA,130,Other,0,invest
+262,568,Sub-Saharan Africa,300,Real estate,1,invest
+263,539,East Asia,100,Energy,1,invest
+264,572,North America,300,Metals,0,invest
+265,519,East Asia,130,Other,1,invest
+266,521,USA,220,Other,0,invest
+267,556,West Asia,2130,Metals,1,invest
+267,524,East Asia,500,Transport,1,invest
+268,529,Europe,270,Entertainment,0,invest
+269,521,USA,180,Real estate,0,invest
+270,521,USA,200,Entertainment,0,invest
+271,534,Australia,140,Energy,0,invest
+271,529,Europe,1540,Agriculture,0,invest
+271,610,Europe,1760,Finance,0,invest
+272,626,East Asia,220,Technology,0,invest
+272,521,USA,2910,Technology,0,invest
+273,517,West Asia,290,Transport,1,invest
+274,521,USA,130,Agriculture,0,invest
+275,518,East Asia,750,Real estate,1,invest
+276,514,West Asia,310,Energy,0,invest
+277,527,Europe,770,Transport,0,invest
+278,534,Australia,120,Health,0,invest
+279,534,Australia,690,Health,0,invest
+279,551,Europe,270,Health,0,invest
+280,529,Europe,540,Health,0,invest
+281,514,West Asia,240,Metals,0,constr
+281,515,East Asia,260,Transport,1,constr
+281,571,West Asia,350,Metals,1,invest
+281,517,West Asia,400,Agriculture,1,constr
+281,518,East Asia,380,Real estate,1,invest
+281,621,Sub-Saharan Africa,180,Energy,1,constr
+282,521,USA,290,Energy,0,invest
+283,534,Australia,220,Agriculture,0,invest
+284,511,North America,360,Energy,0,invest
+285,636,Europe,540,Energy,1,constr
+286,612,West Asia,110,Real estate,1,invest
+287,611,Arab Middle East and North Africa,460,Real estate,1,constr
+287,541,South America,200,Transport,1,constr
+287,515,East Asia,600,Real estate,1,constr
+287,599,Arab Middle East and North Africa,350,Chemicals,1,constr
+287,601,Arab Middle East and North Africa,530,Health,1,constr
+287,539,East Asia,1360,Metals,1,constr
+287,543,West Asia,280,Real estate,1,constr
+287,516,West Asia,200,Energy,1,constr
+287,580,East Asia,350,Real estate,1,constr
+287,620,South America,6990,Metals,0,invest
+287,581,East Asia,800,Tourism,1,constr
+287,517,West Asia,590,Real estate,1,constr
+287,585,Arab Middle East and North Africa,230,Real estate,1,constr
+287,587,Europe,110,Metals,1,constr
+287,518,East Asia,250,Real estate,1,constr
+287,589,West Asia,1040,Transport,1,constr
+287,521,USA,350,Tourism,0,constr
+287,606,East Asia,230,Real estate,1,constr
+288,521,USA,110,Real estate,0,invest
+289,534,Australia,200,Agriculture,0,invest
+290,534,Australia,200,Transport,0,invest
+291,624,Arab Middle East and North Africa,390,Real estate,1,constr
+292,539,East Asia,370,Technology,1,invest
+293,529,Europe,130,Entertainment,0,invest
+293,521,USA,140,Other,0,invest
+294,521,USA,100,Entertainment,0,invest
+295,523,Europe,460,Metals,0,invest
+296,521,USA,180,Other,0,invest
+297,527,Europe,450,Transport,0,invest
+298,527,Europe,200,Transport,0,invest
+298,626,East Asia,1590,Transport,0,invest
+298,521,USA,920,Transport,0,invest
+299,628,Arab Middle East and North Africa,240,Other,1,invest
+300,562,Europe,220,Energy,1,invest
+300,568,Sub-Saharan Africa,230,Energy,1,constr
+300,637,Sub-Saharan Africa,200,Energy,0,constr
+300,571,West Asia,1530,Chemicals,1,constr
+300,528,Arab Middle East and North Africa,1350,Energy,1,constr
+300,600,West Asia,710,Metals,1,constr
+300,533,Sub-Saharan Africa,120,Energy,1,constr
+300,553,East Asia,340,Energy,1,constr
+301,521,USA,2650,Finance,0,invest
+302,521,USA,390,Real estate,0,invest
+303,521,USA,540,Technology,0,invest
+304,512,Europe,1260,Entertainment,0,invest
+305,534,Australia,100,Health,0,invest
+306,521,USA,250,Entertainment,0,invest
+307,514,West Asia,100,Technology,0,invest
+308,529,Europe,9660,Finance,0,invest
+308,626,East Asia,240,Health,0,invest
+308,521,USA,210,Other,0,invest
+309,611,Arab Middle East and North Africa,510,Energy,1,constr
+309,555,Sub-Saharan Africa,680,Utilities,1,constr
+309,545,South America,340,Energy,0,constr
+309,556,West Asia,1360,Energy,1,constr
+309,607,Sub-Saharan Africa,160,Energy,0,constr
+309,541,South America,430,Transport,1,constr
+309,559,Sub-Saharan Africa,890,Energy,1,constr
+309,535,Sub-Saharan Africa,660,Energy,0,constr
+309,565,South America,240,Energy,1,constr
+309,530,Arab Middle East and North Africa,1990,Energy,1,constr
+309,567,Sub-Saharan Africa,100,Energy,0,constr
+309,568,Sub-Saharan Africa,440,Energy,1,constr
+309,613,West Asia,100,Transport,1,constr
+309,569,Sub-Saharan Africa,550,Energy,1,constr
+309,638,North America,240,Energy,0,constr
+309,514,West Asia,150,Transport,0,constr
+309,515,East Asia,780,Energy,1,constr
+309,571,West Asia,360,Energy,1,constr
+309,544,Europe,260,Energy,1,constr
+309,598,Sub-Saharan Africa,350,Energy,1,constr
+309,572,North America,760,Energy,0,constr
+309,599,Arab Middle East and North Africa,380,Energy,1,constr
+309,600,West Asia,340,Energy,1,constr
+309,533,Sub-Saharan Africa,200,Transport,1,constr
+309,601,Arab Middle East and North Africa,210,Energy,1,constr
+309,553,East Asia,2030,Energy,1,invest
+309,639,Europe,400,Transport,1,constr
+309,574,Sub-Saharan Africa,270,Energy,1,constr
+309,539,East Asia,1910,Transport,1,constr
+309,627,North America,390,Energy,0,constr
+309,603,East Asia,510,Energy,1,invest
+309,576,East Asia,180,Energy,1,constr
+309,604,West Asia,350,Transport,1,constr
+309,578,Sub-Saharan Africa,1290,Energy,1,constr
+309,628,Arab Middle East and North Africa,2300,Energy,1,constr
+309,516,West Asia,1300,Energy,1,constr
+309,579,North America,130,Utilities,1,constr
+309,581,East Asia,1000,Energy,1,constr
+309,630,Europe,150,Energy,1,constr
+309,582,Arab Middle East and North Africa,1400,Utilities,1,constr
+309,517,West Asia,1460,Energy,1,invest
+309,583,Sub-Saharan Africa,130,Transport,1,constr
+309,585,Arab Middle East and North Africa,3020,Transport,1,constr
+309,587,Europe,230,Energy,1,constr
+309,625,Sub-Saharan Africa,300,Metals,1,constr
+309,518,East Asia,200,Transport,1,constr
+309,589,West Asia,120,Energy,1,constr
+309,591,Sub-Saharan Africa,140,Energy,1,constr
+309,520,East Asia,470,Chemicals,1,constr
+309,640,North America,100,Utilities,1,constr
+309,536,West Asia,1090,Energy,1,constr
+309,605,Europe,340,Energy,1,constr
+309,521,USA,100,Real estate,0,invest
+309,594,South America,1500,Energy,1,constr
+309,606,East Asia,390,Energy,1,constr
+309,532,Sub-Saharan Africa,170,Energy,1,constr
+309,621,Sub-Saharan Africa,1490,Energy,1,constr
+310,556,West Asia,280,Utilities,1,constr
+311,521,USA,120,Other,0,invest
+312,515,East Asia,200,Transport,1,invest
+313,600,West Asia,160,Other,1,invest
+314,550,Europe,610,Technology,0,invest
+315,519,East Asia,600,Transport,1,invest
+316,537,Sub-Saharan Africa,110,Energy,1,invest
+317,581,East Asia,440,Energy,1,constr
+318,539,East Asia,280,Agriculture,1,invest
+319,518,East Asia,460,Real estate,1,invest
+320,550,Europe,630,Other,0,invest
+321,529,Europe,100,Entertainment,0,invest
+322,529,Europe,220,Entertainment,0,invest
+322,550,Europe,110,Other,0,invest
+323,521,USA,150,Finance,0,invest
+324,534,Australia,100,Energy,0,invest
+324,627,North America,600,Energy,0,invest
+325,542,West Asia,280,Energy,1,invest
+326,522,Europe,170,Real estate,0,invest
+326,529,Europe,290,Real estate,0,invest
+326,527,Europe,630,Real estate,0,invest
+326,549,Europe,2760,Energy,0,invest
+326,631,Europe,590,Energy,1,invest
+326,517,West Asia,1210,Energy,1,invest
+326,512,Europe,730,Energy,0,invest
+326,548,Arab Middle East and North Africa,930,Energy,1,invest
+327,606,East Asia,190,Transport,1,invest
+328,600,West Asia,100,Utilities,1,constr
+329,529,Europe,760,Other,0,invest
+329,511,North America,820,Health,0,invest
+330,513,South America,300,Real estate,0,invest
+330,514,West Asia,100,Real estate,0,invest
+331,595,Europe,730,Agriculture,0,invest
+332,511,North America,100,Energy,0,invest
+333,542,West Asia,430,Energy,1,invest
+334,529,Europe,400,Transport,0,invest
+335,521,USA,350,Finance,0,invest
+336,521,USA,120,Health,0,invest
+337,534,Australia,340,Tourism,0,invest
+338,539,East Asia,200,Other,1,invest
+339,615,Europe,640,Transport,1,constr
+339,564,East Asia,270,Utilities,1,constr
+339,595,Europe,190,Transport,0,invest
+339,588,Sub-Saharan Africa,2100,Transport,1,constr
+340,545,South America,960,Metals,0,invest
+341,527,Europe,1420,Real estate,0,invest
+341,610,Europe,2100,Transport,0,invest
+342,511,North America,160,Transport,0,invest
+343,539,East Asia,140,Energy,1,invest
+344,625,Sub-Saharan Africa,770,Metals,1,invest
+345,513,South America,530,Energy,0,constr
+346,534,Australia,370,Transport,0,invest
+346,579,North America,900,Transport,1,invest
+347,587,Europe,990,Transport,1,invest
+348,520,East Asia,230,Transport,1,invest
+349,515,East Asia,390,Metals,1,invest
+350,529,Europe,120,Other,0,invest
+350,595,Europe,1480,Other,0,invest
+350,578,Sub-Saharan Africa,200,Other,1,invest
+350,516,West Asia,120,Other,1,invest
+350,551,Europe,690,Other,0,invest
+350,521,USA,2040,Other,0,invest
+351,553,East Asia,640,Other,1,invest
+351,521,USA,1760,Other,0,invest
+352,521,USA,850,Health,0,invest
+353,521,USA,1850,Chemicals,0,invest
+354,539,East Asia,280,Transport,1,invest
+355,515,East Asia,390,Transport,1,invest
+356,521,USA,510,Technology,0,invest
+357,591,Sub-Saharan Africa,550,Real estate,1,constr
+357,521,USA,130,Real estate,0,invest
+357,621,Sub-Saharan Africa,110,Real estate,1,constr
+358,524,East Asia,260,Transport,1,constr
+359,568,Sub-Saharan Africa,100,Energy,1,constr
+359,527,Europe,220,Transport,0,invest
+359,549,Europe,560,Energy,0,invest
+359,539,East Asia,240,Energy,1,constr
+359,587,Europe,210,Energy,1,constr
+359,548,Arab Middle East and North Africa,1930,Energy,1,constr
+360,527,Europe,110,Entertainment,0,invest
+361,544,Europe,4400,Entertainment,1,invest
+362,614,Europe,560,Technology,1,invest
+363,534,Australia,540,Real estate,0,invest
+363,529,Europe,1060,Real estate,0,invest
+363,511,North America,320,Tourism,0,invest
+363,539,East Asia,740,Real estate,1,invest
+363,519,East Asia,3220,Real estate,1,invest
+363,521,USA,3220,Real estate,0,invest
+364,534,Australia,230,Agriculture,0,invest
+365,534,Australia,120,Technology,0,invest
+365,529,Europe,160,Other,0,invest
+365,630,Europe,110,Other,1,invest
+366,521,USA,170,Other,0,invest
+367,522,Europe,100,Logistics,0,invest
+368,595,Europe,190,Health,0,invest
+369,521,USA,160,Real estate,0,invest
+370,521,USA,300,Real estate,0,invest
+371,513,South America,290,Agriculture,0,invest
+372,534,Australia,150,Real estate,0,invest
+373,518,East Asia,290,Transport,1,constr
+374,556,West Asia,160,Finance,1,invest
+375,608,Europe,290,Other,0,invest
+376,518,East Asia,350,Utilities,1,constr
+377,534,Australia,100,Tourism,0,invest
+378,626,East Asia,150,Tourism,0,invest
+379,537,Sub-Saharan Africa,110,Real estate,1,invest
+380,529,Europe,300,Entertainment,0,invest
+381,549,Europe,360,Health,0,invest
+382,577,Sub-Saharan Africa,270,Real estate,1,invest
+383,515,East Asia,1320,Energy,1,invest
+383,517,West Asia,460,Energy,1,invest
+383,521,USA,120,Energy,0,invest
+384,527,Europe,110,Other,0,invest
+385,637,Sub-Saharan Africa,170,Energy,0,invest
+386,580,East Asia,880,Energy,1,constr
+387,569,Sub-Saharan Africa,450,Energy,1,invest
+388,521,USA,350,Real estate,0,invest
+389,599,Arab Middle East and North Africa,350,Other,1,invest
+389,518,East Asia,990,Finance,1,invest
+390,521,USA,100,Tourism,0,invest
+391,521,USA,340,Health,0,invest
+392,523,Europe,200,Technology,0,invest
+393,544,Europe,170,Transport,1,constr
+394,534,Australia,190,Real estate,0,invest
+395,620,South America,500,Metals,0,invest
+396,592,Sub-Saharan Africa,300,Agriculture,1,invest
+397,591,Sub-Saharan Africa,2700,Metals,1,invest
+398,550,Europe,130,Transport,0,constr
+399,556,West Asia,180,Transport,1,constr
+400,521,USA,160,Tourism,0,invest
+401,524,East Asia,620,Energy,1,constr
+401,561,Sub-Saharan Africa,300,Real estate,1,constr
+401,515,East Asia,230,Metals,1,constr
+401,601,Arab Middle East and North Africa,220,Real estate,1,constr
+401,553,East Asia,1380,Real estate,1,constr
+401,539,East Asia,130,Real estate,1,constr
+401,576,East Asia,200,Real estate,1,constr
+401,582,Arab Middle East and North Africa,230,Real estate,1,constr
+401,589,West Asia,250,Real estate,1,constr
+402,549,Europe,530,Entertainment,0,invest
+403,521,USA,270,Health,0,invest
+404,568,Sub-Saharan Africa,250,Chemicals,1,constr
+404,518,East Asia,180,Agriculture,1,invest
+404,521,USA,110,Chemicals,0,invest
+405,511,North America,560,Energy,0,invest
+406,628,Arab Middle East and North Africa,300,Agriculture,1,constr
+407,611,Arab Middle East and North Africa,270,Real estate,1,constr
+407,559,Sub-Saharan Africa,120,Real estate,1,constr
+407,561,Sub-Saharan Africa,180,Real estate,1,constr
+407,535,Sub-Saharan Africa,300,Real estate,0,constr
+407,530,Arab Middle East and North Africa,1190,Real estate,1,constr
+407,568,Sub-Saharan Africa,240,Real estate,1,constr
+407,515,East Asia,350,Real estate,1,constr
+407,528,Arab Middle East and North Africa,190,Real estate,1,constr
+407,533,Sub-Saharan Africa,290,Real estate,1,constr
+407,619,Sub-Saharan Africa,120,Real estate,0,constr
+407,604,West Asia,290,Real estate,1,constr
+407,641,Sub-Saharan Africa,140,Real estate,0,constr
+407,578,Sub-Saharan Africa,600,Real estate,1,constr
+407,517,West Asia,150,Real estate,1,constr
+407,536,West Asia,160,Real estate,1,constr
+407,532,Sub-Saharan Africa,500,Real estate,1,invest
+408,555,Sub-Saharan Africa,990,Energy,1,constr
+408,545,South America,1600,Transport,0,constr
+408,534,Australia,140,Metals,0,constr
+408,642,West Asia,1170,Metals,1,constr
+408,556,West Asia,180,Technology,1,constr
+408,541,South America,180,Chemicals,1,constr
+408,513,South America,150,Energy,0,constr
+408,524,East Asia,120,Energy,1,constr
+408,559,Sub-Saharan Africa,400,Energy,1,constr
+408,546,Sub-Saharan Africa,130,Energy,1,constr
+408,561,Sub-Saharan Africa,250,Utilities,1,constr
+408,535,Sub-Saharan Africa,300,Energy,0,constr
+408,565,South America,220,Real estate,1,constr
+408,530,Arab Middle East and North Africa,400,Agriculture,1,constr
+408,566,Sub-Saharan Africa,130,Utilities,0,constr
+408,568,Sub-Saharan Africa,100,Agriculture,1,constr
+408,526,Europe,980,Other,0,constr
+408,569,Sub-Saharan Africa,300,Utilities,1,constr
+408,570,Sub-Saharan Africa,140,Utilities,1,constr
+408,515,East Asia,1160,Energy,1,constr
+408,571,West Asia,840,Transport,1,constr
+408,528,Arab Middle East and North Africa,1010,Energy,1,constr
+408,598,Sub-Saharan Africa,820,Energy,1,constr
+408,599,Arab Middle East and North Africa,270,Other,1,constr
+408,533,Sub-Saharan Africa,290,Health,1,constr
+408,601,Arab Middle East and North Africa,100,Energy,1,constr
+408,542,West Asia,300,Transport,1,constr
+408,553,East Asia,2100,Energy,1,constr
+408,543,West Asia,190,Real estate,1,constr
+408,619,Sub-Saharan Africa,110,Energy,0,constr
+408,643,Europe,350,Energy,1,constr
+408,603,East Asia,100,Energy,1,constr
+408,624,Arab Middle East and North Africa,250,Transport,1,constr
+408,525,Sub-Saharan Africa,1190,Transport,1,constr
+408,576,East Asia,380,Technology,1,constr
+408,604,West Asia,220,Transport,1,constr
+408,578,Sub-Saharan Africa,410,Energy,1,constr
+408,516,West Asia,1130,Energy,1,constr
+408,580,East Asia,170,Transport,1,constr
+408,630,Europe,190,Energy,1,constr
+408,636,Europe,270,Energy,1,constr
+408,517,West Asia,1780,Other,1,constr
+408,585,Arab Middle East and North Africa,180,Transport,1,constr
+408,587,Europe,1200,Energy,1,invest
+408,519,East Asia,500,Real estate,1,constr
+408,589,West Asia,690,Agriculture,1,constr
+408,520,East Asia,120,Technology,1,constr
+408,536,West Asia,380,Energy,1,invest
+408,548,Arab Middle East and North Africa,1140,Real estate,1,constr
+408,605,Europe,210,Energy,1,constr
+408,612,West Asia,440,Chemicals,1,constr
+408,532,Sub-Saharan Africa,450,Utilities,1,constr
+408,621,Sub-Saharan Africa,150,Energy,1,constr
+409,622,Sub-Saharan Africa,100,Energy,0,invest
+409,565,South America,150,Energy,1,constr
+409,568,Sub-Saharan Africa,220,Real estate,1,constr
+409,571,West Asia,1050,Energy,1,constr
+409,600,West Asia,1090,Energy,1,invest
+409,601,Arab Middle East and North Africa,1700,Energy,1,constr
+409,539,East Asia,1330,Energy,1,constr
+409,517,West Asia,1340,Energy,1,invest
+409,583,Sub-Saharan Africa,340,Energy,1,constr
+409,584,Sub-Saharan Africa,150,Energy,0,invest
+409,585,Arab Middle East and North Africa,450,Chemicals,1,constr
+409,537,Sub-Saharan Africa,1330,Energy,1,invest
+409,520,East Asia,220,Chemicals,1,constr
+410,511,North America,1240,Energy,0,invest
+411,611,Arab Middle East and North Africa,260,Metals,1,constr
+411,534,Australia,110,Metals,0,constr
+411,541,South America,420,Metals,1,constr
+411,511,North America,120,Energy,0,constr
+411,515,East Asia,180,Energy,1,constr
+411,571,West Asia,470,Metals,1,constr
+411,609,Sub-Saharan Africa,210,Energy,0,constr
+411,517,West Asia,740,Metals,1,constr
+411,588,Sub-Saharan Africa,380,Energy,1,constr
+411,621,Sub-Saharan Africa,980,Energy,1,invest
+412,569,Sub-Saharan Africa,110,Energy,1,invest
+413,534,Australia,300,Entertainment,0,invest
+414,552,South America,1300,Energy,1,invest
+414,606,East Asia,1760,Energy,1,invest
+415,553,East Asia,300,Energy,1,constr
+415,610,Europe,470,Utilities,0,invest
+416,521,USA,150,Technology,0,invest
+417,532,Sub-Saharan Africa,270,Entertainment,1,invest
+418,611,Arab Middle East and North Africa,1720,Transport,1,constr
+418,545,South America,2130,Transport,0,constr
+418,644,North America,250,Tourism,0,invest
+418,541,South America,120,Transport,1,constr
+418,529,Europe,750,Real estate,0,constr
+418,558,East Asia,330,Transport,1,constr
+418,524,East Asia,240,Real estate,1,constr
+418,561,Sub-Saharan Africa,1000,Energy,1,constr
+418,618,Sub-Saharan Africa,420,Transport,1,constr
+418,530,Arab Middle East and North Africa,2990,Real estate,1,constr
+418,566,Sub-Saharan Africa,720,Real estate,0,constr
+418,568,Sub-Saharan Africa,270,Real estate,1,constr
+418,597,Sub-Saharan Africa,100,Entertainment,1,constr
+418,515,East Asia,990,Metals,1,constr
+418,598,Sub-Saharan Africa,190,Transport,1,constr
+418,601,Arab Middle East and North Africa,580,Other,1,constr
+418,539,East Asia,430,Real estate,1,constr
+418,543,West Asia,430,Real estate,1,constr
+418,525,Sub-Saharan Africa,410,Transport,1,constr
+418,604,West Asia,150,Transport,1,constr
+418,538,East Asia,150,Real estate,1,constr
+418,516,West Asia,2890,Transport,1,constr
+418,579,North America,190,Real estate,1,constr
+418,580,East Asia,250,Real estate,1,constr
+418,517,West Asia,710,Real estate,1,constr
+418,518,East Asia,490,Real estate,1,constr
+418,634,Europe,790,Transport,1,constr
+418,519,East Asia,610,Real estate,1,constr
+418,589,West Asia,420,Transport,1,constr
+418,520,East Asia,170,Transport,1,constr
+418,548,Arab Middle East and North Africa,2170,Real estate,1,constr
+418,521,USA,690,Real estate,0,invest
+418,606,East Asia,230,Energy,1,constr
+418,532,Sub-Saharan Africa,200,Transport,1,constr
+418,621,Sub-Saharan Africa,1100,Energy,1,constr
+419,599,Arab Middle East and North Africa,500,Chemicals,1,invest
+420,540,North America,170,Tourism,0,constr
+420,645,Sub-Saharan Africa,130,Tourism,1,constr
+420,568,Sub-Saharan Africa,450,Chemicals,1,constr
+420,553,East Asia,310,Energy,1,constr
+421,515,East Asia,320,Real estate,1,invest
+422,529,Europe,260,Energy,0,invest
+423,614,Europe,1640,Energy,1,invest
+424,534,Australia,290,Energy,0,invest
+424,513,South America,4910,Energy,0,invest
+424,530,Arab Middle East and North Africa,780,Energy,1,constr
+424,568,Sub-Saharan Africa,540,Energy,1,constr
+424,614,Europe,350,Energy,1,invest
+424,549,Europe,2760,Energy,0,invest
+424,533,Sub-Saharan Africa,720,Energy,1,constr
+424,553,East Asia,240,Utilities,1,constr
+424,516,West Asia,1760,Energy,1,constr
+425,534,Australia,2200,Energy,0,invest
+425,513,South America,2260,Energy,0,invest
+425,552,South America,140,Energy,1,invest
+425,516,West Asia,1480,Energy,1,invest
+426,549,Europe,310,Entertainment,0,invest
+427,529,Europe,180,Agriculture,0,invest
+428,534,Australia,400,Tourism,0,invest
+428,521,USA,230,Tourism,0,invest
+429,529,Europe,300,Real estate,0,invest
+429,521,USA,860,Real estate,0,invest
+430,521,USA,230,Real estate,0,invest
+431,597,Sub-Saharan Africa,100,Energy,1,invest
+431,570,Sub-Saharan Africa,830,Metals,1,invest
+432,555,Sub-Saharan Africa,780,Energy,1,constr
+432,556,West Asia,1660,Energy,1,constr
+432,530,Arab Middle East and North Africa,150,Energy,1,constr
+432,568,Sub-Saharan Africa,100,Energy,1,constr
+432,514,West Asia,100,Energy,0,invest
+432,533,Sub-Saharan Africa,130,Energy,1,constr
+432,542,West Asia,390,Energy,1,constr
+432,603,East Asia,120,Energy,1,constr
+432,516,West Asia,190,Energy,1,constr
+432,591,Sub-Saharan Africa,690,Energy,1,constr
+433,543,West Asia,110,Transport,1,invest
+434,526,Europe,8600,Entertainment,0,invest
+434,595,Europe,460,Entertainment,0,invest
+434,514,West Asia,700,Other,0,invest
+434,515,East Asia,150,Transport,1,invest
+434,519,East Asia,500,Entertainment,1,invest
+434,608,Europe,800,Entertainment,0,invest
+434,521,USA,2240,Entertainment,0,invest
+435,521,USA,100,Entertainment,0,invest
+436,544,Europe,100,Technology,1,invest
+437,513,South America,180,Finance,0,invest
+438,606,East Asia,210,Other,1,invest
+439,541,South America,990,Energy,1,constr
+439,513,South America,3660,Energy,0,invest
+439,552,South America,240,Energy,1,invest
+439,565,South America,110,Energy,1,constr
+439,527,Europe,1540,Energy,0,invest
+439,569,Sub-Saharan Africa,310,Energy,1,constr
+439,570,Sub-Saharan Africa,1380,Energy,1,constr
+439,549,Europe,100,Energy,0,invest
+439,533,Sub-Saharan Africa,390,Energy,1,constr
+439,604,West Asia,100,Energy,1,constr
+439,516,West Asia,2400,Energy,1,constr
+439,620,South America,1390,Energy,0,invest
+439,630,Europe,340,Energy,1,invest
+439,631,Europe,260,Energy,1,invest
+440,513,South America,1200,Energy,0,invest
+441,539,East Asia,440,Technology,1,invest
+442,511,North America,210,Metals,0,invest
+443,578,Sub-Saharan Africa,200,Agriculture,1,constr
+443,625,Sub-Saharan Africa,710,Transport,1,constr
+444,514,West Asia,150,Metals,0,invest
+444,602,Sub-Saharan Africa,250,Metals,0,invest
+445,521,USA,580,Transport,0,invest
+446,514,West Asia,230,Energy,0,invest
+446,520,East Asia,160,Energy,1,invest
+446,606,East Asia,100,Energy,1,invest
+447,614,Europe,110,Health,1,invest
+448,529,Europe,140,Technology,0,invest
+448,595,Europe,2570,Technology,0,invest
+449,529,Europe,110,Transport,0,invest
+449,521,USA,120,Technology,0,invest
+450,514,West Asia,1160,Metals,0,invest
+450,515,East Asia,510,Metals,1,invest
+451,601,Arab Middle East and North Africa,650,Energy,1,invest
+452,521,USA,730,Technology,0,invest
+453,529,Europe,150,Real estate,0,invest
+453,518,East Asia,9060,Logistics,1,invest
+453,521,USA,170,Real estate,0,invest
+454,544,Europe,100,Health,1,invest
+455,534,Australia,130,Real estate,0,invest
+456,521,USA,100,Entertainment,0,invest
+457,511,North America,170,Transport,0,invest
+457,521,USA,300,Transport,0,invest
+458,626,East Asia,190,Technology,0,invest
+459,521,USA,150,Transport,0,invest
+460,529,Europe,460,Energy,0,constr
+460,586,Sub-Saharan Africa,570,Energy,1,constr
+461,512,Europe,350,Agriculture,0,invest
+462,523,Europe,880,Technology,0,invest
+463,585,Arab Middle East and North Africa,150,Real estate,1,constr
+463,521,USA,360,Chemicals,0,constr
+464,521,USA,160,Transport,0,invest
+465,568,Sub-Saharan Africa,220,Other,1,invest
+466,531,Europe,390,Health,0,invest
+467,514,West Asia,250,Energy,0,invest
+467,539,East Asia,240,Energy,1,invest
+468,605,Europe,120,Energy,1,constr
+469,534,Australia,820,Energy,0,constr
+469,605,Europe,100,Transport,1,constr
+470,534,Australia,100,Energy,0,invest
+471,534,Australia,310,Energy,0,invest
+472,539,East Asia,200,Real estate,1,invest
+473,511,North America,580,Agriculture,0,invest
+474,513,South America,100,Real estate,0,invest
+474,514,West Asia,250,Real estate,0,invest
+475,534,Australia,2960,Energy,0,invest
+476,518,East Asia,220,Real estate,1,invest
+477,521,USA,1080,Energy,0,invest
+478,617,North America,740,Tourism,1,invest
+479,538,East Asia,310,Agriculture,1,invest
+480,521,USA,160,Other,0,invest
+481,595,Europe,320,Agriculture,0,invest
+482,518,East Asia,120,Real estate,1,constr
+483,521,USA,150,Health,0,invest
+484,521,USA,100,Entertainment,0,constr
+485,553,East Asia,1230,Transport,1,constr
+486,553,East Asia,130,Energy,1,invest
+487,553,East Asia,160,Energy,1,invest
+488,553,East Asia,120,Real estate,1,constr
+489,529,Europe,190,Entertainment,0,invest
+490,558,East Asia,3440,Energy,1,invest
+491,535,Sub-Saharan Africa,150,Metals,0,invest
+492,634,Europe,1050,Entertainment,1,invest
+493,511,North America,440,Energy,0,invest
+494,595,Europe,130,Other,0,invest
+495,621,Sub-Saharan Africa,250,Energy,1,invest
+496,527,Europe,600,Transport,0,invest
+497,521,USA,410,Tourism,0,invest
+498,521,USA,430,Entertainment,0,invest
+499,528,Arab Middle East and North Africa,530,Energy,1,constr
+500,620,South America,2360,Metals,0,invest
+501,603,East Asia,1940,Metals,1,invest
+502,527,Europe,230,Metals,0,invest
+503,516,West Asia,1620,Transport,1,invest
+504,521,USA,3400,Technology,0,invest
+505,576,East Asia,2100,Energy,1,invest
+506,539,East Asia,210,Real estate,1,invest
+507,511,North America,1410,Metals,0,invest
+507,561,Sub-Saharan Africa,410,Metals,1,invest
+507,542,West Asia,150,Metals,1,invest
+507,580,East Asia,300,Metals,1,invest
+507,587,Europe,1260,Metals,1,invest
+508,517,West Asia,440,Agriculture,1,invest
+509,576,East Asia,100,Metals,1,invest
+510,513,South America,100,Technology,0,invest
+510,549,Europe,1010,Technology,0,constr
+510,516,West Asia,1440,Energy,1,invest
+510,536,West Asia,100,Technology,1,invest
+510,621,Sub-Saharan Africa,200,Energy,1,constr

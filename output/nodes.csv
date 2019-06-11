@@ -1,0 +1,646 @@
+Id,Label,Type,Mode
+1,3SBio,TRUE,1
+2,Aier Eye Hospital,TRUE,1
+3,Alibaba,TRUE,1
+4,Anbang,TRUE,1
+5,Anhui Conch,TRUE,1
+6,Anhui Foreign Economic Construction,TRUE,1
+7,Anhui Landing,TRUE,1
+8,Anhui Shanying,TRUE,1
+9,Anhui Zhongding,TRUE,1
+10,Anta Sports,TRUE,1
+11,Antonoil,TRUE,1
+12,AVIC,TRUE,1
+13,AVIC and Jiangxi Water,TRUE,1
+14,Baidu,TRUE,1
+15,Bank of China,TRUE,1
+16,Baosteel,TRUE,1
+17,BBK Electronics,TRUE,1
+18,Beijing Auto,TRUE,1
+19,Beijing Capital,TRUE,1
+20,Beijing Construction Engineering,TRUE,1
+21,Beijing Enterprises,TRUE,1
+22,Beijing Kunlun,TRUE,1
+23,Beijing Miteno,TRUE,1
+24,Beijing Urban Construction,TRUE,1
+25,Beijing Zhonghuan,TRUE,1
+26,Biostime,TRUE,1
+27,BlueFocus Communications,TRUE,1
+28,Bona Film,TRUE,1
+29,Bright Foods,TRUE,1
+30,By-Health,TRUE,1
+31,BYD,TRUE,1
+32,C Banner International,TRUE,1
+33,Caixin,TRUE,1
+34,Canyon Bridge,TRUE,1
+35,CC Land,TRUE,1
+36,CDH,TRUE,1
+37,CEFC,TRUE,1
+38,CEFC/Norinco,TRUE,1
+39,Changsheng China,TRUE,1
+40,Chem China,TRUE,1
+41,ChemChina,TRUE,1
+42,Chengdu Techcent,TRUE,1
+43,Chengdu Techcent Environment,TRUE,1
+44,Chengdu Tianqi,TRUE,1
+45,Chifeng Jilong,TRUE,1
+46,China Aerospace Science and Technology,TRUE,1
+47,China Animal Husbandry,TRUE,1
+48,China Communications Bank,TRUE,1
+49,China Communications Construction,TRUE,1
+50,China Construction Bank,TRUE,1
+51,China Development Bank,TRUE,1
+52,China Eastern,TRUE,1
+53,China Electronics Corporation,TRUE,1
+54,China Energy Conservation,TRUE,1
+55,China Energy Engineering,TRUE,1
+56,China Everbright and Baofeng,TRUE,1
+57,China Fortune,TRUE,1
+58,China Galaxy Securities,TRUE,1
+59,China Gansu International Corp for Economic and Technical Cooperation,TRUE,1
+60,China GEM-led consortium,TRUE,1
+61,China General Nuclear,TRUE,1
+62,China Great Wall,TRUE,1
+63,China Henan International Cooperation,TRUE,1
+64,China Henan International Corporation,TRUE,1
+65,China Huadian,TRUE,1
+66,China International Marine Containers,TRUE,1
+67,China Iron and Steel Research Institute,TRUE,1
+68,China JinJiang Environment,TRUE,1
+69,China Launch and Tracking Control General,TRUE,1
+70,China Life,TRUE,1
+71,China Life and Ping An,TRUE,1
+72,China Light and Jiangxi Jianglian,TRUE,1
+73,China Lilongwe Grand,TRUE,1
+74,China Media Capital,TRUE,1
+75,China Merchants,TRUE,1
+76,China Merchants and China Communications Construction,TRUE,1
+77,China Mingshen Investment,TRUE,1
+78,China Minsheng Investment,TRUE,1
+79,China Mobile,TRUE,1
+80,China Molybdenum,TRUE,1
+81,China National Building Material,TRUE,1
+82,China National Chemical Engineering,TRUE,1
+83,China National Nuclear,TRUE,1
+84,China National Offshore Oil,TRUE,1
+85,China National Silicon (consortium of Shanghai state firms),TRUE,1
+86,China Nonferrous,TRUE,1
+87,China Ocean Shipping,TRUE,1
+88,China Orient,TRUE,1
+89,China Orient Asset Management,TRUE,1
+90,China Poly,TRUE,1
+91,China Power Investment,TRUE,1
+92,China Railway Construction,TRUE,1
+93,China Railway Construction and China Nonferrous,TRUE,1
+94,China Railway Construction and China Railway Engineering,TRUE,1
+95,China Railway Contruction,TRUE,1
+96,China Railway Corp,TRUE,1
+97,China Railway Corp and Norinco,TRUE,1
+98,China Railway Engineering,TRUE,1
+99,China Railway Rolling Stock,TRUE,1
+100,China Reform Holdings,TRUE,1
+101,China Reinsurance,TRUE,1
+102,China Resources,TRUE,1
+103,China Singyes,TRUE,1
+104,China Small and Medium Enterprise Investment,TRUE,1
+105,China South Industries,TRUE,1
+106,China Tianying,TRUE,1
+107,China Unicom,TRUE,1
+108,China Vanke,TRUE,1
+109,China Western Power Industrial,TRUE,1
+110,Chinalco,TRUE,1
+111,ChinaNetCentre,TRUE,1
+112,Chinese Academy of Sciences,TRUE,1
+113,Chint,TRUE,1
+114,Chongqing Foreign Trade and Economy Corporation,TRUE,1
+115,Chongqing Sokon,TRUE,1
+116,Chongqing USUM,TRUE,1
+117,CIC,TRUE,1
+118,CIC and Didi Kuaidi,TRUE,1
+119,CIC and Wise Road Capital,TRUE,1
+120,Cinda,TRUE,1
+121,Cinda and Union Life,TRUE,1
+122,Cindat,TRUE,1
+123,CITIC,TRUE,1
+124,CITIC-led fund,TRUE,1
+125,CNOOC,TRUE,1
+126,CNOOC and CNPC,TRUE,1
+127,CNPC,TRUE,1
+128,COFCO,TRUE,1
+129,COFCO and Hopu Investment,TRUE,1
+130,Contemporary Amperex Tech,TRUE,1
+131,Country Garden,TRUE,1
+132,Country Garden Holdings,TRUE,1
+133,Creat,TRUE,1
+134,CSR,TRUE,1
+135,Ctrip,TRUE,1
+136,Cultural Investment,TRUE,1
+137,Cybernaut,TRUE,1
+138,Dahua Group,TRUE,1
+139,Dalian Wanda,TRUE,1
+140,Dare Group,TRUE,1
+141,Didi Chuxing,TRUE,1
+142,Didi Kuadi,TRUE,1
+143,Dongfang Electric,TRUE,1
+144,Dongfeng,TRUE,1
+145,Dreal,TRUE,1
+146,ENN Energy,TRUE,1
+147,Envision Energy,TRUE,1
+148,Envivsion Energy,TRUE,1
+149,Everbright,TRUE,1
+150,Evergrande,TRUE,1
+151,Evergreen,TRUE,1
+152,Exim Bank,TRUE,1
+153,Feihe International,TRUE,1
+154,Film Carnival,TRUE,1
+155,Forise,TRUE,1
+156,Fortune Fountain Capital,TRUE,1
+157,Fosun,TRUE,1
+158,Fujian Construction Engineering,TRUE,1
+159,Fujian Thai Hot,TRUE,1
+160,Fuyao Glass,TRUE,1
+161,Gansu Gangtai,TRUE,1
+162,Gansu Tianqing,TRUE,1
+163,Geely Auto,TRUE,1
+164,Genertec,TRUE,1
+165,Genertec and Beijing SU Power,TRUE,1
+166,Genimous Investment,TRUE,1
+167,Genzon,TRUE,1
+168,Geo-Jade Petroleum,TRUE,1
+169,Goldleaf Jewelry,TRUE,1
+170,Goodbaby,TRUE,1
+171,GR Investment,TRUE,1
+172,Great Wall Industry,TRUE,1
+173,Great Wall Motor,TRUE,1
+174,Greenland-led consortium,TRUE,1
+175,Group of Shanghai state investors,TRUE,1
+176,GSR,TRUE,1
+177,Guangdong Heng Fu,TRUE,1
+178,Guangdong Midea,TRUE,1
+179,Guangdong New South,TRUE,1
+180,Guangdong Province and Huaneng,TRUE,1
+181,Guangdong Rising Asset Management,TRUE,1
+182,Guangxi Investment,TRUE,1
+183,Guangzhou R&F and CC Land,TRUE,1
+184,Guangzhou R&F Properties,TRUE,1
+185,Guanzhou Dongsong,TRUE,1
+186,Guizhou Transportation Planning,TRUE,1
+187,Guizhou Tyre,TRUE,1
+188,Guodian,TRUE,1
+189,Haier,TRUE,1
+190,Hailiang,TRUE,1
+191,Haitong Securities,TRUE,1
+192,Hangzhou Great Star,TRUE,1
+193,Hangzhou Great Star Industrial,TRUE,1
+194,Hangzhou Lianluo Interactive,TRUE,1
+195,Hanrui Cobalt and Qingyuan Keweike Mineral,TRUE,1
+196,Harbin Electric,TRUE,1
+197,Hebei Construction,TRUE,1
+198,Hebei Construction and Investment Group,TRUE,1
+199,Hebei Iron,TRUE,1
+200,Hebei Iron and Steel,TRUE,1
+201,Hebei Steel,TRUE,1
+202,Hebei Zhongbo Platinum,TRUE,1
+203,Heilongjiang Construction,TRUE,1
+204,Heilongjiang Grand Farm,TRUE,1
+205,Henan Civil Aviation,TRUE,1
+206,Henan International Cooperation,TRUE,1
+207,Henan Meijing,TRUE,1
+208,Henan Senyuan,TRUE,1
+209,Hengkang Medical,TRUE,1
+210,Hengtong Group,TRUE,1
+211,Highland Fund,TRUE,1
+212,Highsun,TRUE,1
+213,Hillhouse-led consortium,TRUE,1
+214,Hisense Group,TRUE,1
+215,HNA,TRUE,1
+216,Hongbo Group,TRUE,1
+217,Hongduo Group,TRUE,1
+218,Hongqiao,TRUE,1
+219,Hongshi,TRUE,1
+220,Hosen Capital,TRUE,1
+221,Hua Capital and CITIC,TRUE,1
+222,Huadian,TRUE,1
+223,Huadong,TRUE,1
+224,Huaneng,TRUE,1
+225,Huaneng and Shandong RuYi,TRUE,1
+226,Huapont,TRUE,1
+227,Huatai Securities,TRUE,1
+228,Huawei,TRUE,1
+229,Huaxin Cement,TRUE,1
+230,Huaxin Post and Telecom,TRUE,1
+231,Huayi Brothers,TRUE,1
+232,Huazhu Hotels,TRUE,1
+233,Hubei Fuxing Science,TRUE,1
+234,Humanwell,TRUE,1
+235,Humanwell Healthcare,TRUE,1
+236,Hunan Construction Engineering,TRUE,1
+237,Hunan TV,TRUE,1
+238,ICBC,TRUE,1
+239,IDG,TRUE,1
+240,IDG Capital,TRUE,1
+241,Inspur Group,TRUE,1
+242,JA Solar,TRUE,1
+243,JAC Motors,TRUE,1
+244,Jangho,TRUE,1
+245,JD.com,TRUE,1
+246,Jiangsu Changjiang,TRUE,1
+247,Jiangsu Hagong,TRUE,1
+248,Jiangsu Hengyuan,TRUE,1
+249,Jiangsu International,TRUE,1
+250,Jiangsu Longze,TRUE,1
+251,Jiangsu Nantong,TRUE,1
+252,Jiangsu Overseas Cooperation and Investment-led consortium,TRUE,1
+253,Jiangsu Shagang led consortium,TRUE,1
+254,Jiangsu Sunshine,TRUE,1
+255,Jiangsu Yonding,TRUE,1
+256,Jiangsu Yongding,TRUE,1
+257,Jiangxi Holitech,TRUE,1
+258,Jiangxi International Economic and Technical Cooperation,TRUE,1
+259,Jiangxi investors,TRUE,1
+260,Jiangxi Zhongmei,TRUE,1
+261,Jin Jiang Hotels,TRUE,1
+262,Jinhua Huajian,TRUE,1
+263,Jinko Solar,TRUE,1
+264,Jiquan Iron and Steel,TRUE,1
+265,Jumei,TRUE,1
+266,Keer Group,TRUE,1
+267,Kunming Iron,TRUE,1
+268,Lander Sports,TRUE,1
+269,Landsea,TRUE,1
+270,LeEco,TRUE,1
+271,Legend,TRUE,1
+272,Lenovo,TRUE,1
+273,Lifan,TRUE,1
+274,Liuhe,TRUE,1
+275,Logan Property and Nanshan Group,TRUE,1
+276,LONGi Green Energy,TRUE,1
+277,Luxshare,TRUE,1
+278,Luye,TRUE,1
+279,Luye Group,TRUE,1
+280,Luye Pharma,TRUE,1
+281,MCC,TRUE,1
+282,Meidu Holding,TRUE,1
+283,Mengniu,TRUE,1
+284,MIE,TRUE,1
+285,Ming Yan,TRUE,1
+286,Ming Yuan Silu,TRUE,1
+287,Minmetals,TRUE,1
+288,Minsheng,TRUE,1
+289,Moon Lake Investments,TRUE,1
+290,Nanshan Group,TRUE,1
+291,Nantong,TRUE,1
+292,Nantong Fujitsu,TRUE,1
+293,NetDragon,TRUE,1
+294,NetEase,TRUE,1
+295,New China Capital,TRUE,1
+296,Nine Dragons,TRUE,1
+297,Ningbo Jifeng,TRUE,1
+298,Ningbo Joyson,TRUE,1
+299,Ningxia investors (Oman Wangfang),TRUE,1
+300,Norinco,TRUE,1
+301,Oceanwide,TRUE,1
+302,Oceanwide Holdings,TRUE,1
+303,Oceanwide Holdings and IDG Capital,TRUE,1
+304,Orient Securities,TRUE,1
+305,Pagoda Investments,TRUE,1
+306,Perfect World Pictures,TRUE,1
+307,Phicomm,TRUE,1
+308,Ping An,TRUE,1
+309,Power Construction Corp,TRUE,1
+310,Power Construction Engineering,TRUE,1
+311,Primavera Capital,TRUE,1
+312,Qianhai Zone Authority,TRUE,1
+313,Qifeng New Material,TRUE,1
+314,Qihoo and Beijing Kunlun,TRUE,1
+315,Qingdao Doublestar,TRUE,1
+316,Qingdao Hengshun,TRUE,1
+317,Qingdao Hengshun Zhongsheng,TRUE,1
+318,Qingdao Lu Haifeng,TRUE,1
+319,Qingjian,TRUE,1
+320,Qumei Home Furnishing,TRUE,1
+321,Recon Group,TRUE,1
+322,Reignwood,TRUE,1
+323,Renren,TRUE,1
+324,Risen Energy,TRUE,1
+325,Rongsheng Heavy Industries,TRUE,1
+326,SAFE,TRUE,1
+327,Sailun,TRUE,1
+328,Sanghai Safbon,TRUE,1
+329,Sanpower,TRUE,1
+330,Sany Heavy,TRUE,1
+331,Sanyuan Foods,TRUE,1
+332,Sequoia Resources,TRUE,1
+333,Shaanxi Coal and Chemical,TRUE,1
+334,Shaanxi Ligeance,TRUE,1
+335,Shanda Group,TRUE,1
+336,Shanda Investment,TRUE,1
+337,Shandong Bright Ruby,TRUE,1
+338,Shandong Daiyin,TRUE,1
+339,Shandong Gaosu,TRUE,1
+340,Shandong Gold,TRUE,1
+341,Shandong Heavy,TRUE,1
+342,Shandong Heavy Unit,TRUE,1
+343,Shandong Hengyuan,TRUE,1
+344,Shandong Iron,TRUE,1
+345,Shandong Kerui,TRUE,1
+346,Shandong Landbridge,TRUE,1
+347,Shandong Linglong,TRUE,1
+348,Shandong Linglong Tire,TRUE,1
+349,Shandong Nanshan Aluminum,TRUE,1
+350,Shandong Ruyi,TRUE,1
+351,Shandong Sun Paper,TRUE,1
+352,Shandong Weigao,TRUE,1
+353,Shandong Yuhuang Chemical,TRUE,1
+354,Shanghai Auto,TRUE,1
+355,Shanghai Auto and Wuling,TRUE,1
+356,Shanghai Capital,TRUE,1
+357,Shanghai Construction,TRUE,1
+358,Shanghai Construction Group,TRUE,1
+359,Shanghai Electric,TRUE,1
+360,Shanghai Giant,TRUE,1
+361,Shanghai Giant-led consortium,TRUE,1
+362,Shanghai Gongbao,TRUE,1
+363,Shanghai Greenland,TRUE,1
+364,Shanghai Industrial and Primavera Capital,TRUE,1
+365,Shanghai Inesa,TRUE,1
+366,Shanghai International Group and Sanpower,TRUE,1
+367,Shanghai Lingang,TRUE,1
+368,Shanghai MicroPort Scientific,TRUE,1
+369,Shanghai Municipal,TRUE,1
+370,Shanghai Municipal Investment,TRUE,1
+371,Shanghai Pengxin,TRUE,1
+372,Shanghai Shenglong,TRUE,1
+373,Shanghai Shentong,TRUE,1
+374,Shanghai Stock Exchange,TRUE,1
+375,Shanghai Taison,TRUE,1
+376,Shanghai Tunnel Engineering,TRUE,1
+377,Shanghai United Real Estate,TRUE,1
+378,Shanghai Yuyuan Tourist Mart,TRUE,1
+379,Shanghai Zendai,TRUE,1
+380,Shanghai Zhongji,TRUE,1
+381,Shanghai-based consortium,TRUE,1
+382,Shanxi Building Material,TRUE,1
+383,Shenhua,TRUE,1
+384,Shenyang Blue Silver,TRUE,1
+385,Shenyang Lan Sa,TRUE,1
+386,Shenzhen Energy,TRUE,1
+387,Shenzhen Energy and China Development Bank,TRUE,1
+388,Shenzhen Genzon,TRUE,1
+389,Shenzhen Government,TRUE,1
+390,Shenzhen Hazens,TRUE,1
+391,Shenzhen Hepalink,TRUE,1
+392,Shenzhen Invengo,TRUE,1
+393,Shenzhen Metro,TRUE,1
+394,Shenzhen Yuhu,TRUE,1
+395,Shougang,TRUE,1
+396,Sichuan Department of Agriculture,TRUE,1
+397,Sichuan Hanlong,TRUE,1
+398,Sichuan Railway Industry,TRUE,1
+399,Sichuan Road and Bridge,TRUE,1
+400,Sichuan Xinglida,TRUE,1
+401,Sino Great Wall,TRUE,1
+402,Sino-Europe Sports,TRUE,1
+403,Sinocare,TRUE,1
+404,Sinochem,TRUE,1
+405,Sinoenergy,TRUE,1
+406,Sinolight,TRUE,1
+407,Sinoma,TRUE,1
+408,Sinomach,TRUE,1
+409,Sinopec,TRUE,1
+410,Sinopec and Huadian,TRUE,1
+411,Sinosteel,TRUE,1
+412,Solargiga,TRUE,1
+413,Songcheng Performance,TRUE,1
+414,Southern Power,TRUE,1
+415,Southern Power Grid,TRUE,1
+416,Spearhead,TRUE,1
+417,StarTimes,TRUE,1
+418,State Construction Engineering,TRUE,1
+419,State Development and Investment,TRUE,1
+420,State Development and Investment Corp,TRUE,1
+421,State Development and Investment Corp and Anhui Conch,TRUE,1
+422,State Development and Investment Corp.,TRUE,1
+423,State Energy Investment,TRUE,1
+424,State Grid,TRUE,1
+425,State Power Investment,TRUE,1
+426,Suning,TRUE,1
+427,Sunlon,TRUE,1
+428,Sunshine Insurance,TRUE,1
+429,Taikang Life,TRUE,1
+430,Taiping Life,TRUE,1
+431,Tebian Electric,TRUE,1
+432,Tebian Electric Apparatus,TRUE,1
+433,Tempus,TRUE,1
+434,Tencent,TRUE,1
+435,Tencent and Legend,TRUE,1
+436,Tencent and Renren,TRUE,1
+437,Tenecent,TRUE,1
+438,Texhong Textile,TRUE,1
+439,Three Gorges,TRUE,1
+440,Three Gorges and China Development Bank,TRUE,1
+441,Tianshui Huatian,TRUE,1
+442,Tibet Summit and NextView Capital,TRUE,1
+443,Tidfore Heavy,TRUE,1
+444,Tidfore Heavy Equipment,TRUE,1
+445,Triangle Tyre,TRUE,1
+446,Trina Solar,TRUE,1
+447,Truking Group,TRUE,1
+448,Tsinghua Unigroup,TRUE,1
+449,Tsinghua University,TRUE,1
+450,Tsingshan Steel,TRUE,1
+451,United Energy,TRUE,1
+452,Uphill Investment,TRUE,1
+453,Vanke,TRUE,1
+454,Venus Medtech,TRUE,1
+455,Vision Investment,TRUE,1
+456,Visual China,TRUE,1
+457,Wanfeng Auto,TRUE,1
+458,Wangsu S&T,TRUE,1
+459,Wanxiang,TRUE,1
+460,Western Power,TRUE,1
+461,WH Group,TRUE,1
+462,Wingtech,TRUE,1
+463,Wison Energy,TRUE,1
+464,Wolong Electric,TRUE,1
+465,Wuxi No.1 Cotton Mill,TRUE,1
+466,WuXi Pharma,TRUE,1
+467,Xian Longi,TRUE,1
+468,Xinjiang Beiken Energy Engineering,TRUE,1
+469,Xinjiang Communications Construction,TRUE,1
+470,Xinjiang Goldwind and Power Construction Corp,TRUE,1
+471,Xinjiang Goldwing and China Energy Conservation,TRUE,1
+472,Xinyi Glass,TRUE,1
+473,Xiwang Group,TRUE,1
+474,Xuzhou Construction Machinery,TRUE,1
+475,Yankuang,TRUE,1
+476,Yanlord-led consortium,TRUE,1
+477,Yantai Xinchao,TRUE,1
+478,Yida,TRUE,1
+479,Yili Industrial,TRUE,1
+480,Yonghui Superstores Co.,TRUE,1
+481,Yu Kuo,TRUE,1
+482,Yuanda,TRUE,1
+483,YuanMing Capital led consortium,TRUE,1
+484,Yunda,TRUE,1
+485,Yunnan Construction Engineering,TRUE,1
+486,Yunnan Dongyan,TRUE,1
+487,Yunnan Energy Investment,TRUE,1
+488,Yunnan Provincial Energy,TRUE,1
+489,Yunyi Guokai Shanghai,TRUE,1
+490,Zhejiang Hengyi,TRUE,1
+491,Zhejiang Huayou,TRUE,1
+492,Zhejiang Jinke,TRUE,1
+493,Zhejiang Rongsheng,TRUE,1
+494,Zhejiang Semir,TRUE,1
+495,Zhenfa New Energy Science,TRUE,1
+496,Zhengzhou Coal,TRUE,1
+497,Zhonghong,TRUE,1
+498,Zhonghong Zhuoye,TRUE,1
+499,Zhongman Petroleum,TRUE,1
+500,Zhongrong Xinda,TRUE,1
+501,Zhongrun Resources,TRUE,1
+502,Zhongwang,TRUE,1
+503,Zhuhai Port Holdings,TRUE,1
+504,Zhuhai Seine Technology and Legend,TRUE,1
+505,Zhuhai Zhenrong,TRUE,1
+506,Zhuzhou Kibing,TRUE,1
+507,Zijin Mining,TRUE,1
+508,ZOJE Resources,TRUE,1
+509,Zongshen Industrial,TRUE,1
+510,ZTE,TRUE,1
+511,Canada,FALSE,2
+512,Spain,FALSE,2
+513,Brazil,FALSE,2
+514,India,FALSE,2
+515,Indonesia,FALSE,2
+516,Pakistan,FALSE,2
+517,Russian Federation,FALSE,2
+518,Singapore,FALSE,2
+519,South Korea,FALSE,2
+520,Thailand,FALSE,2
+521,USA,FALSE,2
+522,Belgium,FALSE,2
+523,Netherlands,FALSE,2
+524,Cambodia,FALSE,2
+525,Mozambique,FALSE,2
+526,Finland,FALSE,2
+527,Germany,FALSE,2
+528,Iraq,FALSE,2
+529,Britain,FALSE,2
+530,Egypt,FALSE,2
+531,Ireland,FALSE,2
+532,Zambia,FALSE,2
+533,Kenya,FALSE,2
+534,Australia,FALSE,2
+535,Democratic Republic of the Congo,FALSE,2
+536,Turkey,FALSE,2
+537,South Africa,FALSE,2
+538,New Zealand,FALSE,2
+539,Malaysia,FALSE,2
+540,Barbados,FALSE,2
+541,Bolivia,FALSE,2
+542,Kyrgyzstan,FALSE,2
+543,Maldives,FALSE,2
+544,Israel,FALSE,2
+545,Argentina,FALSE,2
+546,Chad,FALSE,2
+547,Czech Republic,FALSE,2
+548,UAE,FALSE,2
+549,Italy,FALSE,2
+550,Norway,FALSE,2
+551,Switzerland,FALSE,2
+552,Chile,FALSE,2
+553,Laos,FALSE,2
+554,Afghanistan,FALSE,2
+555,Angola,FALSE,2
+556,Bangladesh,FALSE,2
+557,British Virgin Islands,FALSE,2
+558,Brunei,FALSE,2
+559,Cameroon,FALSE,2
+560,Colombia,FALSE,2
+561,Congo,FALSE,2
+562,Croatia,FALSE,2
+563,Cuba,FALSE,2
+564,East Timor,FALSE,2
+565,Ecuador,FALSE,2
+566,Equatorial Guinea,FALSE,2
+567,Eritrea,FALSE,2
+568,Ethiopia,FALSE,2
+569,Ghana,FALSE,2
+570,Guinea,FALSE,2
+571,Iran,FALSE,2
+572,Jamaica,FALSE,2
+573,Latvia,FALSE,2
+574,Madagascar,FALSE,2
+575,Montenegro,FALSE,2
+576,Myanmar,FALSE,2
+577,Namibia,FALSE,2
+578,Nigeria,FALSE,2
+579,Panama,FALSE,2
+580,Papua New Guinea,FALSE,2
+581,Philippines,FALSE,2
+582,Qatar,FALSE,2
+583,Rwanda,FALSE,2
+584,Sao Tome,FALSE,2
+585,Saudi Arabia,FALSE,2
+586,Senegal,FALSE,2
+587,Serbia,FALSE,2
+588,South Sudan,FALSE,2
+589,Sri Lanka,FALSE,2
+590,Sudan,FALSE,2
+591,Tanzania,FALSE,2
+592,Uganda,FALSE,2
+593,Yemen,FALSE,2
+594,Venezuela,FALSE,2
+595,France,FALSE,2
+596,Belarus,FALSE,2
+597,Gabon,FALSE,2
+598,Ivory Coast,FALSE,2
+599,Jordan,FALSE,2
+600,Kazakhstan,FALSE,2
+601,Kuwait,FALSE,2
+602,Liberia,FALSE,2
+603,Mongolia,FALSE,2
+604,Nepal,FALSE,2
+605,Ukraine,FALSE,2
+606,Vietnam,FALSE,2
+607,Benin,FALSE,2
+608,Sweden,FALSE,2
+609,Malawi,FALSE,2
+610,Luxembourg,FALSE,2
+611,Algeria,FALSE,2
+612,Uzbekistan,FALSE,2
+613,Georgia,FALSE,2
+614,Greece,FALSE,2
+615,Bosnia,FALSE,2
+616,Malta,FALSE,2
+617,Antigua and Barbuda,FALSE,2
+618,Djibouti,FALSE,2
+619,Mali,FALSE,2
+620,Peru,FALSE,2
+621,Zimbabwe,FALSE,2
+622,Botswana,FALSE,2
+623,Fiji,FALSE,2
+624,Morocco,FALSE,2
+625,Sierra Leone,FALSE,2
+626,Japan,FALSE,2
+627,Mexico,FALSE,2
+628,Oman,FALSE,2
+629,Turkmenistan,FALSE,2
+630,Poland,FALSE,2
+631,Portugal,FALSE,2
+632,Denmark,FALSE,2
+633,Mauritius,FALSE,2
+634,Slovenia,FALSE,2
+635,Austria,FALSE,2
+636,Romania,FALSE,2
+637,Guinea-Bissau,FALSE,2
+638,Haiti,FALSE,2
+639,Macedonia,FALSE,2
+640,Trinidad-Tobago,FALSE,2
+641,Niger,FALSE,2
+642,Azerbaijan,FALSE,2
+643,Moldova,FALSE,2
+644,Bahamas,FALSE,2
+645,Cape Verde,FALSE,2
